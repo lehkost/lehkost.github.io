@@ -22,7 +22,6 @@ title: Frank Fischer
 * [Google Scholar](https://scholar.google.com/citations?user=Rr4N3OwAAAAJ)
 
 ### Current Main Projects
-
 * [DraCor](https://dracor.org/) – multilingual Drama Corpora platform (a showcase for [Programmable Corpora](https://doi.org/10.5281/zenodo.4284002))
 * [SSHOC](https://www.sshopencloud.eu/) (Social Sciences and Humanities Open Cloud) – steering committee and WP leader for DARIAH (2019–2022)
 * [CLS INFRA](https://twitter.com/jedmond36/status/1328021465774567426) (Computational Literary Studies) – starting early 2021
