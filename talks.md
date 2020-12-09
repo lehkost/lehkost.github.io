@@ -8,7 +8,7 @@ Invited talks, conference and workshop slides.
 ### 2020
 
 <small>2020-12-08 · University of Wuppertal (virtual) 🇩🇪 ([IZED Lecture](https://www.ized.uni-wuppertal.de/de/aktuelles/ansicht/artikel/2020/11/26/5255-08122020-vortrag-dracor-v10-eine-forschungsnahe-infrastruktur-fuer-die-digitalen-literaturwissenschaften.html))</small><br />
-DraCor V1.0 – Eine forschungsnahe Infrastruktur für die digitalen Literaturwissenschaften
+[DraCor V1.0 – Eine forschungsnahe Infrastruktur für die digitalen Literaturwissenschaften](https://bit.ly/wupcor)
 
 <small>2020-11-25 · San Sebastián (virtual) 🇪🇸 ([Workshop de INTELE](http://ixa2.si.ehu.es/intele/?q=actividades))</small><br />
 [DARIAH, la infraestructura de investigación digital para las Artes y Humanidades](https://bit.ly/dariah-intele)
