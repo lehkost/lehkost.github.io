@@ -12,6 +12,7 @@ title: Projects
 * [World Literature in Wikipedia](https://data.weltliteratur.net/) (2015–)
 * [Vossian Antonomasia](https://vossanto.weltliteratur.net/) (2017–)
 * Tool Usage in the Digital Humanities (2019–)
+* [Database of German-Language One-Act Plays](https://einakter.dracor.org/) (2020–)
 
 ### Finished Projects
 * [Digital Literary Studies Research Group](https://hum.hse.ru/digital/rusdracor/) (Higher School of Economics, Moscow) (2017–2018)

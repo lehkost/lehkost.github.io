@@ -11,7 +11,7 @@ Invited talks, conference and workshop slides.
 [DraCor V1.0 – Eine forschungsnahe Infrastruktur für die digitalen Literaturwissenschaften](https://bit.ly/wupcor)
 
 <small>2020-11-25 · San Sebastián (virtual) 🇪🇸 ([Workshop de INTELE](http://ixa2.si.ehu.es/intele/?q=actividades))</small><br />
-[DARIAH, la infraestructura de investigación digital para las Artes y Humanidades](https://bit.ly/dariah-intele)
+[DARIAH, la infraestructura de investigación digital para las Artes y Humanidades](https://bit.ly/dariah-intele) ([MP4](http://ixa2.si.ehu.eus/intele/sites/default/files/videos/04.frank_fisher.mp4))
 
 <small>2020-11-18 · Zagreb (virtual) 🇭🇷 (DARIAH Annual Event 2020)</small><br />
 [Cracking digital archival research and metadata: Archives Portal Europe](https://doi.org/10.5281/zenodo.4280565)
