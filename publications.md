@@ -50,9 +50,9 @@ title: Publications
 
 -   Frank Fischer, Daniil Skorinkin: **Social Network Analysis in
     Russian Literary Studies.** In: Daria Gritsenko, Mariëlle Wijermars,
-    Mikhail Kopotev (eds.): [The Palgrave Handbook of Digital Russia
-    Studies.](https://www.palgrave.com/gp/book/9783030428549) Palgrave Macmillan 2021, pp. 517–536.
-    ([doi:10.1007/978-3-030-42855-6_29](https://link.springer.com/chapter/10.1007/978-3-030-42855-6_29))
+    Mikhail Kopotev (eds.): The Palgrave Handbook of Digital Russia
+    Studies. Palgrave Macmillan 2021, pp. 517–536.
+    ([doi:10.1007/978-3-030-42855-6_29](https://doi.org/10.1007/978-3-030-42855-6_29))
 
 #### 2020
 

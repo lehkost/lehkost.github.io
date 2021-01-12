@@ -5,6 +5,11 @@ title: Talks/Slides
 
 Invited talks, conference and workshop slides.
 
+### 2021
+
+<small>2021-01-09 · University of Leipzig, Institute for Theatre Studies (virtual) 🇩🇪 ([Workshop](https://www.gko.uni-leipzig.de/institut-fuer-theaterwissenschaft/praxis/szenische-projekte-workshops/#c384167))</small><br />
+[DraCor: Dramenanalyse digital](https://bit.ly/unileicor)
+
 ### 2020
 
 <small>2020-12-08 · University of Wuppertal (virtual) 🇩🇪 ([IZED Lecture](https://www.ized.uni-wuppertal.de/de/aktuelles/ansicht/artikel/2020/11/26/5255-08122020-vortrag-dracor-v10-eine-forschungsnahe-infrastruktur-fuer-die-digitalen-literaturwissenschaften.html))</small><br />
