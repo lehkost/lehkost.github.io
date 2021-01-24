@@ -5,11 +5,15 @@ title: Frank Fischer
 
 ### Affiliation
 * Ass. Prof. for **Digital Humanities** at School of Linguistics, Higher School of Economics, Moscow ([homepage](https://www.hse.ru/en/org/persons/182492735))
-* Director of **[DARIAH-EU](https://www.dariah.eu/)** (Digital Research Infrastructure for the Arts and Humanities)
+* Director of **[DARIAH-EU](https://www.dariah.eu/)** (Digital Research Infrastructure for the Arts and Humanities), Berlin
 
 ### Education
 * PhD in Literature (University of Jena), 2012
 * MA in Computer Science and German Studies (University of Leipzig), 2003
+
+### Visiting Professorships
+* University of Sheffield (Information School), 2017
+* Aarhus University, 2018
 
 ### Research Interests
 * Computational Literary Studies, World Literature, Network Analysis, Artificial Neural Networks for the Study of Literature, Linked Open Data, Research Infrastructures for Literary Studies
