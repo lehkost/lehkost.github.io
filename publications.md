@@ -45,6 +45,12 @@ title: Publications
     Jannidis (ed.): Digitale Literaturwissenschaft (Contributions to the
     DFG Symposium at Villa Vigoni, 9--13 October 2017). Stuttgart:
     Metzler. (forthcoming 2021)
+-   Frank Fischer, Manuel Burghardt, Jan Luhmann, Laure Barbot, Yoann
+    Moranville, Alireza Zarei: **Die Werkbänke der Digital Humanities:
+    Zur Rolle von Tools und Software für die Forschungsarbeit.**
+    In: vDHd2021: »Fabrikation von Erkenntnis: Experimente in den Digital
+    Humanities«. 26 March 2021.
+    ([announcement](https://twitter.com/umblaetterer/status/1356214366543163400))
 
 #### 2021
 
