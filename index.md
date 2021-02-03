@@ -23,9 +23,10 @@ title: Frank Fischer
 * GitHub: [lehkost](https://github.com/lehkost)
 * ORCID: [0000-0003-2419-6629](https://orcid.org/0000-0003-2419-6629)
 * dblp: [13/3984-5](https://dblp.org/pid/13/3984-5)
+* Index of Digital Humanities Conferences: [authors/2614](https://dh-abstracts.library.cmu.edu/authors/2614)
 * [Google Scholar](https://scholar.google.com/citations?user=Rr4N3OwAAAAJ)
 
 ### Current Main Projects
 * [DraCor](https://dracor.org/) – multilingual Drama Corpora platform (a showcase for [Programmable Corpora](https://doi.org/10.5281/zenodo.4284002))
 * [SSHOC](https://www.sshopencloud.eu/) (Social Sciences and Humanities Open Cloud) – steering committee and WP leader for DARIAH (2019–2022)
-* [CLS INFRA](https://twitter.com/jedmond36/status/1328021465774567426) (Computational Literary Studies) – starting early 2021
+* [CLS INFRA](https://twitter.com/jedmond36/status/1328021465774567426) (Computational Literary Studies) – starting in March 2021

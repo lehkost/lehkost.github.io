@@ -305,7 +305,7 @@ title: Publications
     Place? On the Analysis of Temporal Expressions in Large Corpora.**
     In: DH2015: »Global Digital Humanities«. 29 June--3 July 2015.
     University of Western Sydney. (URL:
-    <https://people.mpi-inf.mpg.de/~jstroetge/papers/2015-DH-FischerStroetgen-WhenDoesGermanLiteratureTakePlace.pdf>)
+    <https://dbs.ifi.uni-heidelberg.de/files/Team/jannik/publications/fischer-stroetgen_temporal-expressions-in-literary-corpora_dh2015_final_2015-03-01.pdf>)
 -   Peer Trilcke, Frank Fischer, Dario Kampkaspar: **Digital Network
     Analysis of Dramatic Texts.** In: DH2015: »Global Digital
     Humanities«. 29 June--3 July 2015. University of Western Sydney.
