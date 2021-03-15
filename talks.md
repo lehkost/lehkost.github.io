@@ -7,6 +7,9 @@ Invited talks, conference and workshop slides.
 
 ### 2021
 
+<small>2021-02-26 · University of Wuppertal (virtual) 🇩🇪 ([Digitale Editionen – Masterclass](https://www.i-d-e.de/aktivitaeten/schools/winter-school-2021-wuppertal/))</small><br />
+Nachnutzung und Analyse: CATMA und DraCor
+
 <small>2021-01-09 · University of Leipzig, Institute for Theatre Studies (virtual) 🇩🇪 ([Workshop](https://www.gko.uni-leipzig.de/institut-fuer-theaterwissenschaft/praxis/szenische-projekte-workshops/#c384167))</small><br />
 [DraCor: Dramenanalyse digital](https://bit.ly/unileicor)
 

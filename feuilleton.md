@@ -215,17 +215,17 @@ Feuilleton articles and some [translations](#translations).
     Literatur«, entwirft wieder ein ausgewogenes Panorama
     deutschsprachiger
     Gegenwartsliteratur.**](http://www.satt.org/literatur/04_12_volltext.html)
-    In: satt.org, 7 December 2004.
+    In: satt.org, 7 December 2004.
 -   Frank Fischer: [**Produkte der Siebzigerjahre. Ein Interview mit
     Christian Klippel über seinen vor 25 Jahren erschienenen
     Bundeswehrroman »456 und der Rest von heute«, über Horváth und
     Paris, den MÄRZ-Verlag und unveröffentlichte
     Bücher**](http://www.satt.org/literatur/04_11_klippel.html) In:
     satt.org, 16 November 2004.
--   Frank Fischer: [**Ein Job wie jeder andre. Vor 25 Jahren erschien
-    Christian Klippels Bundeswehrroman »456 und der Rest von
-    heute«.**](https://web.archive.org/web/20120111114750/http://www.titel-magazin.de/artikel/1518.html)
-    In: TITEL-Magazin, 9 August 2004.
+-   Frank Fischer: **Ein Job wie jeder andre. Vor 25 Jahren erschien
+    Christian Klippels Bundeswehrroman »456 und der Rest von heute«.**
+    In: TITEL-Kulturmagazin, 9 August 2004.
+    ([doi:10.5281/zenodo.4604709](https://doi.org/10.5281/zenodo.4604709))
 -   Frank Fischer: [**Kurzes Leben, lange Hälse. Giorgio Vasaris
     Parmigianino-Biografie aus dem Jahr 1568 in einer
     Neuübersetzung.**](http://www.satt.org/kunst/04_08_vasari.html) In:
