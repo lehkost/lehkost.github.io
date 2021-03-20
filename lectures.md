@@ -142,9 +142,23 @@ DH Lecture 2019/20
     желающих)](https://lehkost.github.io/slides/2020-02-29-dh-lecture/index.html)
 -   2020-03-14 · Коворкинг и техническая консультация
 -   2020-03-21 · Ваши презентации групповых исследований № 2
--   2020-04-11 · Цифровое сохранение культурного наследия. XML как
-    способ хранения данных в привязке к тексту; стандарт TEI
--   2020-04-18 · XML и TEI: способы работы с ними (практика)
+-   2020-04-11 · [8th DH Lecture -- Цифровое сохранение культурного наследия. XML как
+    способ хранения данных в привязке к тексту; стандарт
+    TEI](https://docs.google.com/presentation/d/1-YP11JzQOuw4f37nTxZHi3bYJidiIYFD8cQDx7gXSP4/edit?usp=sharing)
+-   2020-04-18 · [9th DH Lecture -- XML и TEI: способы работы с ними
+    (практика)](https://drive.google.com/file/d/1bJziofJHlDPZlmTHo9mM7DyN8tJeqKd9/view?usp=sharing)
+
+DH Lecture 2020/21
+------------------
+
+-   2021-02-06 · [1st DH Lecture -- Что за Digital Humanities и зачем они нужны?](https://danilsko.github.io/slides/dhminor2021/intro2021)
+-   2021-02-13 · [2nd DH Lecture -- Идея Distant Reading -- Корпусные методы в Digital Humanities -- Корпусные менеджеры](https://danilsko.github.io/slides/dhminor2021/distantreading2021)
+-   2021-02-20 · [3rd DH Lecture -- Стилометрия -- Библиотека Stylo](https://docs.google.com/presentation/d/11UErrqKG3xvZ0x2JDpU_jzcmSda_TbtJxZCGS-ikbN0/edit?usp=sharing)
+-   2021-02-27 · [4th DH Lecture -- Продвинутая стилометрия](https://slides.com/danilsko/stylometry_minor2021_part_2)
+-   2021-03-06 · Защита проектов 1 -- Командная презентация ([Порядок выступлений](https://docs.google.com/spreadsheets/d/1z0Y3aA5wJ4pYrei4fsgeGSHTvOpnETysbLCEEAwbsqg/edit?usp=sharing))
+-   2021-03-13 · [5th DH Lecture -- Сетевой анализ в гуманитарных науках (лекция, начало практики в Gephi)](https://bit.ly/38APGZt)
+-   2021-03-20 · [6th DH Lecture -- Сетевой анализ: продолжение практики в Gephi, продвинутые возможности, щепотка программирования (для желающих)](https://bit.ly/3s40d7i)
+-   2021-04-03 · Зачетная неделя: защита проектов — командная презентация
 
 For general info and material, check [our
 Wiki](https://wiki.dh-minor.org/). -- Student projects and data sets
