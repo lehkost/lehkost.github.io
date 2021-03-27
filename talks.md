@@ -7,6 +7,9 @@ Invited talks, conference and workshop slides.
 
 ### 2021
 
+<small>2021-03-26 · (virtual) ([vDHd2021](https://vdhd2021.hypotheses.org/))</small><br />
+[Die Werkbänke der Digital Humanities: Zur Rolle von Tools und Software für die Forschungsarbeit](https://doi.org/10.5281/zenodo.4639228)
+
 <small>2021-02-26 · University of Wuppertal (virtual) 🇩🇪 ([Digitale Editionen – Masterclass](https://www.i-d-e.de/aktivitaeten/schools/winter-school-2021-wuppertal/))</small><br />
 Nachnutzung und Analyse: CATMA und DraCor
 
