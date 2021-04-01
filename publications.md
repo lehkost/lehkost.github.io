@@ -95,7 +95,7 @@ title: Publications
     einer digitalen Methode in Form des Kartenspiels »Dramenquartett«.**
     In: DHd2020: »Spielräume«. 2--6 March 2020. Book of Abstracts.
     Paderborn University, pp. 167--171.
-    ([doi:10.5281/zenodo.3666690](https://zenodo.org/record/3666690/preview/2020_DHd_BookOfAbstracts-web.pdf#page=169))
+    ([doi:10.5281/zenodo.4621906](https://doi.org/10.5281/zenodo.4621906))
 -   Jennifer Edmond, Frank Fischer, Laurent Romary, Toma Tasovac:
     **Springing the Floor for a Different Kind of Dance: Building DARIAH
     as a Twenty-First-Century Research Infrastructure for the Arts and
@@ -165,7 +165,7 @@ title: Publications
     Humanities: multimedial & multimodal«. 25--29 March 2019. Book of
     Abstracts. Johannes Gutenberg University Mainz/Goethe University
     Frankfurt, pp. 194--197.
-    ([doi:10.5281/zenodo.2596094](https://zenodo.org/record/2596095/preview/2019_DHd_BookOfAbstracts_web.pdf#page=195))
+    ([doi:10.5281/zenodo.4622062](https://doi.org/10.5281/zenodo.4622062))
 -   Frank Fischer, Marina Akimova, Boris Orekhov: **Data-Driven
     Formalism \[preface\].** In: Moscow Formalism and Literary History.
     Special Issue of the Journal of Literary Theory. Vol. 13, Issue 1.
@@ -221,7 +221,7 @@ title: Publications
     digitalen Literaturwissenschaft.** In: DHd2018: »Kritik der
     digitalen Vernunft«. 26 February--2 March 2018, University of
     Cologne. Book of Abstracts, pp. 261--266.
-    ([hal-01787558](https://hal.archives-ouvertes.fr/hal-01787558))
+    ([doi:10.5281/zenodo.4622376](https://doi.org/10.5281/zenodo.4622376))
 -   Peer Trilcke, Frank Fischer: **Literaturwissenschaft als Hackathon.
     Zur Praxeologie der Digital Literary Studies und ihren epistemischen
     Dingen.** In: Zeitschrift für digitale Geisteswissenschaften (ZfdG).
@@ -269,15 +269,15 @@ title: Publications
     **»Der Helmut Kohl unter den Brotaufstrichen«. Zur Extraktion
     vossianischer Antonomasien aus großen Zeitungskorpora.** In:
     DHd2017: »Digitale Nachhaltigkeit«. 13--18 February 2017. Book of
-    Abstracts. University of Bern, pp. 120--124. (URL:
-    <http://www.dhd2017.ch/wp-content/uploads/2017/03/Abstractband_def3_M%C3%A4rz.pdf#page=122>)
+    Abstracts. University of Bern, pp. 120--124.
+    ([doi:10.5281/zenodo.4646126](https://doi.org/10.5281/zenodo.4646126))
 -   Peer Trilcke, Frank Fischer, Mathias Göbel, Dario Kampkaspar,
     Christopher Kittel: **Netzwerkdynamik, Plotanalyse -- Zur
     Visualisierung und Berechnung der ›progressiven Strukturierung‹
     literarischer Texte.** In: DHd2017: »Digitale Nachhaltigkeit«.
     13--18 February 2017. Book of Abstracts. University of Bern,
-    pp. 175--180. (URL:
-    <http://www.dhd2017.ch/wp-content/uploads/2017/03/Abstractband_def3_M%C3%A4rz.pdf#page=177>)
+    pp. 175--180.
+    ([doi:10.5281/zenodo.4622799](https://doi.org/10.5281/zenodo.4622799))
 
 #### 2016
 
@@ -322,12 +322,12 @@ title: Publications
     Historiography«. Munich, 12 March 2015.
 -   Frank Fischer, Jannik Strötgen: **Wann findet die deutsche Literatur
     statt? Zur Untersuchung von Zeitausdrücken in großen Korpora.** In:
-    DHd2015: »Von Daten zu Erkenntnissen«. Graz, 27 February 2015. (URL:
-    <https://dbs.ifi.uni-heidelberg.de/files/Team/jannik/publications/FischerStroetgen_DHd2015_WannFindetDieDeutscheLiteraturStatt.pdf>)
+    DHd2015: »Von Daten zu Erkenntnissen«. Graz, 27 February 2015.
+    ([doi:10.5281/zenodo.4623384](https://doi.org/10.5281/zenodo.4623384))
 -   Peer Trilcke, Frank Fischer, Dario Kampkaspar: **Digitale
     Netzwerkanalyse dramatischer Texte.** In: DHd2015: »Von Daten zu
-    Erkenntnissen«. Graz, 25 February 2015. (URL:
-    <http://gams.uni-graz.at/o:dhd2015.abstracts-vortraege#page=36>)
+    Erkenntnissen«. Graz, 25 February 2015.
+    ([doi:10.5281/zenodo.4623288](https://doi.org/10.5281/zenodo.4623288))
 
 #### 2014
 
