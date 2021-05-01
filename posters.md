@@ -3,7 +3,7 @@ layout: page
 title: Posters
 ---
 
-… for conferences (2016–2020).
+… for conferences (2016–2021).
 
 *Frank Fischer, Christopher Kittel, Peer Trilcke, Mathias Göbel, Andreas
 Vogel, Hanna-Lena Meiners, Dario Kampkaspar:*\
@@ -11,6 +11,7 @@ Vogel, Hanna-Lena Meiners, Dario Kampkaspar:*\
 (DHd2016, Leipzig)**\
 [Best Poster Award](http://dig-hum.de/gewinner-des-posterawards-2016) 🏆
 -- [figshare](https://doi.org/10.6084/m9.figshare.3101203) (poster) ·
+[zenodo](https://doi.org/10.5281/zenodo.4645054) (abstract) ·
 [dlina.github.io](https://dlina.github.io/Distant-Reading-Showcase-Poster-DHd2016-Leipzig/)
 (blog post)
 
@@ -18,7 +19,8 @@ Vogel, Hanna-Lena Meiners, Dario Kampkaspar:*\
 Trilcke:*\
 **Cäsar Flaischlens »Graphische Litteratur-Tafel« digital (DHA2016,
 Vienna)**\
-[figshare](https://doi.org/10.15131/shef.data.4772182) (poster) --
+[figshare](https://doi.org/10.15131/shef.data.4772182) (poster) ·
+[zenodo](https://doi.org/10.5281/zenodo.4622336) (abstract, DHd2018) ·
 [weltliteratur.net](https://weltliteratur.net/A-Giant-1890-Flowchart-of-Foreign-Influences-on-German-Literature/)
 (blog post)
 
@@ -26,16 +28,18 @@ Vienna)**\
 Trilcke, Jana Wolf:*\
 **Dramenquartett -- Eine didaktische Intervention (DHd2018, Cologne)**\
 [Best Poster
-Award](https://texperimentales.hypotheses.org/2462#Preisverleihung) 🏆 --
+Award](https://texperimentales.hypotheses.org/2462#Preisverleihung) 🏆 ·
 [figshare](https://doi.org/10.6084/m9.figshare.5926363) (poster) ·
+[zenodo](https://doi.org/10.5281/zenodo.4622597) (abstract) ·
 [Twitter](https://twitter.com/umblaetterer/status/969219085585313792)
 
 *Tatyana Orlova, Veronika Faynberg, Frank Fischer, Svetlana Lashchuk,
 German Palchikov, Ivan Pozdniakov, Evgenia Shlosman:*\
 **Netzwerkanalytischer Blick auf die Dramen Anton Tschechows (DHd2018,
 Cologne)**\
-2nd Best Poster Award 🥈 --
-[figshare](https://doi.org/10.6084/m9.figshare.6410909) (poster)
+2nd Best Poster Award 🥈 ·
+[figshare](https://doi.org/10.5281/zenodo.4622374) (poster) ·
+[zenodo](https://doi.org/10.5281/zenodo.4622597) (abstract)
 
 *Frank Fischer, Anika Schultz, Christopher Kittel, Elisa Beshero-Bondar,
 Steffen Martus, Peer Trilcke, Jana Wolf, Ingo Börner, Angelika Hechtl,
@@ -43,6 +47,7 @@ Daniil Skorinkin, Tatiana Orlova, Carsten Milling, Christine Ivanovic:*\
 **Brecht Beats Shakespeare! A Card-Game Introduction to the Network
 Analysis of European Drama (DH2018, Ciudad de México)**\
 [figshare](https://doi.org/10.6084/m9.figshare.6667424) (poster) ·
+[dh2018.adho.org](https://dh2018.adho.org/?p=9465) (abstract) ·
 [Twitter](https://twitter.com/umblaetterer/status/1012048790730223621)
 
 *Quinn Dombrowski, Frank Fischer, Jennifer Edmond, Toma Tasovac, Marco
@@ -80,7 +85,7 @@ Riesendrama »Die letzten Tage der Menschheit« (DHd2020, Paderborn)**\
 [figshare](https://doi.org/10.6084/m9.figshare.11917902) (poster) ·
 [Twitter
 thread](https://twitter.com/umblaetterer/status/1235556225128886277) ·
-[zenodo](https://zenodo.org/record/3666690/preview/2020_DHd_BookOfAbstracts-web.pdf#page=280)
+[zenodo](https://doi.org/10.5281/zenodo.4621760)
 (abstract) ·
 [weltliteratur.net](https://weltliteratur.net/theatre-on-mars/) (blog
 post)

@@ -5,6 +5,12 @@ title: Feuilleton
 
 Feuilleton articles and some [translations](#translations).
 
+### 2021
+
+-   Julia Nether, Frank Fischer: [**Der Mai in der Literatur
+    \[interview\].**](https://www.br.de/radio/bayern2/programmkalender/ausstrahlung-2460628.html)
+    In: Bayern 2, radioWelt, 30 April 2021.
+
 ### 2020
 
 -   Frank Fischer, Boris Orekhov: [**Der digitale Superdichter. Vor 250
@@ -24,8 +30,8 @@ Feuilleton articles and some [translations](#translations).
     Süddeutsche Zeitung, 22 November 2019, p. 14.
 -   Frank Fischer: [**»Als einst am 1. Mai die Welt begann«. Warum der
     Wonnemonat in der deutschen Literatur überpräsent ist. Eine
-    datenphilologische Analyse.**](https://www.welt.de/192916211) In:
-    Die Literarische Welt, 4 May 2019, p. 25.
+    datenphilologische Analyse.**](https://archive.org/download/als-einst-am-ersten-mai-2019-05-04/als-einst-am-ersten-mai-2019-05-04.pdf)
+    In: Die Literarische Welt, 4 May 2019, p. 25.
 
 ### 2018
 
