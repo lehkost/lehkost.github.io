@@ -4,9 +4,9 @@ title: Projects
 ---
 
 ### Current Main Projects
-* [DraCor](https://dracor.org/) – multilingual Drama Corpora platform (a showcase for [Programmable Corpora](https://doi.org/10.5281/zenodo.4284002))
-* [SSHOC](https://www.sshopencloud.eu/) (Social Sciences and Humanities Open Cloud) – steering committee and WP leader for DARIAH (2019–2022)
-* [CLS INFRA](https://twitter.com/jedmond36/status/1328021465774567426) (Computational Literary Studies) – starting early 2021
+* [SSHOC](https://www.sshopencloud.eu/) (Social Sciences and Humanities Open Cloud) – steering committee and WP leader (2019–2022) – main outcome: [SSH Open Marketplace](https://marketplace.sshopencloud.eu/) (beta version, final release planned for December 2021)
+* [CLS INFRA](https://clsinfra.io/) (Computational Literary Studies) – steering committee and WP Leader (2021–2025)
+* [DraCor](https://dracor.org/) – multilingual Drama Corpora platform (a showcase for [Programmable Corpora](https://doi.org/10.5281/zenodo.4284002)) – main editor
 
 ### Smaller Research Projects
 * [World Literature in Wikipedia](https://data.weltliteratur.net/) (2015–)

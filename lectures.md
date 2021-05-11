@@ -158,7 +158,14 @@ DH Lecture 2020/21
 -   2021-03-06 · Защита проектов 1 -- Командная презентация ([Порядок выступлений](https://docs.google.com/spreadsheets/d/1z0Y3aA5wJ4pYrei4fsgeGSHTvOpnETysbLCEEAwbsqg/edit?usp=sharing))
 -   2021-03-13 · [5th DH Lecture -- Сетевой анализ в гуманитарных науках (лекция, начало практики в Gephi)](https://bit.ly/38APGZt)
 -   2021-03-20 · [6th DH Lecture -- Сетевой анализ: продолжение практики в Gephi, продвинутые возможности, щепотка программирования (для желающих)](https://bit.ly/3s40d7i)
--   2021-04-03 · Зачетная неделя: защита проектов — командная презентация
+-   2021-04-03 · Защита проектов 2 -- Командная презентация
+-   2021-04-17 · [7th DH Lecture -- Цифровое сохранение и цифровая (ре)презентация культурного наследия](https://docs.google.com/presentation/d/1Z3hkchcb_nuXhxdNG2KOxC0zTJLpPJDNGLlMeQh_RmQ/edit?usp=sharing)
+-   2021-04-24 · [8th DH Lecture -- TEI](https://docs.google.com/presentation/d/1w9jOnqCEC8Kx9cz0D-SCIB6I9naqJBBiR41G3oZip5Y/edit?usp=sharing)
+-   2021-05-15 · Защита проектов 3 – Командная презентация
+-   2021-05-22 · Карты и картография
+-   2021-05-29 · Геоинформационные системы в гуманитарных науках
+-   2021-06-05 · Предпроектный коворкинг
+-   2021-06-12 · Защита проектов 4 – Командная презентация
 
 For general info and material, check [our
 Wiki](https://wiki.dh-minor.org/). -- Student projects and data sets

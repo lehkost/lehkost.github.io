@@ -9,7 +9,8 @@ Feuilleton articles and some [translations](#translations).
 
 -   Julia Nether, Frank Fischer: [**Der Mai in der Literatur
     \[interview\].**](https://www.br.de/radio/bayern2/programmkalender/ausstrahlung-2460628.html)
-    In: Bayern 2, radioWelt, 30 April 2021.
+    In: Bayern 2, radioWelt, 30 April 2021. \[Accompanying blogpost at
+    [weltliteratur.net](https://weltliteratur.net/the-first-of-may-in-german-literature/).\]
 
 ### 2020
 

@@ -7,6 +7,9 @@ Invited talks, conference and workshop slides.
 
 ### 2021
 
+<small>2021-05-12 · University of Cologne (virtual) 🇩🇪 ([vDHd2021, #autoChirp Night](https://texperimentales.hypotheses.org/4531))</small><br />
+[TiwoliChirp PechaKucha](https://bit.ly/tiwochi)
+
 <small>2021-03-26 · (virtual) ([vDHd2021](https://vdhd2021.hypotheses.org/))</small><br />
 [Die Werkbänke der Digital Humanities: Zur Rolle von Tools und Software für die Forschungsarbeit](https://doi.org/10.5281/zenodo.4639228)
 

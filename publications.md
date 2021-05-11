@@ -30,10 +30,14 @@ title: Publications
     Freygeist.** Leipzig: Ille & Riemer 2002. \[Review by Hans-Gert
     Roloff in: Editionen in der Kritik 1 (2005).\]
 
-#### Forthcoming
+#### Forthcoming Edited Volumes
 
+-   Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.):
+    **World Literature and Wikipedia.**
+    Special Issue of the **Journal of Cultural Analytics**.
+    (forthcoming 2022)
 -   Jan Horstmann, Frank Fischer (eds.): **Digitale Verfahren in der Literaturwissenschaft.**
-    Special Issue of Textpraxis. Digitales Journal für Philologie.
+    Special Issue of **Textpraxis**. Digitales Journal für Philologie.
     (forthcoming 2022) ([CfP](https://dhd-blog.org/?p=13772))
 
 ### Peer-Reviewed Papers and Articles for Edited Volumes
@@ -45,6 +49,14 @@ title: Publications
     Jannidis (ed.): Digitale Literaturwissenschaft (Contributions to the
     DFG Symposium at Villa Vigoni, 9--13 October 2017). Stuttgart:
     Metzler. (forthcoming 2021)
+-   Daniil Skorinkin, Anastasia Khorosheva, Frank Fischer:
+    **How to Get 90,000 Readers Interested in Digital Humanities: Experiences with »Systemnyj Blok«.**
+    In: EADH2021: »Interdisciplinary Perspectives on Data«.
+    21--25 September 2021. Siberian Federal University, Krasnoyarsk.
+-   Margarita Berseneva, Aleksandr Dyuldenko, Frank Fischer, Anna Oskina:
+    **Parents and Children in Russian Drama: Research Scenarios Based on the Annotation of Kinship and Social Relations.**
+    In: EADH2021: »Interdisciplinary Perspectives on Data«.
+    21--25 September 2021. Siberian Federal University, Krasnoyarsk.
 
 #### 2021
 
