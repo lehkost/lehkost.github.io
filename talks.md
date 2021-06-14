@@ -7,6 +7,9 @@ Invited talks, conference and workshop slides.
 
 ### 2021
 
+<small>2021-06-14 · University of Göttingen (virtual) 🇩🇪 ([Institut für Digital Humanities](https://www.uni-goettingen.de/de/597374.html))</small><br />
+[DraCor & Co. – Programmierbare Korpora für eine digitale Literaturwissenschaft](http://bit.ly/goedracor)
+
 <small>2021-05-12 · University of Cologne (virtual) 🇩🇪 ([vDHd2021, #autoChirp Night](https://texperimentales.hypotheses.org/4531))</small><br />
 [TiwoliChirp PechaKucha](https://bit.ly/tiwochi)
 
