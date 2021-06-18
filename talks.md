@@ -7,6 +7,9 @@ Invited talks, conference and workshop slides.
 
 ### 2021
 
+<small>2021-06-18 · DLA Marbach (virtual) 🇩🇪 ([»Poesie-Hackathon«: Schiller, Hölderlin, Mörike, Celan](https://www.fontanearchiv.de/forschung/tfalab/ein-poesie-hackathon-schiller-hoelderlin-moerike-celan))</small><br />
+[Neural Reading – Zur Analyse computergenerierter Poesie](http://bit.ly/neuradla)
+
 <small>2021-06-14 · University of Göttingen (virtual) 🇩🇪 ([Institut für Digital Humanities](https://www.uni-goettingen.de/de/597374.html))</small><br />
 [DraCor & Co. – Programmierbare Korpora für eine digitale Literaturwissenschaft](http://bit.ly/goedracor)
 
