@@ -57,6 +57,9 @@ title: Publications
     **Parents and Children in Russian Drama: Research Scenarios Based on the Annotation of Kinship and Social Relations.**
     In: EADH2021: »Interdisciplinary Perspectives on Data«.
     21--25 September 2021. Siberian Federal University, Krasnoyarsk.
+-   Tanja Wissik, Leon Wessels, Frank Fischer: **The DH Course Registry:
+    A piece of the puzzle in the technical as well as the knowledge sharing
+    infrastructure of CLARIN.** In: CLARIN Book 2022. (forthcoming)
 
 #### 2021
 

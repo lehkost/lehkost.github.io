@@ -17,11 +17,15 @@ title: Committees/Services
 * [DH2020, Ottawa (Workshop Twin Talks 3)](https://www.clarin.eu/event/2020/twintalksdh2020)
 * [DARIAH2021](https://dariah-2021.sciencesconf.org/)
 * [EADH2021, Krasnoyarsk](https://eadh2020-2021.org/about/program-committee/)
+* [CLARIN Book 2022](https://www.clarin.eu/content/monographic-publication-about-clarin-eric-call-contributions)
 
-### Regular Review Activities, Editorial Work
-* [IASLonline, Editor »Digital Literary Studies«](http://www.iaslonline.de/)
-* [RIDE (Review Journal of the IDE)](https://ride.i-d-e.de/about/peer-reviewers/)
-* [Wiener Digitale Revue](https://journals.univie.ac.at/index.php/wdr/about)
+### Board Memberships, Editorial Work, Review Activities
+* [IASLonline, »Digital Literary Studies« section](http://www.iaslonline.de/) (editor, 2016–)
+* [RIDE (Review Journal of the IDE)](https://ride.i-d-e.de/about/peer-reviewers/) (reviewer, 2018)
+* [Wiener Digitale Revue](https://journals.univie.ac.at/index.php/wdr/about) (board, 2019–)
+* [JCLS (Journal of Computational Literary Studies)](https://jcls.io/editorialteam/) (board, 2021–)
+* CLARIAH-AT (2021–)
+* LINDAT/CLARIAH-CZ (2021–)
 
 ### Scientific Consultancy
 * Agence nationale de la recherche (ANR)

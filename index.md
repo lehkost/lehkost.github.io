@@ -17,8 +17,8 @@ title: Frank Fischer
 * MA in Computer Science and German Studies (University of Leipzig), 2003
 
 ### Visiting Professorships
-* University of Sheffield (Information School), 2017
-* Aarhus University, 2018
+* University of Sheffield (Information School), 05/2017
+* Aarhus University, 11/2018
 
 ### Research Interests
 * Computational Literary Studies, World Literature, Network Analysis, Artificial Neural Networks for the Study of Literature, Linked Open Data, Research Infrastructures for Literary Studies, 18th–21st Century Literature
