@@ -4,7 +4,7 @@ title: Frank Fischer
 ---
 
 ### Affiliation
-* Ass. Prof. for **Digital Humanities** at School of Linguistics, Higher School of Economics, Moscow ([homepage](https://www.hse.ru/en/org/persons/182492735))
+* Ass. Prof. of **Digital Humanities** at School of Linguistics, Higher School of Economics, Moscow ([homepage](https://www.hse.ru/en/org/persons/182492735))
 * Director of **[DARIAH-EU](https://www.dariah.eu/)** (Digital Research Infrastructure for the Arts and Humanities), Berlin
 
 ### Current Main Projects

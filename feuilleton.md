@@ -8,7 +8,7 @@ Feuilleton articles and some [translations](#translations).
 ### 2021
 
 -   Frank Fischer: **Moscow Imaginations.** In: The HSE Look.
-    (forthcoming October 2021)
+    (forthcoming November 2021)
 -   Julia Nether, Frank Fischer: [**Der Mai in der Literatur
     \[interview\].**](https://www.br.de/radio/bayern2/programmkalender/ausstrahlung-2460628.html)
     In: Bayern 2, radioWelt, 30 April 2021. \[Accompanying blogpost at

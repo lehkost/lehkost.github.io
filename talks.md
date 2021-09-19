@@ -250,6 +250,9 @@ Ein Quantum Literatur -- Empirische Daten zu einer Theorie des literarischen Tex
 Grepping Aquinas: Reading from the Middle Distance ([Twitter](https://twitter.com/umblaetterer/status/821415624861777920))
 
 ### 2016
+<small>2016-10-10/11/12 · Würzburg 🇩🇪 ([CLiGS](https://cligs.hypotheses.org/))</small><br />
+[Literary Network Analysis](https://christof-schoech.de/literary-network-analysis-workshop/)
+
 <small>2016-08-04 · Weimar 🇩🇪 ([Summer School »The Making of a National Author«](https://www.mww-forschung.de/nachwuchsfoerderung/internationale-sommerschule-2016/))</small><br />
 Taking National Authors to the Digital Lab: Introduction to the Digital Humanities
 

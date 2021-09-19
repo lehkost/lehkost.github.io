@@ -44,25 +44,30 @@ title: Publications
 
 #### Forthcoming
 
+-   Frank Fischer: **Stahlpanzer gegen Müllner gegen Vieweg. Eine Episode
+    aus der Endphase des Schicksalsdramas.** In: Weimarer Beiträge 67.4 (2021).
+    (forthcoming)
 -   Frank Fischer, Robert Jäschke: **Ein Quantum Literatur. Empirische
     Daten zu einer Theorie des literarischen Textumfangs.** In: Fotis
     Jannidis (ed.): Digitale Literaturwissenschaft (Contributions to the
     DFG Symposium at Villa Vigoni, 9--13 October 2017). Stuttgart:
     Metzler. (forthcoming 2021)
--   Daniil Skorinkin, Anastasia Khorosheva, Frank Fischer:
-    **How to Get 90,000 Readers Interested in Digital Humanities: Experiences with »Systemnyj Blok«.**
-    In: EADH2021: »Interdisciplinary Perspectives on Data«.
-    21--25 September 2021. Siberian Federal University, Krasnoyarsk.
--   Margarita Berseneva, Aleksandr Dyuldenko, Frank Fischer, Anna Oskina:
-    **Parents and Children in Russian Drama: Research Scenarios Based on the Annotation of Kinship and Social Relations.**
-    In: EADH2021: »Interdisciplinary Perspectives on Data«.
-    21--25 September 2021. Siberian Federal University, Krasnoyarsk.
 -   Tanja Wissik, Leon Wessels, Frank Fischer: **The DH Course Registry:
     A piece of the puzzle in the technical as well as the knowledge sharing
     infrastructure of CLARIN.** In: CLARIN Book 2022. (forthcoming)
 
 #### 2021
 
+-   Daniil Skorinkin, Anastasia Khorosheva, Frank Fischer:
+    **How to Get 90,000 Readers Interested in Digital Humanities:
+    Experiences with »Systemnyj Blok«.**
+    In: EADH2021: »Interdisciplinary Perspectives on Data«.
+    21--25 September 2021. Siberian Federal University, Krasnoyarsk.
+-   Margarita Berseneva, Aleksandr Dyuldenko, Frank Fischer,
+    Anna Oskina: **Parents and Children in Russian Drama: Research
+    Scenarios Based on the Annotation of Kinship and Social Relations.**
+    In: EADH2021: »Interdisciplinary Perspectives on Data«.
+    21--25 September 2021. Siberian Federal University, Krasnoyarsk.
 -   Frank Fischer, Manuel Burghardt, Jan Luhmann, Laure Barbot, Yoann
     Moranville, Alireza Zarei: **Die Werkbänke der Digital Humanities:
     Zur Rolle von Tools und Software für die Forschungsarbeit.**
