@@ -7,6 +7,15 @@ Invited talks, conference and workshop slides.
 
 ### 2021
 
+<small>2021-09-24 · Krasnoyarsk (virtual) 🇷🇺 ([EADH 2021: »Interdisciplinary Perspectives on Data«](https://eadh2020-2021.org/))</small><br />
+How to Get 90,000 Readers Interested in Digital Humanities: Experiences with [»Systemnyj Blok«](https://sysblok.ru/)
+
+<small>2021-09-23 · Krasnoyarsk (virtual) 🇷🇺 (EADH 2021: »Interdisciplinary Perspectives on Data«)</small><br />
+[Parents and Children in Russian Drama: Research Scenarios Based on the Annotation of Kinship and Social Relations](https://bit.ly/krasdra)
+
+<small>2021-09-22 · (virtual) 🇩🇪 ([Virtual Meeting of SPP 2207: Computational Literary Studies](https://dfg-spp-cls.github.io/de/2021/09/12/GeneralMeeting.html))</small><br />
+[Introduction to CLS INFRA](https://cls-infra.pages.clsinfra.io:11439/WP7/presentations/2021-09-22_SPP-CLS-General-Meeting/index.html)
+
 <small>2021-07-22 · (virtual) 🇺🇸 ([ACH2021](https://ach2021.ach.org/))</small><br />
 [Who Needs Tool Directories? A Forum on Sustaining Discovery Portals Large and Small](https://twitter.com/umblaetterer/status/1410612207663017998)
 
