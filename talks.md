@@ -7,6 +7,9 @@ Invited talks, conference and workshop slides.
 
 ### 2021
 
+<small>2021-09-29 · (virtual) 🇪🇺 (CLS INFRA Workshop)</small><br />
+[Introduction to DraCor](https://bit.ly/clsdrac)
+
 <small>2021-09-24 · Krasnoyarsk (virtual) 🇷🇺 ([EADH 2021: »Interdisciplinary Perspectives on Data«](https://eadh2020-2021.org/))</small><br />
 How to Get 90,000 Readers Interested in Digital Humanities: Experiences with [»Systemnyj Blok«](https://sysblok.ru/)
 
