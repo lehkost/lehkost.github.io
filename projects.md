@@ -25,3 +25,4 @@ title: Projects
 * [weltliteratur.net](https://weltliteratur.net/) – A Black Market for the Digital Humanities (2016–)
 * [Der Umblätterer](https://www.umblaetterer.de/) – In der Halbwelt des Feuilletons (2007–)
 * [Tiwoli](https://weltliteratur.net/Introducing-TIWOLI/) – Today in World Literature ([web app](https://tiwoli.spinfo.uni-koeln.de/view), [Twitter bot](https://twitter.com/TiwoliChirp), [iOS](https://appsto.re/de/I69sfb.i), Android)
+* [@BotSchallenberg](https://twitter.com/BotSchallenberg) (2021)

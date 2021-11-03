@@ -7,6 +7,18 @@ Invited talks, conference and workshop slides.
 
 ### 2021
 
+<small>2021-11-05 · (virtual) 🇪🇺 ([CLS INFRA](https://clsinfra.io/))</small><br />
+CLS INFRA-WP7 Kick-Off Meeting
+
+<small>2021-11-04 · Berlin 🇩🇪 (EXC 2020 Temporal Communities)</small><br />
+Modelling Drama in a Digital Ecosystem
+
+<small>2021-11-03 · Eötvös Loránd University, Budapest 🇭🇺 ([Drámák a Mátrixban](https://www.elte.hu/content/dramak-a-matrixban.e.14110))</small><br />
+Introducing the Hungarian Drama Corpus (HunDraCor) ([Twitter](https://twitter.com/umblaetterer/status/1454019018508144644))
+
+<small>2021-10-28 · Berlin 🇩🇪 ([Kolloquium »Phänomenologie der Digital Humanities«](https://wikis.fu-berlin.de/display/phaenodh))</small><br />
+Wie funktioniert eigentlich Forschung in den Digital Humanities?
+
 <small>2021-09-29 · (virtual) 🇪🇺 ([CLS INFRA Workshop](https://clsinfra.io/events/upcomingevents/))</small><br />
 [Introduction to DraCor](https://bit.ly/clsdrac)
 

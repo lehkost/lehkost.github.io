@@ -45,8 +45,8 @@ title: Publications
 #### Forthcoming
 
 -   Frank Fischer: **Stahlpanzer gegen Müllner gegen Vieweg. Eine Episode
-    aus der Endphase des Schicksalsdramas.** In: Weimarer Beiträge 67.4 (2021).
-    (forthcoming)
+    aus der Endphase des Schicksalsdramas.** In: Weimarer Beiträge 67.4
+    (2021), pp. 601–613. (forthcoming)
 -   Frank Fischer, Robert Jäschke: **Ein Quantum Literatur. Empirische
     Daten zu einer Theorie des literarischen Textumfangs.** In: Fotis
     Jannidis (ed.): Digitale Literaturwissenschaft (Contributions to the
@@ -55,6 +55,10 @@ title: Publications
 -   Tanja Wissik, Leon Wessels, Frank Fischer: **The DH Course Registry:
     A piece of the puzzle in the technical as well as the knowledge sharing
     infrastructure of CLARIN.** In: CLARIN Book 2022. (forthcoming)
+-   Dîlan Canan Çakir, Frank Fischer: **Dramatische Metadaten. Die Datenbank
+    deutschsprachiger Einakter 1740–1850.** In: DHd2022: »Kulturen des
+    digitalen Gedächtnisses«. 7–11 March 2022. Book of Abstracts.
+    University of Potsdam. (forthcoming)
 
 #### 2021
 
