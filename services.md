@@ -23,7 +23,6 @@ title: Committees/Services
 * [RIDE (Review Journal of the IDE)](https://ride.i-d-e.de/about/peer-reviewers/) (reviewer, 2018)
 * [Wiener Digitale Revue](https://journals.univie.ac.at/index.php/wdr/about) (board, 2019–)
 * [JCLS (Journal of Computational Literary Studies)](https://jcls.io/editorialteam/) (board, 2021–)
-* CLARIAH-AT 🇦🇹 (2021–)
 * LINDAT/CLARIAH-CZ 🇨🇿 (2021–)
 
 ### Scientific Consultancy

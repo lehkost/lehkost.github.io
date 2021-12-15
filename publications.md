@@ -44,24 +44,33 @@ title: Publications
 
 #### Forthcoming
 
--   Frank Fischer: **Stahlpanzer gegen Müllner gegen Vieweg. Eine Episode
-    aus der Endphase des Schicksalsdramas.** In: Weimarer Beiträge 67.4
-    (2021), pp. 601–613. (forthcoming)
 -   Frank Fischer, Robert Jäschke: **Ein Quantum Literatur. Empirische
     Daten zu einer Theorie des literarischen Textumfangs.** In: Fotis
     Jannidis (ed.): Digitale Literaturwissenschaft (Contributions to the
     DFG Symposium at Villa Vigoni, 9--13 October 2017). Stuttgart:
-    Metzler. (forthcoming 2021)
--   Tanja Wissik, Leon Wessels, Frank Fischer: **The DH Course Registry:
-    A piece of the puzzle in the technical as well as the knowledge sharing
-    infrastructure of CLARIN.** In: CLARIN Book 2022. (forthcoming)
+    Metzler. (forthcoming 2022)
+
+#### 2022
+
 -   Dîlan Canan Çakir, Frank Fischer: **Dramatische Metadaten. Die Datenbank
     deutschsprachiger Einakter 1740–1850.** In: DHd2022: »Kulturen des
     digitalen Gedächtnisses«. 7–11 March 2022. Book of Abstracts.
     University of Potsdam. (forthcoming)
+-   Alireza Zarei, Yim Seung-Bin, Matej Ďurčo, Klaus Illmayer, Laure Barbot,
+    Frank Fischer, Edward Gray: **Der SSH Open Marketplace –
+    Kontextualisiertes Praxiswissen für die Digital Humanities.**
+    In: DHd2022: »Kulturen des digitalen Gedächtnisses«. 7–11 March 2022.
+    Book of Abstracts. University of Potsdam. (forthcoming)
+-   Tanja Wissik, Leon Wessels, Frank Fischer: **The DH Course Registry:
+    A piece of the puzzle in the technical as well as the knowledge sharing
+    infrastructure of CLARIN.** In: CLARIN Book 2022. (forthcoming)
 
 #### 2021
 
+-   Frank Fischer: **Stahlpanzer gegen Müllner gegen Vieweg. Eine Episode
+    aus der Endphase des Schicksalsdramas.** In:
+    [Weimarer Beiträge 67.4](https://weimarer-beitraege.de/2021-4/)
+    (2021), pp. 601–613.
 -   Daniil Skorinkin, Anastasia Khorosheva, Frank Fischer:
     **How to Get 90,000 Readers Interested in Digital Humanities:
     Experiences with »Systemnyj Blok«.**
