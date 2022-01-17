@@ -5,6 +5,17 @@ title: Talks/Slides
 
 Invited talks, conference and workshop slides.
 
+### 2022
+
+<small>2022-03-11 · University of Potsdam 🇩🇪 ([DHd2022](https://www.dhd2022.de/))</small><br />
+Der SSH Open Marketplace – Kontextualisiertes Praxiswissen für die Digital Humanities
+
+<small>2022-03-10 · University of Potsdam 🇩🇪 (DHd2022)</small><br />
+Dramatische Metadaten – Die Datenbank deutschsprachiger Einakter 1740–1850
+
+<small>2022-01-17 · Humboldt-Universität zu Berlin 🇩🇪 ([»Digital Humanities und Literaturwissenschaft – Konkurrenz oder Komplementarität«](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&publishContainer=lectureContainer&publishid=183689))</small><br />
+Einführung in DraCor
+
 ### 2021
 
 <small>2021-11-05 · (virtual) 🇪🇺 ([CLS INFRA](https://clsinfra.io/))</small><br />

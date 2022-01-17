@@ -22,7 +22,7 @@ title: Frank Fischer
 * Aarhus University, 11/2018
 
 ### Research Interests
-* Computational Literary Studies, World Literature, Network Analysis, Artificial Neural Networks for the Study of Literature, Linked Open Data, Research Infrastructures for Literary Studies, 18th–21st Century Literature
+* Computational Literary Studies, World Literature, European Drama, Network Analysis, Artificial Neural Networks for the Study of Literature, Vossian Antonomasia, Linked Open Data, Research Infrastructures for Literary Studies, 18th–21st Century Literature
 
 ### Profiles
 * Twitter: [@umblaetterer](https://twitter.com/umblaetterer)

@@ -3,7 +3,7 @@ layout: page
 title: DH Lectures
 ---
 
-Slides and material from our regular course "Introduction to the Digital Humanities" at Higher School of Economics, Moscow.
+Slides and material from our regular course »Introduction to the Digital Humanities« at Higher School of Economics, Moscow (2016–2021).
 
 DH Lecture 2016/17
 ------------------

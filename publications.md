@@ -86,7 +86,7 @@ title: Publications
     Zur Rolle von Tools und Software für die Forschungsarbeit.**
     In: vDHd2021: »Fabrikation von Erkenntnis: Experimente in den Digital
     Humanities«. 26 March 2021.
-    (Präsentation: [doi:10.5281/zenodo.4639228](https://doi.org/10.5281/zenodo.4639228))
+    ([doi:10.5281/zenodo.5850726](https://doi.org/10.5281/zenodo.5850726))
 -   Frank Fischer, Daniil Skorinkin: **Social Network Analysis in
     Russian Literary Studies.** In: Daria Gritsenko, Mariëlle Wijermars,
     Mikhail Kopotev (eds.): The Palgrave Handbook of Digital Russia
