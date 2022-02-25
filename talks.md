@@ -13,6 +13,12 @@ Der SSH Open Marketplace – Kontextualisiertes Praxiswissen für die Digital Hu
 <small>2022-03-10 · University of Potsdam 🇩🇪 (DHd2022)</small><br />
 Dramatische Metadaten – Die Datenbank deutschsprachiger Einakter 1740–1850
 
+<small>2022-03-08 · University of Potsdam 🇩🇪 (DHd2022)</small><br />
+Einführung in DraCor – Programmable Corpora für die digitale Dramenanalyse
+
+<small>2022-02-21 · Freie Universität Berlin 🇩🇪 ([»Workshop ›Digitalisierungsprojekt Nachlass der Bühnentechniker-Familie Brandt‹«](https://www.geisteswissenschaften.fu-berlin.de/we07/veranstaltungen/Workshop-Nachlass-Brandt.html))</small><br />
+Nutzungspotentiale digitaler Sammlungen (Panel)
+
 <small>2022-01-17 · Humboldt-Universität zu Berlin 🇩🇪 ([»Digital Humanities und Literaturwissenschaft – Konkurrenz oder Komplementarität«](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&publishContainer=lectureContainer&publishid=183689))</small><br />
 Einführung in DraCor
 
