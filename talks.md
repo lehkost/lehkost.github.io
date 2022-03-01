@@ -7,6 +7,9 @@ Invited talks, conference and workshop slides.
 
 ### 2022
 
+<small>2022-06-09 · Freie Universität Berlin 🇩🇪 ([Digital\*Humanities im Gespräch #25](https://www.fu-berlin.de/sites/dhc/programme/termine/dh-gespraech-sose-22-2.html))</small><br />
+DraCor – Ein Forschungsprojekt zur Analyse des europäischen Dramas und seine digitale Umgebung
+
 <small>2022-03-11 · University of Potsdam 🇩🇪 ([DHd2022](https://www.dhd2022.de/))</small><br />
 Der SSH Open Marketplace – Kontextualisiertes Praxiswissen für die Digital Humanities
 
@@ -14,7 +17,7 @@ Der SSH Open Marketplace – Kontextualisiertes Praxiswissen für die Digital Hu
 Dramatische Metadaten – Die Datenbank deutschsprachiger Einakter 1740–1850
 
 <small>2022-03-08 · University of Potsdam 🇩🇪 (DHd2022)</small><br />
-Einführung in DraCor – Programmable Corpora für die digitale Dramenanalyse
+[Einführung in DraCor – Programmable Corpora für die digitale Dramenanalyse](https://lehkost.github.io/slides/2022-03-08-potsdam-dhd/index.html)
 
 <small>2022-02-21 · Freie Universität Berlin 🇩🇪 ([»Workshop ›Digitalisierungsprojekt Nachlass der Bühnentechniker-Familie Brandt‹«](https://www.geisteswissenschaften.fu-berlin.de/we07/veranstaltungen/Workshop-Nachlass-Brandt.html))</small><br />
 Nutzungspotentiale digitaler Sammlungen (Panel)
