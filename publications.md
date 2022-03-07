@@ -49,21 +49,28 @@ title: Publications
     Jannidis (ed.): Digitale Literaturwissenschaft (Contributions to the
     DFG Symposium at Villa Vigoni, 9--13 October 2017). Stuttgart:
     Metzler. (forthcoming 2022)
+-   Tanja Wissik, Leon Wessels, Frank Fischer: **The DH Course Registry:
+    A piece of the puzzle in the technical as well as the knowledge sharing
+    infrastructure of CLARIN.** In: CLARIN Book 2022. (forthcoming 2022)
 
 #### 2022
 
 -   Dîlan Canan Çakir, Frank Fischer: **Dramatische Metadaten. Die Datenbank
     deutschsprachiger Einakter 1740–1850.** In: DHd2022: »Kulturen des
     digitalen Gedächtnisses«. 7–11 March 2022. Book of Abstracts.
-    University of Potsdam. (forthcoming)
+    University of Potsdam.
+    ([10.5281/zenodo.6327977](https://doi.org/10.5281/zenodo.6327977))
 -   Alireza Zarei, Yim Seung-Bin, Matej Ďurčo, Klaus Illmayer, Laure Barbot,
     Frank Fischer, Edward Gray: **Der SSH Open Marketplace –
     Kontextualisiertes Praxiswissen für die Digital Humanities.**
     In: DHd2022: »Kulturen des digitalen Gedächtnisses«. 7–11 March 2022.
-    Book of Abstracts. University of Potsdam. (forthcoming)
--   Tanja Wissik, Leon Wessels, Frank Fischer: **The DH Course Registry:
-    A piece of the puzzle in the technical as well as the knowledge sharing
-    infrastructure of CLARIN.** In: CLARIN Book 2022. (forthcoming)
+    Book of Abstracts. University of Potsdam.
+    ([10.5281/zenodo.6327975](https://doi.org/10.5281/zenodo.6327975))
+-   Ingo Börner, Frank Fischer, Carsten Milling, Henny Sluyter-Gäthje:
+    **Einführung in DraCor: Programmable Corpora für die digitale Dramenanalyse.**
+    In: DHd2022: »Kulturen des digitalen Gedächtnisses«. 7–11 March 2022.
+    Book of Abstracts. University of Potsdam.
+    ([10.5281/zenodo.6327951](https://doi.org/10.5281/zenodo.6327951))
 
 #### 2021
 
@@ -377,7 +384,7 @@ title: Publications
     Gruyter 2011, p. 205.
 -   Frank Fischer, Tobias Grave, Carsten Milling, Jörg Ossenkopp:
     **HistVV: Die Leipziger Vorlesungsdatenbank 1814/15--1914.** In:
-    Morgenstern, U.; Riechert, Th. (eds.): Catalogus Professorum
+    Morgenstern, U., Riechert, Th. (eds.): Catalogus Professorum
     Lipsiensis. Konzeption, technische Umsetzung und Anwendungen für
     Professorenkataloge im Semantic Web. Leipzig: LIV 2010, pp.
     131--135.
@@ -396,7 +403,7 @@ title: Publications
     Riemer. Preface by Steffen Martus. Leipzig: Ille & Riemer 2007, pp.
     85--107.
 -   Frank Fischer: **Der Autor als Medienjongleur. Die Inszenierung
-    literarischer Modernität im Internet.** In: Christine Künzel; Jörg
+    literarischer Modernität im Internet.** In: Christine Künzel, Jörg
     Schönert (eds.): Autorinszenierungen. Würzburg: Königshausen &
     Neumann 2007, pp. 271--280. (URL:
     <http://www.satt.org/literatur/07_06_IuL.html>)
