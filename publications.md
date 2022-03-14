@@ -52,6 +52,19 @@ title: Publications
 -   Tanja Wissik, Leon Wessels, Frank Fischer: **The DH Course Registry:
     A piece of the puzzle in the technical as well as the knowledge sharing
     infrastructure of CLARIN.** In: CLARIN Book 2022. (forthcoming 2022)
+-   Stefan Heßbrüggen-Walter, Frank Fischer, Simon Meier-Vieracker:
+    **Patterns of Verb Usage in Immanuel Kant's Critical Writings.**
+    In: DH2022: »Responding to Asian Diversity«. 25--29 July 2022. Book of
+    Abstracts. University of Tokyo.
+-   Laure Barbot, Edward Gray, Frank Fischer, Daan Broeder, Matej Ďurčo,
+    Mari Kleemola, Carsten Thiel, Klaus Illmayer, Alexander König: **The
+    European Open Science Cloud (EOSC) and Its Implications for the Digital
+    Humanities and Social Sciences.** In: DH2022: »Responding to Asian
+    Diversity«. 25--29 July 2022. Book of Abstracts. University of Tokyo.
+-   Alireza Zarei, Yim Seung-Bin, Frank Fischer, Matej Ďurčo, Philipp Wieder:
+    **Measuring the Use of Tools and Software in the Digital Humanities.**
+    In: DH2022: »Responding to Asian Diversity«. 25--29 July 2022. Book of
+    Abstracts. University of Tokyo.
 
 #### 2022
 
