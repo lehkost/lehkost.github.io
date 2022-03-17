@@ -50,8 +50,8 @@ title: Publications
     DFG Symposium at Villa Vigoni, 9--13 October 2017). Stuttgart:
     Metzler. (forthcoming 2022)
 -   Tanja Wissik, Leon Wessels, Frank Fischer: **The DH Course Registry:
-    A piece of the puzzle in the technical as well as the knowledge sharing
-    infrastructure of CLARIN.** In: CLARIN Book 2022. (forthcoming 2022)
+    A Piece of the Puzzle in the Technical and Knowledge Infrastructure
+    of CLARIN.** In: CLARIN Book 2022. (forthcoming 2022)
 -   Stefan Heßbrüggen-Walter, Frank Fischer, Simon Meier-Vieracker:
     **Patterns of Verb Usage in Immanuel Kant's Critical Writings.**
     In: DH2022: »Responding to Asian Diversity«. 25--29 July 2022. Book of

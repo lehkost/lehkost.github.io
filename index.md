@@ -4,8 +4,8 @@ title: Frank Fischer
 ---
 
 ### Affiliation
-* Professor of **Digital Humanities** at Freie Universität Berlin
-* Cluster of Excellence 2020 »Temporal Communities: Doing Literature in a Global Perspective« ([homepage](https://www.temporal-communities.de/))
+* Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](https://www.geisteswissenschaften.fu-berlin.de/we02/institut/mitarbeiter/Professoren/fischerf/index.html))
+* Cluster of Excellence 2020 »Temporal Communities: Doing Literature in a Global Perspective« ([homepage](https://www.temporal-communities.de/people/fischer/index.html))
 
 ### Research Interests
 * Computational Literary Studies, World Literature, European Drama, Network Analysis, Artificial Neural Networks for the Study of Literature, Vossian Antonomasia, Linked Open Data, Research Infrastructures for Literary Studies, 18th–21st Century Literature
@@ -29,6 +29,9 @@ title: Frank Fischer
 * Aarhus University, 2018
 * Information School at University of Sheffield, 2017
 * École normale supérieure, Paris, 2009
+
+### Contact
+* E-mail: fr.fischer (at sign) fu-berlin.de (PGP: [0xC7218D831A5B32B1](https://lehkost.github.io/ff.pgp.asc))
 
 ### Profiles
 * Twitter: [@umblaetterer](https://twitter.com/umblaetterer)

@@ -10,6 +10,9 @@ Invited talks, conference and workshop slides.
 <small>2022-06-09 · Freie Universität Berlin 🇩🇪 ([Digital\*Humanities im Gespräch #25](https://www.fu-berlin.de/sites/dhc/programme/termine/dh-gespraech-sose-22-2.html))</small><br />
 DraCor – Ein Forschungsprojekt zur Analyse des europäischen Dramas und seine digitale Umgebung
 
+<small>2022-05-11 · Freie Universität Berlin 🇩🇪 ([Ringvorlesung »Vernetzen und zerstreuen? Perspektiven für die akademische Lehre«](https://www.fu-berlin.de/vv/de/lv/733733))</small><br />
+Hacking Humanities: Didaktische Perspektiven für die Digitalen Geisteswissenschaften
+
 <small>2022-03-11 · University of Potsdam 🇩🇪 ([DHd2022](https://www.dhd2022.de/))</small><br />
 Der SSH Open Marketplace – Kontextualisiertes Praxiswissen für die Digital Humanities
 
