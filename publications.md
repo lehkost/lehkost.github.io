@@ -32,13 +32,13 @@ title: Publications
 
 #### Forthcoming Edited Volumes
 
+-   Jan Horstmann, Frank Fischer (eds.): **Digitale Verfahren in der Literaturwissenschaft.**
+    Special Issue of **Textpraxis**. Digitales Journal für Philologie.
+    (forthcoming 2022) ([CfP](https://dhd-blog.org/?p=13772))
 -   Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.):
     **World Literature and Wikipedia.**
     Special Issue of the **Journal of Cultural Analytics**.
     (forthcoming 2022) ([CfP](https://culturalanalytics.org/post/958-cfp-world-literature-and-wikipedia))
--   Jan Horstmann, Frank Fischer (eds.): **Digitale Verfahren in der Literaturwissenschaft.**
-    Special Issue of **Textpraxis**. Digitales Journal für Philologie.
-    (forthcoming 2022) ([CfP](https://dhd-blog.org/?p=13772))
 
 ### Peer-Reviewed Papers and Articles for Edited Volumes
 
