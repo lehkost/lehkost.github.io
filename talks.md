@@ -13,6 +13,9 @@ DraCor – Ein Forschungsprojekt zur Analyse des europäischen Dramas und seine 
 <small>2022-05-11 · Freie Universität Berlin 🇩🇪 ([Ringvorlesung »Vernetzen und zerstreuen? Perspektiven für die akademische Lehre«](https://www.fu-berlin.de/vv/de/lv/733733))</small><br />
 Hacking Humanities: Didaktische Perspektiven für die Digitalen Geisteswissenschaften
 
+<small>2022-04-22 · (virtual) 🇪🇺 ([COST Action Final Event](https://www.distant-reading.net/events/conference-programme/))</small><br />
+To Catch a Protagonist … Once Again – An Attempt to Recreate a Corpus-Based Study Using Linked Data
+
 <small>2022-03-11 · University of Potsdam 🇩🇪 ([DHd2022](https://www.dhd2022.de/))</small><br />
 Der SSH Open Marketplace – Kontextualisiertes Praxiswissen für die Digital Humanities
 
