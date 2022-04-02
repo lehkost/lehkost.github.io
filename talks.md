@@ -10,6 +10,9 @@ Invited talks, conference and workshop slides.
 <small>2022-06-09 · Freie Universität Berlin 🇩🇪 ([Digital\*Humanities im Gespräch #25](https://www.fu-berlin.de/sites/dhc/programme/termine/dh-gespraech-sose-22-2.html))</small><br />
 DraCor – Ein Forschungsprojekt zur Analyse des europäischen Dramas und seine digitale Umgebung
 
+<small>2022-05-26 · Università Ca’ Foscari di Venezia 🇮🇹 (Dramma europeo nell’età moderna: circolazioni, configurazioni e innovazioni)</small><br />
+The Italian Drama Corpus ([ItaDraCor](https://dracor.org/ita)) as Part of a Larger Digital Ecosystem
+
 <small>2022-05-11 · Freie Universität Berlin 🇩🇪 ([Ringvorlesung »Vernetzen und zerstreuen? Perspektiven für die akademische Lehre«](https://www.fu-berlin.de/vv/de/lv/733733))</small><br />
 Hacking Humanities: Didaktische Perspektiven für die Digitalen Geisteswissenschaften
 
@@ -199,7 +202,7 @@ A Data-Driven View on Russian Drama ([conference review at H-Soz-Kult](https://w
 <small>2019-02-27 · Higher School of Economics, Moscow 🇷🇺 ([DH Meet-Up HSE](https://hum.hse.ru/digital/dh_meetup))</small><br />
 Automatic Extraction of Vossian Antonomasia from Newspaper Corpora (recap of our [recent paper](https://doi.org/10.1093/llc/fqy087))
 
-<small>2019-01-15 · Paris 🇫🇷 ([Maison des Sciences de l'Homme Paris Nord](https://www.mshparisnord.fr/))</small><br />
+<small>2019-01-15 · Paris 🇫🇷 ([Maison des Sciences de l’Homme Paris Nord](https://www.mshparisnord.fr/))</small><br />
 Promoting Access to Tools, Services, Data and Knowledge (cf. [DARIAH Strategic Plan 2019--2026](https://www.dariah.eu/?p=4695))
 
 ### 2018
@@ -211,10 +214,10 @@ Promoting Access to Tools, Services, Data and Knowledge (cf. [DARIAH Strategic P
 Introduction to Wikidata
 
 <small>2018-11-15a · Det Kongelige Bibliotek, Copenhagen 🇩🇰</small><br />
-[The Social Networks of Holberg's Comedies (Workshop)](/slides/2018-copenhagen-holberg-networks/index.html)
+[The Social Networks of Holberg’s Comedies (Workshop)](/slides/2018-copenhagen-holberg-networks/index.html)
 
 <small>2018-11-15b · Det Kongelige Bibliotek, Copenhagen 🇩🇰</small><br />
-[»»»Plagiarism««« in Holberg's Comedies: Paul Albrecht and His Mission](/slides/2018-copenhagen-paul-albrecht/index.html)
+[»»»Plagiarism««« in Holberg’s Comedies: Paul Albrecht and His Mission](/slides/2018-copenhagen-paul-albrecht/index.html)
 
 <small>2018-11-13 · Aarhus University 🇩🇰</small><br />
 [Introduction to Social Network Analysis](/slides/2018-aarhus-sna-intro/index.html)
@@ -362,7 +365,7 @@ Die deutsche Literatur und ihre Jahreszeiten -- Korpusphilologie am Beispiel von
 Today in World Literature (Tiwoli) -- Eine Kalender-App für Android und iOS
 
 <small>2015-04-21 · Arras 🇫🇷 (Cité Scolaire Gambetta-Carnot)</small><br />
-[Les Humanités numériques, ou l'ordinateur nous débarrasse-t-il des livres ?](/slides/pdf/2015-04-21_-_Fischer_-_Les_Humanites_numeriques_-_Slides.pdf) (PDF)
+[Les Humanités numériques, ou l’ordinateur nous débarrasse-t-il des livres ?](/slides/pdf/2015-04-21_-_Fischer_-_Les_Humanites_numeriques_-_Slides.pdf) (PDF)
 
 <small>2015-04-15 · University of Vienna 🇦🇹</small><br />
 [Einführung in die Digital Humanities (Workshop)](https://mathias-goebel.github.io/2015-04-vienna/)
