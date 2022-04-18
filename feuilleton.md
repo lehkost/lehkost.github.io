@@ -5,12 +5,17 @@ title: Feuilleton
 
 Feuilleton articles and some [translations](#translations).
 
+### 2022
+
+-   Dîlan Canan Çakir, Frank Fischer: [**Wie ein Einakter Kotzebue aus der sibirischen Verbannung rettete.**](https://kotzebue.hypotheses.org/1345)
+    In: Kotzebue International, 16 April 2022.
+
 ### 2021
 
 -   Frank Fischer: [**Moscow Imaginations.**](https://ifaculty.hse.ru/data/2021/12/15/1775789040/HSE_Look_No.5(53).pdf#page=8)
     In: The HSE Look. No. 5 (53), December 2021, p. 8.
 -   Julia Nether, Frank Fischer: [**Der Mai in der Literatur
-    \[interview\].**](https://www.br.de/radio/bayern2/programmkalender/ausstrahlung-2460628.html)
+    \[interview\].**](https://web.archive.org/web/20210502075519/https://www.br.de/radio/bayern2/programmkalender/ausstrahlung-2460628.html)
     In: Bayern 2, radioWelt, 30 April 2021. \[Accompanying blogpost at
     [weltliteratur.net](https://weltliteratur.net/the-first-of-may-in-german-literature/).\]
 

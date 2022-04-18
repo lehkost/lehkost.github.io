@@ -13,7 +13,7 @@ DraCor – Ein Forschungsprojekt zur Analyse des europäischen Dramas und seine 
 <small>2022-05-26 · Università Ca’ Foscari di Venezia 🇮🇹 (Dramma europeo nell’età moderna: circolazioni, configurazioni e innovazioni)</small><br />
 The Italian Drama Corpus ([ItaDraCor](https://dracor.org/ita)) as Part of a Larger Digital Ecosystem
 
-<small>2022-05-11 · Freie Universität Berlin 🇩🇪 ([Ringvorlesung »Vernetzen und zerstreuen? Perspektiven für die akademische Lehre«](https://www.fu-berlin.de/vv/de/lv/733733))</small><br />
+<small>2022-05-11 · Freie Universität Berlin 🇩🇪 ([Ringvorlesung »Vernetzen und zerstreuen? Perspektiven für die akademische Lehre«](https://www.fu-berlin.de/sites/offenerhoersaal/vernetzen-und-zerstreuen/index.html))</small><br />
 Hacking Humanities: Didaktische Perspektiven für die Digitalen Geisteswissenschaften
 
 <small>2022-04-22 · (virtual) 🇪🇺 ([COST Action Final Event](https://www.distant-reading.net/events/conference-programme/))</small><br />
