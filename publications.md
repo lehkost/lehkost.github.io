@@ -17,10 +17,14 @@ title: Publications
 
 ### Edited Volumes
 
+-   Jan Horstmann, Frank Fischer (eds.): [**Digitale Verfahren in der
+    Literaturwissenschaft**](https://www.textpraxis.net/sonderausgabe-6).
+    Special Issue #6 of **Textpraxis. Digitales Journal für Philologie**
+    (1.2022).
 -   Frank Fischer, Marina Akimova, Boris Orekhov (eds.): [**Moscow
     Formalism and Literary
     History.**](https://www.degruyter.com/view/journals/jlt/13/1/jlt.13.issue-1.xml)
-    Special Issue of the Journal of Literary Theory. Vol. 13, Issue 1.
+    Special Issue of the **Journal of Literary Theory**. Vol. 13, Issue 1.
     Berlin/Boston: De Gruyter 2019.
 -   Frank Fischer, Jörg Riemer (eds.): **Joachim Wilhelm von Brawe:
     Brutus.** Leipzig: Ille & Riemer 2007 (2nd edition 2015). \[Review
@@ -30,11 +34,8 @@ title: Publications
     Freygeist.** Leipzig: Ille & Riemer 2002. \[Review by Hans-Gert
     Roloff in: Editionen in der Kritik 1 (2005).\]
 
-#### Forthcoming Edited Volumes
+#### Forthcoming Edited Volume
 
--   Jan Horstmann, Frank Fischer (eds.): **Digitale Verfahren in der Literaturwissenschaft.**
-    Special Issue of **Textpraxis**. Digitales Journal für Philologie.
-    (forthcoming 2022) ([CfP](https://dhd-blog.org/?p=13772))
 -   Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.):
     **World Literature and Wikipedia.**
     Special Issue of the **Journal of Cultural Analytics**.
@@ -68,22 +69,26 @@ title: Publications
 
 #### 2022
 
+-   Jan Horstmann, Frank Fischer: Einleitung. In: eid. (eds.):
+    Digitale  Verfahren in der Literaturwissenschaft. Special Issue #6
+    of Textpraxis. Digitales Journal für Philologie (1.2022).
+    ([doi:10.17879/64059433528](https://doi.org/10.17879/64059433528))
 -   Dîlan Canan Çakir, Frank Fischer: **Dramatische Metadaten. Die Datenbank
     deutschsprachiger Einakter 1740–1850.** In: DHd2022: »Kulturen des
     digitalen Gedächtnisses«. 7–11 March 2022. Book of Abstracts.
     University of Potsdam.
-    ([10.5281/zenodo.6327977](https://doi.org/10.5281/zenodo.6327977))
+    ([doi:10.5281/zenodo.6327977](https://doi.org/10.5281/zenodo.6327977))
 -   Alireza Zarei, Yim Seung-Bin, Matej Ďurčo, Klaus Illmayer, Laure Barbot,
     Frank Fischer, Edward Gray: **Der SSH Open Marketplace –
     Kontextualisiertes Praxiswissen für die Digital Humanities.**
     In: DHd2022: »Kulturen des digitalen Gedächtnisses«. 7–11 March 2022.
     Book of Abstracts. University of Potsdam.
-    ([10.5281/zenodo.6327975](https://doi.org/10.5281/zenodo.6327975))
+    ([doi:10.5281/zenodo.6327975](https://doi.org/10.5281/zenodo.6327975))
 -   Ingo Börner, Frank Fischer, Carsten Milling, Henny Sluyter-Gäthje:
     **Einführung in DraCor: Programmable Corpora für die digitale Dramenanalyse.**
     In: DHd2022: »Kulturen des digitalen Gedächtnisses«. 7–11 March 2022.
     Book of Abstracts. University of Potsdam.
-    ([10.5281/zenodo.6327951](https://doi.org/10.5281/zenodo.6327951))
+    ([doi:10.5281/zenodo.6327951](https://doi.org/10.5281/zenodo.6327951))
 
 #### 2021
 
@@ -252,12 +257,13 @@ title: Publications
     Relations in German-Language Drama (1730--1930).** In: DH2018:
     »Puentes/Bridges«. 26--29 June 2018. Book of Abstracts / Libro de
     resúmenes. Mexico: Red de Humanidades Digitales A. C. (URL:
-    <https://dh2018.adho.org/?p=9362>)
+    <https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf#page=193>)
 -   Boris Orekhov, Frank Fischer: **The 91st Volume -- How the Digitised
     Index for the Collected Works of Leo Tolstoy Adds a New Angle for
     Research.** In: DH2018: »Puentes/Bridges«. 26--29 June 2018. Book of
     Abstracts / Libro de resúmenes. Mexico: Red de Humanidades
-    Digitales A. C. (URL: <https://dh2018.adho.org/?p=9819>)
+    Digitales A. C. (URL:
+    <https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf#page=465>)
 -   Daniil Skorinkin, Frank Fischer: **Measuring the ›Epification‹ of
     Drama.** In: Applications in Cultural Evolution: Arts, Languages,
     Technologies. 6--8 June 2018. Conference abstracts. University of
