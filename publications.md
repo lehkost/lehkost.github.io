@@ -45,6 +45,11 @@ title: Publications
 
 #### Forthcoming
 
+-   Michel Schwab, Robert Jäschke, Frank Fischer: **The Rodney Dangerfield
+    of Stylistic Devices: End-to-End Detection and Extraction of Vossian
+    Antonomasia Using Neural Networks.** In: Frontiers in Artificial
+    Intelligence. (Accepted on 02 May 2022.)
+    ([doi:10.3389/frai.2022.868249](https://www.frontiersin.org/articles/10.3389/frai.2022.868249/abstract))
 -   Frank Fischer, Robert Jäschke: **Ein Quantum Literatur. Empirische
     Daten zu einer Theorie des literarischen Textumfangs.** In: Fotis
     Jannidis (ed.): Digitale Literaturwissenschaft (Contributions to the
@@ -69,7 +74,7 @@ title: Publications
 
 #### 2022
 
--   Jan Horstmann, Frank Fischer: Einleitung. In: eid. (eds.):
+-   Jan Horstmann, Frank Fischer: **Einleitung.** In: eid. (eds.):
     Digitale  Verfahren in der Literaturwissenschaft. Special Issue #6
     of Textpraxis. Digitales Journal für Philologie (1.2022).
     ([doi:10.17879/64059433528](https://doi.org/10.17879/64059433528))
@@ -324,6 +329,12 @@ title: Publications
     »Access/Accès«. 8--11 August 2017. Book of Abstracts. McGill
     University, Montréal. (URL:
     <https://dh2017.adho.org/abstracts/071/071.pdf>)
+-   Angelika Hechtl, Ingo Börner, Frank Fischer, Peer Trilcke:
+    **Cäsar Flaischlen’s ›Graphische Litteratur-Tafel‹ – Digitising a Giant
+    Historical Flowchart of Foreign Influences on German Literature.**
+    In: DH2017: »Access/Accès«. 8--11 August 2017. Book of Abstracts.
+    McGill University, Montréal. (URL:
+    <https://dh2017.adho.org/abstracts/506/506.pdf>)
 -   Frank Fischer, Robert Jäschke, Jannik Strötgen, Elena Krotova:
     **»Der Helmut Kohl unter den Brotaufstrichen«. Zur Extraktion
     vossianischer Antonomasien aus großen Zeitungskorpora.** In:
