@@ -14,7 +14,7 @@ Behind the Digitised Mask – Focusing on Single Characters Within Large Multili
 DraCor – Ein Forschungsprojekt zur Analyse des europäischen Dramas und seine digitale Umgebung
 
 <small>2022-05-26 · Università Ca’ Foscari di Venezia 🇮🇹 (Dramma europeo nell’età moderna: circolazioni, configurazioni e innovazioni)</small><br />
-The Italian Drama Corpus ([ItaDraCor](https://dracor.org/ita)) as Part of a Larger Digital Ecosystem
+[Il corpus del dramma italiano (ItaDraCor) come parte di un ecosistema digitale](https://lehkost.github.io/slides/2022-05-26-venezia/index.html)
 
 <small>2022-05-11 · Freie Universität Berlin 🇩🇪 ([Ringvorlesung »Vernetzen und zerstreuen? Perspektiven für die akademische Lehre«](https://www.fu-berlin.de/sites/offenerhoersaal/vernetzen-und-zerstreuen/20220511-oh-vernetzen-und-zerstreuen-fischer.html))</small><br />
 Hacking Humanities: Didaktische Perspektiven für die Digitalen Geisteswissenschaften
