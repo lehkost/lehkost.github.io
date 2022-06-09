@@ -14,7 +14,7 @@ Behind the Digitised Mask – Focusing on Single Characters Within Large Multili
 Network Analysis in Literary Studies (Workshop)
 
 <small>2022-06-09 · Freie Universität Berlin 🇩🇪 ([Digital\*Humanities im Gespräch #25](https://www.fu-berlin.de/sites/dhc/programme/termine/dh-gespraech-sose-22-2.html))</small><br />
-DraCor – Ein Forschungsprojekt zur Analyse des europäischen Dramas und seine digitale Umgebung
+[DraCor – Ein Forschungsprojekt zur Analyse des europäischen Dramas und seine digitale Umgebung](https://lehkost.github.io/slides/2022-06-09-dhc/index.html)
 
 <small>2022-05-26 · Università Ca’ Foscari di Venezia 🇮🇹 ([Dramma europeo nell’età moderna: circolazioni, configurazioni e innovazioni](https://www.unive.it/data/16437/1/62172))</small><br />
 [Il corpus del dramma italiano (ItaDraCor) come parte di un ecosistema digitale](https://lehkost.github.io/slides/2022-05-26-venezia/index.html)
