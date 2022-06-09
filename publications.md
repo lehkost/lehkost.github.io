@@ -45,11 +45,6 @@ title: Publications
 
 #### Forthcoming
 
--   Michel Schwab, Robert Jäschke, Frank Fischer: **The Rodney Dangerfield
-    of Stylistic Devices: End-to-End Detection and Extraction of Vossian
-    Antonomasia Using Neural Networks.** In: Frontiers in Artificial
-    Intelligence. (Accepted on 02 May 2022.)
-    ([doi:10.3389/frai.2022.868249](https://www.frontiersin.org/articles/10.3389/frai.2022.868249/abstract))
 -   Frank Fischer, Robert Jäschke: **Ein Quantum Literatur. Empirische
     Daten zu einer Theorie des literarischen Textumfangs.** In: Fotis
     Jannidis (ed.): Digitale Literaturwissenschaft (Contributions to the
@@ -74,6 +69,11 @@ title: Publications
 
 #### 2022
 
+-   Michel Schwab, Robert Jäschke, Frank Fischer: **The Rodney Dangerfield
+    of Stylistic Devices: End-to-End Detection and Extraction of Vossian
+    Antonomasia Using Neural Networks.** In: Frontiers in Artificial
+    Intelligence. (Published on 9 June 2022.)
+    ([doi:10.3389/frai.2022.868249](https://doi.org/10.3389/frai.2022.868249))
 -   Jan Horstmann, Frank Fischer: **Einleitung.** In: eid. (eds.):
     Digitale  Verfahren in der Literaturwissenschaft. Special Issue #6
     of Textpraxis. Digitales Journal für Philologie (1.2022).

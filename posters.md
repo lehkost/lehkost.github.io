@@ -98,3 +98,8 @@ Measures in Shakespeare's »Hamlet« (DH2020, Ottawa)**\
 [dh2020.adho.org](https://dh2020.adho.org/wp-content/uploads/2020/07/224_TobeornottobecentralOntheStabilityofNetworkCentralityMeasuresinShakespearesHamlet.html)
 (abstract) ·
 [Twitter](https://twitter.com/umblaetterer/status/1295669801826885632)
+
+*Laure Barbot, Edward Gray, Frank Fischer, Matej Ďurčo, Alexander König,
+Marie Puren, Stefan Buddenbohm, Cesare Concordia, Klaus Illmayer:*\
+**The SSH Open Marketplace: A Multi-Voiced Story (DARIAH2022, Athens)**\
+[zenodo](https://doi.org/10.5281/zenodo.6580303) (poster)

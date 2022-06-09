@@ -10,10 +10,13 @@ Invited talks, conference and workshop slides.
 <small>2022-09-02 · Amsterdam 🇳🇱 ([Transnational Drama Within and Beyond Europe, 1450–1750](https://translatin.nl/conference/))</small><br />
 Behind the Digitised Mask – Focusing on Single Characters Within Large Multilingual Corpora
 
+<small>2022-06-30 · LAHP + EXC2020 TC + ExC Matters of Activity 🇬🇧 🇩🇪 ([Digital Arts & Humanities Lab](https://userblogs.fu-berlin.de/digital-arts-and-humanities-lab/))</small><br />
+Network Analysis in Literary Studies (Workshop)
+
 <small>2022-06-09 · Freie Universität Berlin 🇩🇪 ([Digital\*Humanities im Gespräch #25](https://www.fu-berlin.de/sites/dhc/programme/termine/dh-gespraech-sose-22-2.html))</small><br />
 DraCor – Ein Forschungsprojekt zur Analyse des europäischen Dramas und seine digitale Umgebung
 
-<small>2022-05-26 · Università Ca’ Foscari di Venezia 🇮🇹 (Dramma europeo nell’età moderna: circolazioni, configurazioni e innovazioni)</small><br />
+<small>2022-05-26 · Università Ca’ Foscari di Venezia 🇮🇹 ([Dramma europeo nell’età moderna: circolazioni, configurazioni e innovazioni](https://www.unive.it/data/16437/1/62172))</small><br />
 [Il corpus del dramma italiano (ItaDraCor) come parte di un ecosistema digitale](https://lehkost.github.io/slides/2022-05-26-venezia/index.html)
 
 <small>2022-05-11 · Freie Universität Berlin 🇩🇪 ([Ringvorlesung »Vernetzen und zerstreuen? Perspektiven für die akademische Lehre«](https://www.fu-berlin.de/sites/offenerhoersaal/vernetzen-und-zerstreuen/20220511-oh-vernetzen-und-zerstreuen-fischer.html))</small><br />

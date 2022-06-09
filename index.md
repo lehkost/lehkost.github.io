@@ -3,8 +3,9 @@ layout: page
 title: Frank Fischer
 ---
 
-### Affiliation
-* Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](https://www.geisteswissenschaften.fu-berlin.de/we02/institut/mitarbeiter/Professoren/fischerf/index.html))
+Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](https://www.geisteswissenschaften.fu-berlin.de/we02/institut/mitarbeiter/Professoren/fischerf/index.html))
+
+### Additional Affiliation
 * Cluster of Excellence 2020 »Temporal Communities: Doing Literature in a Global Perspective« ([homepage](https://www.temporal-communities.de/people/fischer/index.html))
 
 ### Research Interests
@@ -23,7 +24,7 @@ title: Frank Fischer
 ### Former Affiliations
 * Director of [DARIAH-EU](https://www.dariah.eu/) (Digital Research Infrastructure for the Arts and Humanities), Berlin – Paris – Dublin – The Hague, 2017–2021
 * Ass. Prof. of Digital Humanities at Higher School of Economics, Moscow, 2016–2021
-* Digital Humanities coordinator at University of Göttingen, 2013–2016
+* Digital Humanities Coordinator at University of Göttingen, 2013–2016
 
 ### Visiting Scholarships
 * Aarhus University, 2018
