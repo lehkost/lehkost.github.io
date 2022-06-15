@@ -10,6 +10,15 @@ Invited talks, conference and workshop slides.
 <small>2022-09-02 · Amsterdam 🇳🇱 ([Transnational Drama Within and Beyond Europe, 1450–1750](https://translatin.nl/conference/))</small><br />
 Behind the Digitised Mask – Focusing on Single Characters Within Large Multilingual Corpora
 
+<small>2022-07-28 · Tokyo 🇯🇵 ([DH2022](https://dh2022.adho.org/))</small><br />
+Measuring the Use of Tools and Software in the Digital Humanities: A Machine-Learning Approach for Extracting Software Mentions from Scholarly Articles
+
+<small>2022-07-27 · Tokyo 🇯🇵 ([DH2022](https://dh2022.adho.org/))</small><br />
+Patterns of Verb Usage in Immanuel Kant’s Critical Writings
+
+<small>2022-07-27 · Tokyo 🇯🇵 ([DH2022](https://dh2022.adho.org/))</small><br />
+The European Open Science Cloud (EOSC) and Its Implications for the Digital Humanities and Social Sciences
+
 <small>2022-06-30 · LAHP + EXC2020 TC + ExC Matters of Activity 🇬🇧 🇩🇪 ([Digital Arts & Humanities Lab](https://userblogs.fu-berlin.de/digital-arts-and-humanities-lab/))</small><br />
 Network Analysis in Literary Studies (Workshop)
 
