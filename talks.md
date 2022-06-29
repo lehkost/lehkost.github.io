@@ -22,8 +22,8 @@ The European Open Science Cloud (EOSC) and Its Implications for the Digital Huma
 <small>2022-07-25 · Tokyo 🇯🇵 ([DH2022](https://dh2022.adho.org/))</small><br />
 [Introduction to DraCor – Programmable Corpora for Digital Drama Analysis](https://dh2022.adho.org/workshops-and-tutorials/wt-12)
 
-<small><s>2022-06-30 · LAHP + EXC2020 TC + ExC Matters of Activity 🇬🇧 🇩🇪 ([Digital Arts & Humanities Lab](https://userblogs.fu-berlin.de/digital-arts-and-humanities-lab/))</s></small><br />
-<s>Network Analysis in Literary Studies (Workshop)</s> [postponed]
+<small><s>2022-06-30</s> · LAHP + EXC2020 TC + ExC Matters of Activity 🇬🇧 🇩🇪 ([Digital Arts & Humanities Lab](https://userblogs.fu-berlin.de/digital-arts-and-humanities-lab/))</small><br />
+Network Analysis in Literary Studies (Workshop) [postponed]
 
 <small>2022-06-09 · Freie Universität Berlin 🇩🇪 ([Digital\*Humanities im Gespräch #25](https://www.fu-berlin.de/sites/dhc/programme/termine/dh-gespraech-sose-22-2.html))</small><br />
 [DraCor – Ein Forschungsprojekt zur Analyse des europäischen Dramas und seine digitale Umgebung](https://lehkost.github.io/slides/2022-06-09-dhc/index.html)
