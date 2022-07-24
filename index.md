@@ -9,13 +9,14 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 * Cluster of Excellence 2020 »Temporal Communities: Doing Literature in a Global Perspective« ([homepage](https://www.temporal-communities.de/people/fischer/index.html))
 
 ### Research Interests
-* Computational Literary Studies, World Literature, European Drama, Network Analysis, Artificial Neural Networks for the Study of Literature, Vossian Antonomasia, Linked Open Data, Research Infrastructures for Literary Studies, 18th–21st Century Literature
+* Computational Literary Studies, World Literature, European Drama, Network Analysis, Artificial Neural Networks for the Study of Literature, Linked Open Data, Research Infrastructures for Literary Studies, 18th–21st Century Literature
 
 ### Current Main Projects
 * [SSHOC](https://www.sshopencloud.eu/) (Social Sciences and Humanities Open Cloud) – steering committee and WP leader (2019–2022) – main outcome: [SSH Open Marketplace](https://marketplace.sshopencloud.eu/)
-* [CLS INFRA](https://clsinfra.io/) (Computational Literary Studies) – steering committee and WP Leader (2021–2025)
+* [CLS INFRA](https://clsinfra.io/) (Computational Literary Studies) – steering committee and WP leader (2021–2025)
 * [DraCor](https://dracor.org/) – multilingual Drama Corpora platform (a showcase for [Programmable Corpora](https://doi.org/10.5281/zenodo.4284002)) – editor-in-chief (2017–)
-* [Einakter](https://einakter.dracor.org/) – Database of German-Language One-Act Plays (2020–)
+* [Vossian Antonomasia](https://vossanto.weltliteratur.net/) – neural-network-based extraction methods for a special form of antonomasia, a project in cooperation with colleagues from Berlin School of Library and Information Science at Humboldt University (2017–)
+* [Einakter](https://einakter.dracor.org/) – database of German-language one-act plays (2020–)
 
 ### Education
 * PhD in Literature (University of Jena), 2012

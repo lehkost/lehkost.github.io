@@ -19,8 +19,8 @@ Patterns of Verb Usage in Immanuel Kant’s Critical Writings
 <small>2022-07-27 · Tokyo 🇯🇵 ([DH2022](https://dh2022.adho.org/))</small><br />
 The European Open Science Cloud (EOSC) and Its Implications for the Digital Humanities and Social Sciences
 
-<small>2022-07-25 · Tokyo 🇯🇵 ([DH2022](https://dh2022.adho.org/))</small><br />
-[Introduction to DraCor – Programmable Corpora for Digital Drama Analysis](https://dh2022.adho.org/workshops-and-tutorials/wt-12)
+<small>2022-07-25 · Tokyo 🇯🇵 ([DH2022](https://dh2022.adho.org/workshops-and-tutorials/wt-12))</small><br />
+[Introduction to DraCor – Programmable Corpora for Digital Drama Analysis](https://lehkost.github.io/slides/2022-07-25-tokyo/index.html)
 
 <small><s>2022-06-30</s> · LAHP + EXC2020 TC + ExC Matters of Activity 🇬🇧 🇩🇪 ([Digital Arts & Humanities Lab](https://userblogs.fu-berlin.de/digital-arts-and-humanities-lab/))</small><br />
 Network Analysis in Literary Studies (Workshop) [postponed]

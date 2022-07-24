@@ -3,7 +3,7 @@ layout: page
 title: Posters
 ---
 
-… for conferences (2016–2021).
+… for conferences (2016–2022).
 
 *Frank Fischer, Christopher Kittel, Peer Trilcke, Mathias Göbel, Andreas
 Vogel, Hanna-Lena Meiners, Dario Kampkaspar:*\
@@ -103,3 +103,14 @@ Measures in Shakespeare's »Hamlet« (DH2020, Ottawa)**\
 Marie Puren, Stefan Buddenbohm, Cesare Concordia, Klaus Illmayer:*\
 **The SSH Open Marketplace: A Multi-Voiced Story (DARIAH2022, Athens)**\
 [zenodo](https://doi.org/10.5281/zenodo.6580303) (poster)
+
+*Julie Birkholz, Ingo Börner, Sally Chambers, Vera Charvat, Silvie
+Cinková, Tess Dejaeghere, Julia Dudar, Matej Ďurčo, Maciej Eder,
+Jennifer Edmond, Evgeniia Fileva, Frank Fischer, Serge Heiden,
+Michal Křen, Bartłomiej Kunda, Michał Mrugalski, Ciara Murphy,
+Carolin Odebrecht, Marco Raciti, Salvador Ros, Christof Schöch,
+Artjoms Šeļa, Toma Tasovac, Justin Tonra, Erzsébet Tóth-Czifra,
+Peer Trilcke, Karina van Dalen-Oskam, Lisanne van Rossum:*\
+**Computational Literary Studies Infrastructure (CLS INFRA):
+A Project to Connect People, Data, Tools, and Methods**\
+[dh2022.dhii.asia](https://dh2022.dhii.asia/abstracts/464) (abstract)
