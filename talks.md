@@ -8,7 +8,7 @@ Invited talks, conference and workshop slides.
 ### 2022
 
 <small>2022-09-02 · Amsterdam 🇳🇱 ([Transnational Drama Within and Beyond Europe, 1450–1750](https://translatin.nl/conference/))</small><br />
-Behind the Digitised Mask – Focusing on Single Characters Within Large Multilingual Corpora
+[Behind the Digitised Mask – Focusing on Single Characters Within Large Multilingual Corpora](https://lehkost.github.io/slides/2022-09-02-amsterdam/index.html)
 
 <small>2022-07-28 · Tokyo 🇯🇵 ([DH2022](https://dh2022.adho.org/))</small><br />
 Measuring the Use of Tools and Software in the Digital Humanities: A Machine-Learning Approach for Extracting Software Mentions from Scholarly Articles
