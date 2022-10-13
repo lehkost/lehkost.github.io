@@ -50,14 +50,17 @@ title: Publications
     Jannidis (ed.): Digitale Literaturwissenschaft (Contributions to the
     DFG Symposium at Villa Vigoni, 9--13 October 2017). Stuttgart:
     Metzler. (forthcoming 2022)
--   Tanja Wissik, Leon Wessels, Frank Fischer: **The DH Course Registry:
-    A Piece of the Puzzle in the Technical and Knowledge Infrastructure
-    of CLARIN.** In: CLARIN Book 2022. (forthcoming 2022)
 
 #### 2022
 
+-   Tanja Wissik, Leon Wessels, Frank Fischer: **The DH Course Registry:
+    A Piece of the Puzzle in CLARIN’s Technical and Knowledge
+    Infrastructure.** In: Darja Fišer, Andreas Witt (eds.): CLARIN. The
+    Infrastructure for Language Resources. (= Digital Linguistics. Vol. 1.
+    Edited by Andreas Witt.) Berlin/Boston: De Gruyter 2022, pp. 389–408.
+    ([doi:10.1515/9783110767377-015](https://doi.org/10.1515/9783110767377-015))
 -   Stefan Heßbrüggen-Walter, Frank Fischer, Simon Meier-Vieracker:
-    **Patterns of Verb Usage in Immanuel Kant's Critical Writings.**
+    **Patterns of Verb Usage in Immanuel Kant’s Critical Writings.**
     In: DH2022: »Responding to Asian Diversity«. 25--29 July 2022. Book of
     Abstracts. University of Tokyo.
     (URL: <https://dh2022.dhii.asia/abstracts/202>)
@@ -299,8 +302,8 @@ title: Publications
 
 -   Frank Fischer, Gilles Dazord, Mathias Göbel, Christopher Kittel,
     Peer Trilcke: **Le drame comme réseau de relations. Une application
-    de l'analyse automatisée pour l'histoire littéraire du théâtre.**
-    In: Revue d'Historiographie du Théâtre. Numéro 4 (2017).
+    de l’analyse automatisée pour l’histoire littéraire du théâtre.**
+    In: Revue d’Historiographie du Théâtre. Numéro 4 (2017).
     ([hal-01811799](https://hal.archives-ouvertes.fr/hal-01811799))
 -   Christoph Hube, Frank Fischer, Robert Jäschke, Gerhard Lauer, Mads
     Rosendahl Thomsen: **World Literature According to Wikipedia:
@@ -444,12 +447,12 @@ title: Publications
 #### Reviews
 
 -   Frank Fischer: **Nichtlesen als Methode der Literaturwissenschaft
-    \[on Matthew Jockers' »Macroanalysis«\].** In: IASLonline, 15
+    \[on Matthew Jockers’ »Macroanalysis«\].** In: IASLonline, 15
     August 2016. (URL:
     <https://www.iaslonline.lmu.de/index.php?vorgang_id=4007>)
 -   Frank Fischer: **Karl Moor und der Sprengstoffgürtel. Über den
     Versuch einer alternativen Ideengeschichte des Selbstmordattentats
-    \[on Arata Takeda's »Ästhetik der Selbstzerstörung.
+    \[on Arata Takeda’s »Ästhetik der Selbstzerstörung.
     Selbstmordattentäter in der abendländischen Literatur«\].** In:
     IASLonline, 11 October 2011. (URL:
     <https://www.iaslonline.lmu.de/index.php?vorgang_id=3424>)
@@ -462,7 +465,7 @@ title: Publications
     August 2007. (URL:
     <https://www.iaslonline.lmu.de/index.php?vorgang_id=1874>)
 -   Frank Fischer: **Die Gegenwart der Gegenwart \[on Eckhard
-    Schumacher's monograph »Gerade Eben Jetzt. Schreibweisen der
+    Schumacher’s monograph »Gerade Eben Jetzt. Schreibweisen der
     Gegenwart«\].** In: IASLonline, 14 July 2004. (URL:
     <https://www.iaslonline.lmu.de/index.php?vorgang_id=1020>)
 -   Frank Fischer: **Der lange Weg zur HKA \[on the edited volume
