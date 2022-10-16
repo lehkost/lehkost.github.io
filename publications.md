@@ -56,7 +56,7 @@ title: Publications
 -   Tanja Wissik, Leon Wessels, Frank Fischer: **The DH Course Registry:
     A Piece of the Puzzle in CLARIN’s Technical and Knowledge
     Infrastructure.** In: Darja Fišer, Andreas Witt (eds.): CLARIN. The
-    Infrastructure for Language Resources. (= Digital Linguistics. Vol. 1.
+    Infrastructure for Language Resources. (= Digital Linguistics. Vol. 1.
     Edited by Andreas Witt.) Berlin/Boston: De Gruyter 2022, pp. 389–408.
     ([doi:10.1515/9783110767377-015](https://doi.org/10.1515/9783110767377-015))
 -   Stefan Heßbrüggen-Walter, Frank Fischer, Simon Meier-Vieracker:

@@ -52,7 +52,7 @@ Feuilleton articles and some [translations](#translations).
 
 -   Frank Fischer: [**Nördlich der Südvorstadt. Eine Erzählung aus den
     Leipziger
-    Kaffeehäusern.**](https://twitter.com/umblaetterer/status/710549383809540096)
+    Kaffeehäusern.**](https://www.monopol-magazin.de/noerdlich-der-suedvorstadt)
     In: MONOPOL. Magazin für Kunst und Leben, [Special Issue
     »Sachsen«](https://www.monopol-magazin.de/so-schoen-ist-sachsen)
     (Spring 2016), pp. 20--21.

@@ -12,11 +12,14 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 * Computational Literary Studies, World Literature, European Drama, Network Analysis, Artificial Neural Networks for the Study of Literature, Linked Open Data, Research Infrastructures for Literary Studies, 18th–21st Century Literature
 
 ### Current Main Projects
-* [SSHOC](https://www.sshopencloud.eu/) (Social Sciences and Humanities Open Cloud) – steering committee and WP leader (2019–2022) – main outcome: [SSH Open Marketplace](https://marketplace.sshopencloud.eu/)
+* [Digital Observatory of World Literature](https://www.temporal-communities.de/research/digital-communities/projects/digital-observatory-world-literature) – project lead (2023–)
 * [CLS INFRA](https://clsinfra.io/) (Computational Literary Studies) – steering committee and WP leader (2021–2025)
+* [Einakter](https://einakter.dracor.org/) – database of German-language one-act plays (2020–)
 * [DraCor](https://dracor.org/) – multilingual Drama Corpora platform (a showcase for [Programmable Corpora](https://doi.org/10.5281/zenodo.4284002)) – editor-in-chief (2017–)
 * [Vossian Antonomasia](https://vossanto.weltliteratur.net/) – neural-network-based extraction methods for a special form of antonomasia, a project in cooperation with colleagues from Berlin School of Library and Information Science at Humboldt University (2017–)
-* [Einakter](https://einakter.dracor.org/) – database of German-language one-act plays (2020–)
+
+### Finished Projects
+* [SSHOC](https://www.sshopencloud.eu/) (Social Sciences and Humanities Open Cloud) – steering committee and WP leader (2019–2022) – main outcome: [SSH Open Marketplace](https://marketplace.sshopencloud.eu/)
 
 ### Education
 * PhD in Literature (University of Jena), 2012
