@@ -42,7 +42,7 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 ### Profiles
 * ORCID: [0000-0003-2419-6629](https://orcid.org/0000-0003-2419-6629)
 * GitHub: [lehkost](https://github.com/lehkost)
-* <a rel="me" href="https://chaos.social/@umblaetterer">@umblaetterer@chaos.social</a>
+* Mastodon: <a rel="me" href="https://chaos.social/@umblaetterer">@umblaetterer@chaos.social</a>
 * Twitter: [@umblaetterer](https://twitter.com/umblaetterer)
 * dblp: [13/3984-5](https://dblp.org/pid/13/3984-5)
 * Index of DH Conferences: [authors/2614](https://dh-abstracts.library.cmu.edu/authors/2614)
