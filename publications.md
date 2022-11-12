@@ -50,9 +50,21 @@ title: Publications
     Jannidis (ed.): Digitale Literaturwissenschaft (Contributions to the
     DFG Symposium at Villa Vigoni, 9--13 October 2017). Stuttgart:
     Metzler. (forthcoming 2022)
+-   Michel Schwab, Robert Jäschke, Frank Fischer: **»Der Frank Sinatra
+    der Wettervorhersage«: Cross-Lingual Vossian Antonomasia Extraction.**
+    In: 5th International Conference on Natural Language and Speech
+    Processing (ICNLSP 2022).
 
 #### 2022
 
+-   Frank Fischer, Teresa Santa María Fernández, José Calvo Tello,
+    Carsten Milling: **Una perspectiva comparativa del teatro español:
+    integración de la »Biblioteca Electrónica Textual del Teatro en
+    Español« en la plataforma »DraCor«.** In: Celis Sánchez, María Ángela
+    (eds.): Las humanidades digitales como expresión y estudio del
+    patrimonio digital. Cuenca: Ediciones de la Universidad de
+    Castilla–La Mancha 2021 \[recte: 2022\], pp. 273–282.
+    ([doi:10.18239/jornadas_2021.31.00](http://doi.org/10.18239/jornadas_2021.31.00))
 -   Tanja Wissik, Leon Wessels, Frank Fischer: **The DH Course Registry:
     A Piece of the Puzzle in CLARIN’s Technical and Knowledge
     Infrastructure.** In: Darja Fišer, Andreas Witt (eds.): CLARIN. The
@@ -191,12 +203,6 @@ title: Publications
     Conference on Empirical Methods in Natural Language Processing
     (EMNLP). Association for Computational Linguistics 2019.
     ([doi:10.18653/v1/D19-1647](https://dx.doi.org/10.18653/v1/D19-1647))
--   Frank Fischer, Teresa Santa María Fernández, José Calvo Tello,
-    Carsten Milling: **Una perspectiva comparativa del teatro español:
-    integración de la »Biblioteca Electrónica Textual del Teatro en
-    Español« en la plataforma »DraCor«.** In: HDH2019: »Humanidades
-    digitales y patrimonio cultural«. 23--25 October 2019. Universidad
-    de Castilla--La Mancha, Toledo.
 -   Frank Fischer, Susanne Haaf, Marius Hug: **The Best of Three Worlds:
     Mutual Enhancement of Corpora of Dramatic Texts (GerDraCor, German
     Text Archive, TextGrid Repository).** In: CLARIN Annual
