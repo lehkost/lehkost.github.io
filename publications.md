@@ -54,6 +54,10 @@ title: Publications
     der Wettervorhersage«: Cross-Lingual Vossian Antonomasia Extraction.**
     In: 5th International Conference on Natural Language and Speech
     Processing (ICNLSP 2022).
+-   Michel Schwab, Frank Fischer: **»Die Greta Garbo der Leichtathletik«.
+    Eine systematische Analyse der Modifier vossianischer Antonomasien
+    mithilfe von Word Embeddings.** In: DHd2023: »Open Humanities, Open
+    Culture«. 13–17 March 2023. Book of Abstracts. University of Trier.
 
 #### 2022
 
@@ -102,7 +106,7 @@ title: Publications
     University of Potsdam.
     ([doi:10.5281/zenodo.6327977](https://doi.org/10.5281/zenodo.6327977))
 -   Alireza Zarei, Yim Seung-Bin, Matej Ďurčo, Klaus Illmayer, Laure Barbot,
-    Frank Fischer, Edward Gray: **Der SSH Open Marketplace –
+    Frank Fischer, Edward Gray: **Der SSH Open Marketplace.
     Kontextualisiertes Praxiswissen für die Digital Humanities.**
     In: DHd2022: »Kulturen des digitalen Gedächtnisses«. 7–11 March 2022.
     Book of Abstracts. University of Potsdam.
@@ -342,7 +346,7 @@ title: Publications
     University, Montréal. (URL:
     <https://dh2017.adho.org/abstracts/071/071.pdf>)
 -   Angelika Hechtl, Ingo Börner, Frank Fischer, Peer Trilcke:
-    **Cäsar Flaischlen’s ›Graphische Litteratur-Tafel‹ – Digitising a Giant
+    **Cäsar Flaischlen’s ›Graphische Litteratur-Tafel‹. Digitising a Giant
     Historical Flowchart of Foreign Influences on German Literature.**
     In: DH2017: »Access/Accès«. 8--11 August 2017. Book of Abstracts.
     McGill University, Montréal. (URL:
