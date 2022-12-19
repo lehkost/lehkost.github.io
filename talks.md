@@ -7,6 +7,9 @@ Invited talks, conference and workshop slides.
 
 ### 2022
 
+<small>2022-12-19 · Università degli Studi di Trento 🇮🇹 ([ICNLSP 2022](https://www.icnlsp.org/2022welcome/))</small><br />
+[»Der Frank Sinatra der Wettervorhersage«: Cross-Lingual Vossian Antonomasia Extraction](https://schwabmi.github.io/presentations/2022-12-17-icnlsp/)
+
 <small>2022-09-02 · Amsterdam 🇳🇱 ([Transnational Drama Within and Beyond Europe, 1450–1750](https://translatin.nl/conference/))</small><br />
 [Behind the Digitised Mask – Focusing on Single Characters Within Large Multilingual Corpora](https://lehkost.github.io/slides/2022-09-02-amsterdam/index.html)
 

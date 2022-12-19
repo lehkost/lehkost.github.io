@@ -54,6 +54,12 @@ title: Publications
     der Wettervorhersage«: Cross-Lingual Vossian Antonomasia Extraction.**
     In: 5th International Conference on Natural Language and Speech
     Processing (ICNLSP 2022).
+-   Frank Fischer, Viktor Jonathan Illmer, Lukas Nils Regeler,
+    Jutta Müller-Tamm, Luise von Berenberg-Gossler, Franziska Diehr:
+    **Internationale Autor\*innen zu Gast in der DDR: Die Einreisekartei
+    des Schriftstellerverbandes und ihre digitale Aufbereitung.**
+    In: DHd2023: »Open Humanities, Open Culture«. 13–17 March 2023.
+    Book of Abstracts. University of Trier.
 -   Michel Schwab, Frank Fischer: **»Die Greta Garbo der Leichtathletik«.
     Eine systematische Analyse der Modifier vossianischer Antonomasien
     mithilfe von Word Embeddings.** In: DHd2023: »Open Humanities, Open
@@ -94,7 +100,7 @@ title: Publications
 -   Michel Schwab, Robert Jäschke, Frank Fischer: **The Rodney Dangerfield
     of Stylistic Devices: End-to-End Detection and Extraction of Vossian
     Antonomasia Using Neural Networks.** In: Frontiers in Artificial
-    Intelligence. (Published on 9 June 2022.)
+    Intelligence, Vol. 5 (9 June 2022.)
     ([doi:10.3389/frai.2022.868249](https://doi.org/10.3389/frai.2022.868249))
 -   Jan Horstmann, Frank Fischer: **Einleitung.** In: eid. (eds.):
     Digitale  Verfahren in der Literaturwissenschaft. Special Issue #6

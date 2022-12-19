@@ -114,3 +114,7 @@ Peer Trilcke, Karina van Dalen-Oskam, Lisanne van Rossum:*\
 **Computational Literary Studies Infrastructure (CLS INFRA):
 A Project to Connect People, Data, Tools, and Methods**\
 [dh2022.dhii.asia](https://dh2022.dhii.asia/abstracts/464) (abstract)
+
+*Ingo Börner, Frank Fischer, Luca Giovannini, Christopher Lu,
+Carsten Milling, Daniil Skorinkin, Henny Sluyter-Gäthje, Peer Trilcke:*\
+**Onboard onto DraCor (DHd2023, Trier)**\
