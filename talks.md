@@ -5,10 +5,18 @@ title: Talks/Slides
 
 Invited talks, conference and workshop slides.
 
+### 2023
+
+<small>2023-03-17 · University of Trier 🇩🇪 ([DHd2023](https://dhd2023.dig-hum.de/))</small><br />
+»Die Greta Garbo der Leichtathletik« – Eine systematische Analyse der Modifier vossianischer Antonomasien mithilfe von Word Embeddings
+
+<small>2023-03-15 · University of Trier 🇩🇪 ([DHd2023](https://dhd2023.dig-hum.de/))</small><br />
+Internationale Autor\*innen zu Gast in der DDR: Die Einreisekartei des Schriftstellerverbandes und ihre digitale Aufbereitung
+
 ### 2022
 
 <small>2022-12-19 · Università degli Studi di Trento 🇮🇹 ([ICNLSP 2022](https://www.icnlsp.org/2022welcome/))</small><br />
-[»Der Frank Sinatra der Wettervorhersage«: Cross-Lingual Vossian Antonomasia Extraction](https://schwabmi.github.io/presentations/2022-12-17-icnlsp/)
+[»Der Frank Sinatra der Wettervorhersage«: Cross-Lingual Vossian Antonomasia Extraction](https://schwabmi.github.io/presentations/2022-12-17-icnlsp/) ([YouTube](https://youtu.be/ZMYTFTHaU3Q))
 
 <small>2022-09-02 · Amsterdam 🇳🇱 ([Transnational Drama Within and Beyond Europe, 1450–1750](https://translatin.nl/conference/))</small><br />
 [Behind the Digitised Mask – Focusing on Single Characters Within Large Multilingual Corpora](https://lehkost.github.io/slides/2022-09-02-amsterdam/index.html)
@@ -218,7 +226,7 @@ A Data-Driven View on Russian Drama ([conference review at H-Soz-Kult](https://w
 [Quantum of Literature: Empirical Data on a Theory of Text Length](/slides/2019-03-09-washington-acla/index.html)
 
 <small>2019-03-02 · Yandex, Moscow 🇷🇺 ([Data & Science: цифровые методы в гуманитарных науках](https://events.yandex.ru/events/ds/02-mar-2019/))</small><br />
-[Digital Humanities Between Research and Infrastructure](/slides/2019-03-02-yandex/index.html) ([YouTube](https://www.youtube.com/watch?v=h-pxlY_iQmg))
+[Digital Humanities Between Research and Infrastructure](/slides/2019-03-02-yandex/index.html) ([YouTube](https://youtu.be/h-pxlY_iQmg))
 
 <small>2019-02-27 · Higher School of Economics, Moscow 🇷🇺 ([DH Meet-Up HSE](https://hum.hse.ru/digital/dh_meetup))</small><br />
 Automatic Extraction of Vossian Antonomasia from Newspaper Corpora (recap of our [recent paper](https://doi.org/10.1093/llc/fqy087))

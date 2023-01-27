@@ -49,7 +49,7 @@ title: Publications
     Daten zu einer Theorie des literarischen Textumfangs.** In: Fotis
     Jannidis (ed.): Digitale Literaturwissenschaft (Contributions to the
     DFG Symposium at Villa Vigoni, 9--13 October 2017). Stuttgart:
-    Metzler. (forthcoming 2022)
+    Metzler. (forthcoming 2023)
 -   Michel Schwab, Robert Jäschke, Frank Fischer: **»Der Frank Sinatra
     der Wettervorhersage«: Cross-Lingual Vossian Antonomasia Extraction.**
     In: 5th International Conference on Natural Language and Speech

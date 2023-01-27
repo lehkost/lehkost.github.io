@@ -117,4 +117,4 @@ A Project to Connect People, Data, Tools, and Methods**\
 
 *Ingo Börner, Frank Fischer, Luca Giovannini, Christopher Lu,
 Carsten Milling, Daniil Skorinkin, Henny Sluyter-Gäthje, Peer Trilcke:*\
-**Onboard onto DraCor (DHd2023, Trier)**\
+**Onboard onto DraCor (DHd2023, Trier)**
