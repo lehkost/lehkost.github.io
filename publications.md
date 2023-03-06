@@ -45,10 +45,6 @@ title: Publications
 
 #### Forthcoming
 
--   Michel Schwab, Robert Jäschke, Frank Fischer: **»Der Frank Sinatra
-    der Wettervorhersage«: Cross-Lingual Vossian Antonomasia Extraction.**
-    In: 5th International Conference on Natural Language and Speech
-    Processing (ICNLSP 2022).
 -   Frank Fischer, Viktor Jonathan Illmer, Lukas Nils Regeler,
     Jutta Müller-Tamm, Luise von Berenberg-Gossler, Franziska Diehr:
     **Internationale Autor\*innen zu Gast in der DDR: Die Einreisekartei
@@ -71,6 +67,11 @@ title: Publications
 
 #### 2022
 
+-   Michel Schwab, Robert Jäschke, Frank Fischer: **»Der Frank Sinatra
+    der Wettervorhersage«: Cross-Lingual Vossian Antonomasia Extraction.**
+    In: Proceedings of the 5th International Conference on Natural
+    Language and Speech Processing (ICNLSP 2022), pp. 282--287.
+    (URL: <https://aclanthology.org/2022.icnlsp-1.33>)
 -   Frank Fischer, Teresa Santa María Fernández, José Calvo Tello,
     Carsten Milling: **Una perspectiva comparativa del teatro español:
     integración de la »Biblioteca Electrónica Textual del Teatro en
