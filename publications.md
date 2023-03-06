@@ -45,11 +45,6 @@ title: Publications
 
 #### Forthcoming
 
--   Frank Fischer, Robert Jäschke: **Ein Quantum Literatur. Empirische
-    Daten zu einer Theorie des literarischen Textumfangs.** In: Fotis
-    Jannidis (ed.): Digitale Literaturwissenschaft (Contributions to the
-    DFG Symposium at Villa Vigoni, 9--13 October 2017). Stuttgart:
-    Metzler. (forthcoming 2023)
 -   Michel Schwab, Robert Jäschke, Frank Fischer: **»Der Frank Sinatra
     der Wettervorhersage«: Cross-Lingual Vossian Antonomasia Extraction.**
     In: 5th International Conference on Natural Language and Speech
@@ -64,6 +59,15 @@ title: Publications
     Eine systematische Analyse der Modifier vossianischer Antonomasien
     mithilfe von Word Embeddings.** In: DHd2023: »Open Humanities, Open
     Culture«. 13–17 March 2023. Book of Abstracts. University of Trier.
+
+#### 2023
+
+-   Frank Fischer, Robert Jäschke: **Ein Quantum Literatur. Empirische
+    Daten zu einer Theorie des literarischen Textumfangs.** In: Fotis
+    Jannidis (ed.): Digitale Literaturwissenschaft. Germanistische Symposien.
+    \[Contributions to the DFG Symposium at Villa Vigoni, 9--13 October 2017.\)
+    Stuttgart: Metzler 2022 \[recte: 2023\], pp. 777--812.
+    ([doi:10.1007/978-3-476-05886-7_32](https://doi.org/10.1007/978-3-476-05886-7_32))
 
 #### 2022
 

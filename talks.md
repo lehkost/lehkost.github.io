@@ -7,6 +7,9 @@ Invited talks, conference and workshop slides.
 
 ### 2023
 
+<small>2023-08-09 · DLA Marbach 🇩🇪 ([Summer School: Literature Data and Digital Literature](https://www.dla-marbach.de/kalender/detail/521/))</small><br />
+Literaturwissenschaftliche Netzwerkanalyse (Workshop)
+
 <small>2023-03-17 · University of Trier 🇩🇪 ([DHd2023](https://dhd2023.dig-hum.de/))</small><br />
 »Die Greta Garbo der Leichtathletik« – Eine systematische Analyse der Modifier vossianischer Antonomasien mithilfe von Word Embeddings
 
