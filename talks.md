@@ -14,7 +14,7 @@ Literaturwissenschaftliche Netzwerkanalyse (Workshop)
 »Die Greta Garbo der Leichtathletik« – Eine systematische Analyse der Modifier vossianischer Antonomasien mithilfe von Word Embeddings
 
 <small>2023-03-15 · University of Trier 🇩🇪 ([DHd2023](https://dhd2023.dig-hum.de/))</small><br />
-Internationale Autor\*innen zu Gast in der DDR: Die Einreisekartei des Schriftstellerverbandes und ihre digitale Aufbereitung
+[Internationale Autor\*innen zu Gast in der DDR – Die Einreisekartei des Schriftstellerverbandes und ihre digitale Aufbereitung](https://bit.ly/dsv-dhd)
 
 ### 2022
 
