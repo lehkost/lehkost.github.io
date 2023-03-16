@@ -11,7 +11,7 @@ Invited talks, conference and workshop slides.
 Literaturwissenschaftliche Netzwerkanalyse (Workshop)
 
 <small>2023-03-17 · University of Trier 🇩🇪 ([DHd2023](https://dhd2023.dig-hum.de/))</small><br />
-»Die Greta Garbo der Leichtathletik« – Eine systematische Analyse der Modifier vossianischer Antonomasien mithilfe von Word Embeddings
+[»Die Greta Garbo der Leichtathletik« – Eine systematische Analyse der Modifier vossianischer Antonomasien mithilfe von Word Embeddings](https://bit.ly/va-trier)
 
 <small>2023-03-15 · University of Trier 🇩🇪 ([DHd2023](https://dhd2023.dig-hum.de/))</small><br />
 [Internationale Autor\*innen zu Gast in der DDR – Die Einreisekartei des Schriftstellerverbandes und ihre digitale Aufbereitung](https://bit.ly/dsv-dhd)

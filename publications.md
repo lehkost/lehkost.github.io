@@ -43,13 +43,17 @@ title: Publications
 
 ### Peer-Reviewed Papers and Articles for Edited Volumes
 
+#### Forthcoming
+
+-   –
+
 #### 2023
 
 -   Michel Schwab, Frank Fischer: **»Die Greta Garbo der Leichtathletik«.
     Eine systematische Analyse der Modifier vossianischer Antonomasien
     mithilfe von Word Embeddings.** In: DHd2023: »Open Humanities, Open
     Culture«. 13–17 March 2023. Book of Abstracts. University of Trier.
-    ([doi:10.5281/10.5281/zenodo.7715490](https://doi.org/10.5281/zenodo.7715490))
+    ([doi:10.5281/zenodo.7715490](https://doi.org/10.5281/zenodo.7715490))
 -   Frank Fischer, Viktor Jonathan Illmer, Lukas Nils Regeler,
     Jutta Müller-Tamm, Luise von Berenberg-Gossler, Franziska Diehr:
     **Internationale Autor\*innen zu Gast in der DDR: Die Einreisekartei
