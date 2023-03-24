@@ -16,6 +16,7 @@ title: Projects
 * Tool Usage in the Digital Humanities (2019–)
 
 ### Finished Projects
+* [Einreisekartei des Schriftstellerverbands der DDR](https://dsv-einreisekartei.temporal-communities.de/) (2022–2023)
 * [SSHOC](https://www.sshopencloud.eu/) (Social Sciences and Humanities Open Cloud) – steering committee and WP leader (2019–2022) – main outcome: [SSH Open Marketplace](https://marketplace.sshopencloud.eu/)
 * [Digital Literary Studies Research Group](https://hum.hse.ru/digital/rusdracor/) (Higher School of Economics, Moscow) (2017–2018)
 * [Graphische Litteratur-Tafel](https://litteratur-tafel.weltliteratur.net/) – Digitisation of Cäsar Flaischlen's flowchart of German literature (2016–2017)

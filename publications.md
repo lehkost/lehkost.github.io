@@ -45,7 +45,11 @@ title: Publications
 
 #### Forthcoming
 
--   –
+-   Ingo Börner, Peer Trilcke, Carsten Milling, Frank Fischer,
+    Henny Sluyter-Gäthje: **Dockerizing DraCor – A Container-Based Approach
+    to Reproducibility in Computational Literary Studies.**
+    In: DH2023: »Collaboration as Opportunity«. 10--14 July 2023. Book of
+    Abstracts. University of Graz.
 
 #### 2023
 

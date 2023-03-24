@@ -3,7 +3,7 @@ layout: page
 title: Posters
 ---
 
-… for conferences (2016–2022).
+… for conferences (2016–2023).
 
 *Frank Fischer, Christopher Kittel, Peer Trilcke, Mathias Göbel, Andreas
 Vogel, Hanna-Lena Meiners, Dario Kampkaspar:*\
@@ -112,9 +112,27 @@ Carolin Odebrecht, Marco Raciti, Salvador Ros, Christof Schöch,
 Artjoms Šeļa, Toma Tasovac, Justin Tonra, Erzsébet Tóth-Czifra,
 Peer Trilcke, Karina van Dalen-Oskam, Lisanne van Rossum:*\
 **Computational Literary Studies Infrastructure (CLS INFRA):
-A Project to Connect People, Data, Tools, and Methods**\
+A Project to Connect People, Data, Tools, and Methods (DH2022, Tokyo)**\
 [dh2022.dhii.asia](https://dh2022.dhii.asia/abstracts/464) (abstract)
 
 *Ingo Börner, Frank Fischer, Luca Giovannini, Christopher Lu,
 Carsten Milling, Daniil Skorinkin, Henny Sluyter-Gäthje, Peer Trilcke:*\
-**Onboard onto DraCor (DHd2023, Trier)**
+**Onboard onto DraCor (DHd2023, Trier)**\
+[zenodo](https://doi.org/10.5281/zenodo.7711513) (poster) ·
+[zenodo](https://zenodo.org/record/7715333) (abstract)
+
+*Luca Giovannini, Daniil Skorinkin, Peer Trilcke, Ingo Börner,
+Frank Fischer, Julia Dudar, Carsten Milling, Petr Pořízka:*\
+**Distributed Corpus Building in Literary Studies: The DraCor Example
+(DH2023, Graz)**
+
+*Julie M. Birkholz, Ingo Börner, Joanna Byszuk, Sally Chambers,
+Vera Maria Charvat, Silvie Cinková, Tess Dejaeghere, Julia Dudar,
+Matej Ďurčo, Maciej Eder, Jennifer Edmond, Evgeniia Fileva, Frank Fischer,
+Vicky Garnett, Serge Heiden, Michal Křen, Bartłomiej Kunda,
+Sabine Laszakovits, Michał Mrugalski, Eliza Papaki, Marco Raciti,
+Stefan Resch, Salvador Ros, Christof Schöch, Artjoms Šeļa, Toma Tasovac,
+Justin Tonra, Erzsébet Tóth-Czifra, Peer Trilcke, Karina van Dalen-Oskam,
+Lisanne van Rossum:*\
+**Computational Literary Studies Infrastructure (CLS INFRA):
+Initial Findings and Conclusions for the Field (DH2023, Graz)**
