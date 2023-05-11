@@ -17,6 +17,9 @@ title: Publications
 
 ### Edited Volumes
 
+-   Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.):
+    **Wikipedia, Wikidata, and World Literature.** Special Issue of the
+    **Journal of Cultural Analytics**, vol. 8, no. 2 (May 2023).
 -   Jan Horstmann, Frank Fischer (eds.): [**Digitale Verfahren in der
     Literaturwissenschaft**](https://www.textpraxis.net/sonderausgabe-6).
     Special Issue #6 of **Textpraxis. Digitales Journal für Philologie**
@@ -34,13 +37,6 @@ title: Publications
     Freygeist.** Leipzig: Ille & Riemer 2002. \[Review by Hans-Gert
     Roloff in: Editionen in der Kritik 1 (2005).\]
 
-#### Forthcoming Edited Volume
-
--   Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.):
-    **World Literature and Wikipedia.**
-    Special Issue of the **Journal of Cultural Analytics**.
-    (forthcoming 2022) ([CfP](https://culturalanalytics.org/post/958-cfp-world-literature-and-wikipedia))
-
 ### Peer-Reviewed Papers and Articles for Edited Volumes
 
 #### Forthcoming
@@ -53,6 +49,18 @@ title: Publications
 
 #### 2023
 
+-   Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke:
+    **Preface: World Literature in an Expanding Digital Space.**
+    In: eid. (eds.): Wikipedia, Wikidata, and World Literature. Special
+    Issue of the Journal of Cultural Analytics, vol. 8, no. 2 (May 2023).
+    ([doi:10.22148/001c.74598](https://doi.org/10.22148/001c.74598))
+-   Michel Schwab, Robert Jäschke, Frank Fischer: **»Who is the Madonna of
+    Italian-American Literature?« Extracting and Analyzing Target Entities
+    of Vossian Antonomasia.** In: Proceedings of the 7th Joint SIGHUM
+    Workshop on Computational Linguistics for Cultural Heritage, Social
+    Sciences, Humanities and Literature, pp. 110–115. Dubrovnik, Croatia.
+    Association for Computational Linguistics.
+    (URL: <https://aclanthology.org/2023.latechclfl-1.12>)
 -   Michel Schwab, Frank Fischer: **»Die Greta Garbo der Leichtathletik«.
     Eine systematische Analyse der Modifier vossianischer Antonomasien
     mithilfe von Word Embeddings.** In: DHd2023: »Open Humanities, Open
@@ -82,11 +90,11 @@ title: Publications
 -   Frank Fischer, Teresa Santa María Fernández, José Calvo Tello,
     Carsten Milling: **Una perspectiva comparativa del teatro español:
     integración de la »Biblioteca Electrónica Textual del Teatro en
-    Español« en la plataforma »DraCor«.** In: Celis Sánchez, María Ángela
-    (eds.): Las humanidades digitales como expresión y estudio del
+    Español« en la plataforma »DraCor«.** In: María Ángela Celis Sánchez
+    (ed.): Las humanidades digitales como expresión y estudio del
     patrimonio digital. Cuenca: Ediciones de la Universidad de
     Castilla–La Mancha 2021 \[recte: 2022\], pp. 273–282.
-    ([doi:10.18239/jornadas_2021.31.00](http://doi.org/10.18239/jornadas_2021.31.00))
+    ([doi:10.17169/refubium-38797](https://doi.org/10.17169/refubium-38797))
 -   Tanja Wissik, Leon Wessels, Frank Fischer: **The DH Course Registry:
     A Piece of the Puzzle in CLARIN’s Technical and Knowledge
     Infrastructure.** In: Darja Fišer, Andreas Witt (eds.): CLARIN. The

@@ -24,6 +24,7 @@ title: Committees/Services
 * [Wiener Digitale Revue](https://journals.univie.ac.at/index.php/wdr/about) (board, 2019–)
 * [JCLS (Journal of Computational Literary Studies)](https://jcls.io/editorialteam/) (board, 2021–)
 * [LINDAT/CLARIAH-CZ](https://lindat.cz/ab) 🇨🇿 (board, 2021–)
+* [RosDH (Rostocker Arbeitskreis Digital Humanities)](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/) (associated member, 2023–)
 
 ### Scientific Consultancy
 * Agence nationale de la recherche (ANR)

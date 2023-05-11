@@ -8,7 +8,10 @@ Invited talks, conference and workshop slides.
 ### 2023
 
 <small>2023-08-09 · DLA Marbach 🇩🇪 ([Summer School: Literature Data and Digital Literature](https://www.dla-marbach.de/kalender/detail/521/))</small><br />
-Literaturwissenschaftliche Netzwerkanalyse (Workshop)
+Network Analysis of Literary Texts (Workshop)
+
+<small>2023-05-05 · Dubrovnik 🇭🇷 ([SIGHUM2023](https://sighum.wordpress.com/events/latech-clfl-2023/))</small><br />
+[»Who is the Madonna of Italian-American Literature?« – Extracting and Analyzing Target Entities of Vossian Antonomasia](https://bit.ly/3UvC1JX)
 
 <small>2023-03-17 · University of Trier 🇩🇪 ([DHd2023](https://dhd2023.dig-hum.de/))</small><br />
 [»Die Greta Garbo der Leichtathletik« – Eine systematische Analyse der Modifier vossianischer Antonomasien mithilfe von Word Embeddings](https://bit.ly/va-trier)

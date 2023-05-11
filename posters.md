@@ -3,7 +3,7 @@ layout: page
 title: Posters
 ---
 
-… for conferences (2016–2023).
+… for conferences (2016–).
 
 *Frank Fischer, Christopher Kittel, Peer Trilcke, Mathias Göbel, Andreas
 Vogel, Hanna-Lena Meiners, Dario Kampkaspar:*\
