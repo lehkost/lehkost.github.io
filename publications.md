@@ -18,8 +18,8 @@ title: Publications
 ### Edited Volumes
 
 -   Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.):
-    **Wikipedia, Wikidata, and World Literature.** Special Issue of the
-    **Journal of Cultural Analytics**, vol. 8, no. 2 (May 2023).
+    [**Wikipedia, Wikidata, and World Literature.**](https://culturalanalytics.org/issue/7259)
+    Special Issue of the **Journal of Cultural Analytics**, vol. 8, no. 2 (May 2023).
 -   Jan Horstmann, Frank Fischer (eds.): [**Digitale Verfahren in der
     Literaturwissenschaft**](https://www.textpraxis.net/sonderausgabe-6).
     Special Issue #6 of **Textpraxis. Digitales Journal für Philologie**
