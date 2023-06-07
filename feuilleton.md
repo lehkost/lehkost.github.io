@@ -72,7 +72,7 @@ Feuilleton articles and some [translations](#translations).
     reden wir, wenn wir vom Justin Bieber der CDU reden? Von einer
     Vossianischen Antonomasie. Eine
     Stilkunde.**](http://www.umblaetterer.de/wp-content/uploads/2014/12/vossanto_fas.png)
-    In: Frankfurter Allgemeine Sonntagszeitung, 21 Dezember 2014, p. 34.
+    In: Frankfurter Allgemeine Sonntagszeitung, 21 December 2014, p. 34.
 -   Frank Fischer: [**Wissen fällt nicht weit vom Stamm \[on Manuel
     Lima's »The Book of Trees. Visualizing Branches of
     Knowledge«\].**](https://www.welt.de/131514503) In: Die Literarische
@@ -124,7 +124,7 @@ Feuilleton articles and some [translations](#translations).
 ### 2012
 
 -   Frank Fischer: **Vossianische Anomalien.** In: Frankfurter
-    Allgemeine Sonntagszeitung, 30. Dezember 2012, p. 20.
+    Allgemeine Sonntagszeitung, 30 December 2012, p. 20.
 -   Frank Fischer: [**Ein Koffer voller Zahlen \[on the mathematician
     Johann Gustav Hermes and his construction of the
     65537-gon\].**](https://www.zeit.de/2012/34/Algebra-Koffer-Johann-Gustav-Hermes)

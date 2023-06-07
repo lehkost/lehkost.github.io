@@ -12,12 +12,12 @@ Sommersemester 2023
 2. Vorlesung: [Thematische Rundumschau II](https://lehkost.github.io/slides/2023-04-27-einf-dh/index.html) (27.04.2023)
 3. Vorlesung: [Kodierungsformate (XML, TEI), Digitale Editionen](https://bit.ly/dheinf45) (04.05.2023)
 4. Vorlesung: [Distant Reading I: Stilometrie](https://bit.ly/dhe115) (11.05.2023)
-5. Vorlesung: Distant Reading II: Topic Modeling (25.05.2023)
-6. Vorlesung: Visual Analytics: »Beautiful Evidence« (01.06.2023)
-7. Vorlesung: Netzwerkanalyse (08.06.2023)
+5. Vorlesung: [Distant Reading II: Topic Modeling](https://bit.ly/dhei255) (25.05.2023)
+6. Vorlesung: [Visual Analytics: »Beautiful Evidence«](https://bit.ly/dhei16) (01.06.2023)
+7. Vorlesung: [Netzwerkanalyse](https://bit.ly/dhei86) (08.06.2023)
 8. Vorlesung: Geografische Informationssysteme (GIS) (15.06.2023)
 9. Vorlesung: Wikipedia & Wikidata (22.06.2023)
 10. Vorlesung: KI & Maschinelles Lernen (29.06.2023)
 11. Vorlesung: Infrastrukturen für die Digitalen Geisteswissenschaften, GLAM! (06.07.2023)
 
-In den Folien sind auch alle Quellen und weiterführende Infos direkt verlinkt. Das verwendete Präsentations-Framework heißt »reveal.js« – zur Navigation im Browser (auch auf dem Handy) benutzen Sie bitte die Pfeiltasten bzw. Wischgesten. Mit der ESC-Taste erhalten Sie einen Überblick über alle Folien und können freier navigieren.
+All sources and further information are directly linked in the slides. The presentation framework used is called »reveal.js« – for navigation in the browser (also on mobile phones) please use arrow keys or swipe gestures. Pressing the ESC key gets you an overview of all slides.

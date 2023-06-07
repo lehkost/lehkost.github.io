@@ -21,7 +21,7 @@ title: Publications
     [**Wikipedia, Wikidata, and World Literature.**](https://culturalanalytics.org/issue/7259)
     Special Issue of the **Journal of Cultural Analytics**, vol. 8, no. 2 (May 2023).
 -   Jan Horstmann, Frank Fischer (eds.): [**Digitale Verfahren in der
-    Literaturwissenschaft**](https://www.textpraxis.net/sonderausgabe-6).
+    Literaturwissenschaft.**](https://www.textpraxis.net/sonderausgabe-6)
     Special Issue #6 of **Textpraxis. Digitales Journal für Philologie**
     (1.2022).
 -   Frank Fischer, Marina Akimova, Boris Orekhov (eds.): [**Moscow
@@ -290,10 +290,10 @@ title: Publications
     Afterword to: Hartmut Abendschein: »Also« sprach Zarathustra.
     Zählung, Dichtung, Diagramme. Bern: edition taberna kritika 2018,
     pp. 82--86.
--   Daria Maximova, Frank Fischer: **A Quantitative Study of Stage
-    Directions in Russian Drama.** In: EADH2018: »Data in Digital
-    Humanities«. 7--9 December 2018. National University of Ireland,
-    Galway. (URL:
+-   Daria Maximova, Frank Fischer, Daniil Skorinkin: **A Quantitative
+    Study of Stage Directions in Russian Drama.** In: EADH2018:
+    »Data in Digital Humanities«. 7--9 December 2018. National
+    University of Ireland, Galway. (URL:
     <https://eadh2018.exordo.com/files/papers/79/final_draft/Stage_Directions_for_EADH_Conference.pdf>)
 -   Irina Pavlova, Frank Fischer: **Topic Modeling 200 Years of Russian
     Drama.** EADH2018: »Data in Digital Humanities«. 7--9 December 2018.

@@ -5,7 +5,7 @@ title: Committees/Services
 
 ### Work on Programme Committees
 * [GCDH Summer School 2014, Göttingen](https://www.gcdh.de/en/teaching/teachingsummer-schools/gcdh-summer-school-2014/)
-* [HDH2015, Madrid](https://linhd.uned.es/ii-congreso-internacional-de-la-asociacion-de-humanidades-digitales-hispanicas/)
+* [HDH2015, Madrid](https://web.archive.org/web/20200806171308/https://linhd.uned.es/ii-congreso-internacional-de-la-asociacion-de-humanidades-digitales-hispanicas/)
 * [DHd2016, Leipzig](https://dhd-blog.org/?p=5429)
 * [AAHD2016, Buenos Aires](https://www.aacademica.org/aahd.congreso/tabs/committee)
 * [DARIAH2018, Paris](https://dariah2018.sciencesconf.org/)

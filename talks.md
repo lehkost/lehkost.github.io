@@ -5,10 +5,18 @@ title: Talks/Slides
 
 Invited talks, conference and workshop slides.
 
+### 2024
+
+<small>2024-04-29 · Universität Rostock 🇩🇪 ([Ringvorlesung des #RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
+Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute
+
 ### 2023
 
 <small>2023-08-09 · DLA Marbach 🇩🇪 ([Summer School: Literature Data and Digital Literature](https://www.dla-marbach.de/kalender/detail/521/))</small><br />
 Network Analysis of Literary Texts (Workshop)
+
+<small>2023-07-12 · Graz 🇦🇹 ([DH2023](https://dh2023.adho.org/))</small><br />
+Dockerizing DraCor – A Container-Based Approach to Reproducibility in Computational Literary Studies
 
 <small>2023-05-05 · Dubrovnik 🇭🇷 ([SIGHUM2023](https://sighum.wordpress.com/events/latech-clfl-2023/))</small><br />
 [»Who is the Madonna of Italian-American Literature?« – Extracting and Analyzing Target Entities of Vossian Antonomasia](https://bit.ly/3UvC1JX)

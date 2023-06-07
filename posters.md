@@ -121,6 +121,13 @@ Carsten Milling, Daniil Skorinkin, Henny Sluyter-Gäthje, Peer Trilcke:*\
 [zenodo](https://doi.org/10.5281/zenodo.7711513) (poster) ·
 [zenodo](https://zenodo.org/record/7715333) (abstract)
 
+*Luca Giovannini, Ingo Börner, Frank Fischer, Carsten Milling, Daniil
+Skorinkin, Peer Trilcke:*\
+**Quali prospettive per ItaDraCor? Risorse e strumenti per la codifica
+di testi drammatici in lingua italiana (AIUCD2023, Siena)**\
+[zenodo](https://doi.org/10.5281/zenodo.7963028) (poster) ·
+[aiucd.it](http://www.aiucd.it/wp-content/uploads/2023/06/2023_aiucd_la_memoria_digitale_v1.pdf#page=121>)) (abstract)
+
 *Luca Giovannini, Daniil Skorinkin, Peer Trilcke, Ingo Börner,
 Frank Fischer, Julia Dudar, Carsten Milling, Petr Pořízka:*\
 **Distributed Corpus Building in Literary Studies: The DraCor Example
