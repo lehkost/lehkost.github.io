@@ -126,7 +126,7 @@ Skorinkin, Peer Trilcke:*\
 **Quali prospettive per ItaDraCor? Risorse e strumenti per la codifica
 di testi drammatici in lingua italiana (AIUCD2023, Siena)**\
 [zenodo](https://doi.org/10.5281/zenodo.7963028) (poster) ·
-[aiucd.it](http://www.aiucd.it/wp-content/uploads/2023/06/2023_aiucd_la_memoria_digitale_v1.pdf#page=121>)) (abstract)
+[aiucd.it](http://www.aiucd.it/wp-content/uploads/2023/06/2023_aiucd_la_memoria_digitale_v1.pdf#page=121) (abstract)
 
 *Luca Giovannini, Daniil Skorinkin, Peer Trilcke, Ingo Börner,
 Frank Fischer, Julia Dudar, Carsten Milling, Petr Pořízka:*\

@@ -20,4 +20,4 @@ Sommersemester 2023
 10. Vorlesung: KI & Maschinelles Lernen (29.06.2023)
 11. Vorlesung: Infrastrukturen für die Digitalen Geisteswissenschaften, GLAM! (06.07.2023)
 
-All sources and further information are directly linked in the slides. The presentation framework used is called »reveal.js« – for navigation in the browser (also on mobile phones) please use arrow keys or swipe gestures. Pressing the ESC key gets you an overview of all slides.
+All sources and further information are directly linked in the slides. The presentation framework is called »reveal.js« – for navigation in the browser (also on mobile phones) please use arrow keys or swipe gestures. Pressing the ESC key gets you an overview of all slides.
