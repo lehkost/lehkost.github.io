@@ -15,8 +15,8 @@ Sommersemester 2023
 5. Vorlesung: [Distant Reading II: Topic Modeling](https://bit.ly/dhei255) (25.05.2023)
 6. Vorlesung: [Visual Analytics: »Beautiful Evidence«](https://bit.ly/dhei16) (01.06.2023)
 7. Vorlesung: [Netzwerkanalyse](https://bit.ly/dhei86) (08.06.2023)
-8. Vorlesung: Geografische Informationssysteme (GIS) (15.06.2023)
-9. Vorlesung: Wikipedia & Wikidata (22.06.2023)
+8. Vorlesung: [Geografische Informationssysteme (GIS)](https://bit.ly/dhe156) (15.06.2023)
+9. Vorlesung: [Wikipedia & Wikidata](https://bit.ly/dhe226) (22.06.2023)
 10. Vorlesung: KI & Maschinelles Lernen (29.06.2023)
 11. Vorlesung: Infrastrukturen für die Digitalen Geisteswissenschaften, GLAM! (06.07.2023)
 

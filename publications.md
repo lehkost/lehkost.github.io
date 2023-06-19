@@ -26,7 +26,7 @@ title: Publications
     (1.2022).
 -   Frank Fischer, Marina Akimova, Boris Orekhov (eds.): [**Moscow
     Formalism and Literary
-    History.**](https://www.degruyter.com/view/journals/jlt/13/1/jlt.13.issue-1.xml)
+    History.**](https://www.degruyter.com/journal/key/jlt/13/1/html)
     Special Issue of the **Journal of Literary Theory**. Vol. 13, Issue 1.
     Berlin/Boston: De Gruyter 2019.
 -   Frank Fischer, Jörg Riemer (eds.): **Joachim Wilhelm von Brawe:
@@ -46,6 +46,12 @@ title: Publications
     to Reproducibility in Computational Literary Studies.**
     In: DH2023: »Collaboration as Opportunity«. 10--14 July 2023. Book of
     Abstracts. University of Graz.
+-   Peer Trilcke, Evgeniya Ustinova, Ingo Börner, Frank Fischer,
+    Carsten Milling: **Detecting Small Worlds in a Corpus of Thousands of
+    Theatre Plays: A DraCor Study in Comparative Literary Network Analysis.**
+    In: Melanie Andresen, Nils Reiter (eds.): [Computational Drama Analysis.
+    Reflecting Methods and Interpretations.](https://www.degruyter.com/document/isbn/9783111071763/html)
+    Berlin/Boston: De Gruyter 2023.
 
 #### 2023
 
