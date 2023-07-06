@@ -17,7 +17,7 @@ Sommersemester 2023
 7. Vorlesung: [Netzwerkanalyse](https://bit.ly/dhei86) (08.06.2023)
 8. Vorlesung: [Geografische Informationssysteme (GIS)](https://bit.ly/dhe156) (15.06.2023)
 9. Vorlesung: [Wikipedia & Wikidata](https://bit.ly/dhe226) (22.06.2023)
-10. Vorlesung: KI & Maschinelles Lernen (29.06.2023)
-11. Vorlesung: Infrastrukturen für die Digitalen Geisteswissenschaften, GLAM! (06.07.2023)
+10. Vorlesung: [KI & Maschinelles Lernen](https://bit.ly/dhe296) (29.06.2023)
+11. Vorlesung: [Infrastrukturen für die Digitalen Geisteswissenschaften, GLAM!](https://bit.ly/dhe67) (06.07.2023)
 
 All sources and further information are directly linked in the slides. The presentation framework is called »reveal.js« – for navigation in the browser (also on mobile phones) please use arrow keys or swipe gestures. Pressing the ESC key gets you an overview of all slides.
