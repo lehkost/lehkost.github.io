@@ -41,11 +41,6 @@ title: Publications
 
 #### Forthcoming
 
--   Ingo Börner, Peer Trilcke, Carsten Milling, Frank Fischer,
-    Henny Sluyter-Gäthje: **Dockerizing DraCor – A Container-Based Approach
-    to Reproducibility in Computational Literary Studies.**
-    In: DH2023: »Collaboration as Opportunity«. 10--14 July 2023. Book of
-    Abstracts. University of Graz.
 -   Peer Trilcke, Evgeniya Ustinova, Ingo Börner, Frank Fischer,
     Carsten Milling: **Detecting Small Worlds in a Corpus of Thousands of
     Theatre Plays: A DraCor Study in Comparative Literary Network Analysis.**
@@ -55,6 +50,12 @@ title: Publications
 
 #### 2023
 
+-   Ingo Börner, Peer Trilcke, Carsten Milling, Frank Fischer,
+    Henny Sluyter-Gäthje: **Dockerizing DraCor -- A Container-Based Approach
+    to Reproducibility in Computational Literary Studies.**
+    In: DH2023: »Collaboration as Opportunity«. 10--14 July 2023. University
+    of Graz. Book of Abstracts, pp. 293--295.
+    ([doi:10.5281/zenodo.7961822](https://doi.org/10.5281/zenodo.7961822))
 -   Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke:
     **Preface: World Literature in an Expanding Digital Space.**
     In: eid. (eds.): Wikipedia, Wikidata, and World Literature. Special
@@ -64,19 +65,19 @@ title: Publications
     Italian-American Literature?« Extracting and Analyzing Target Entities
     of Vossian Antonomasia.** In: Proceedings of the 7th Joint SIGHUM
     Workshop on Computational Linguistics for Cultural Heritage, Social
-    Sciences, Humanities and Literature, pp. 110–115. Dubrovnik, Croatia.
+    Sciences, Humanities and Literature, pp. 110--115. Dubrovnik, Croatia.
     Association for Computational Linguistics.
     (URL: <https://aclanthology.org/2023.latechclfl-1.12>)
 -   Michel Schwab, Frank Fischer: **»Die Greta Garbo der Leichtathletik«.
     Eine systematische Analyse der Modifier vossianischer Antonomasien
     mithilfe von Word Embeddings.** In: DHd2023: »Open Humanities, Open
-    Culture«. 13–17 March 2023. Book of Abstracts. University of Trier.
+    Culture«. 13--17 March 2023. Book of Abstracts. University of Trier.
     ([doi:10.5281/zenodo.7715490](https://doi.org/10.5281/zenodo.7715490))
 -   Frank Fischer, Viktor Jonathan Illmer, Lukas Nils Regeler,
     Jutta Müller-Tamm, Luise von Berenberg-Gossler, Franziska Diehr:
     **Internationale Autor\*innen zu Gast in der DDR: Die Einreisekartei
     des Schriftstellerverbandes und ihre digitale Aufbereitung.**
-    In: DHd2023: »Open Humanities, Open Culture«. 13–17 March 2023.
+    In: DHd2023: »Open Humanities, Open Culture«. 13--17 March 2023.
     Book of Abstracts. University of Trier.
     ([doi:10.5281/zenodo.7715311](https://doi.org/10.5281/zenodo.7715311))
 -   Frank Fischer, Robert Jäschke: **Ein Quantum Literatur. Empirische
@@ -99,13 +100,13 @@ title: Publications
     Español« en la plataforma »DraCor«.** In: María Ángela Celis Sánchez
     (ed.): Las humanidades digitales como expresión y estudio del
     patrimonio digital. Cuenca: Ediciones de la Universidad de
-    Castilla–La Mancha 2021 \[recte: 2022\], pp. 273–282.
+    Castilla--La Mancha 2021 \[recte: 2022\], pp. 273--282.
     ([doi:10.17169/refubium-38797](https://doi.org/10.17169/refubium-38797))
 -   Tanja Wissik, Leon Wessels, Frank Fischer: **The DH Course Registry:
     A Piece of the Puzzle in CLARIN’s Technical and Knowledge
     Infrastructure.** In: Darja Fišer, Andreas Witt (eds.): CLARIN. The
     Infrastructure for Language Resources. (= Digital Linguistics. Vol. 1.
-    Edited by Andreas Witt.) Berlin/Boston: De Gruyter 2022, pp. 389–408.
+    Edited by Andreas Witt.) Berlin/Boston: De Gruyter 2022, pp. 389--408.
     ([doi:10.1515/9783110767377-015](https://doi.org/10.1515/9783110767377-015))
 -   Stefan Heßbrüggen-Walter, Frank Fischer, Simon Meier-Vieracker:
     **Patterns of Verb Usage in Immanuel Kant’s Critical Writings.**
@@ -133,19 +134,19 @@ title: Publications
     of Textpraxis. Digitales Journal für Philologie (1.2022).
     ([doi:10.17879/64059433528](https://doi.org/10.17879/64059433528))
 -   Dîlan Canan Çakir, Frank Fischer: **Dramatische Metadaten. Die Datenbank
-    deutschsprachiger Einakter 1740–1850.** In: DHd2022: »Kulturen des
-    digitalen Gedächtnisses«. 7–11 March 2022. Book of Abstracts.
+    deutschsprachiger Einakter 1740--1850.** In: DHd2022: »Kulturen des
+    digitalen Gedächtnisses«. 7--11 March 2022. Book of Abstracts.
     University of Potsdam.
     ([doi:10.5281/zenodo.6327977](https://doi.org/10.5281/zenodo.6327977))
 -   Alireza Zarei, Yim Seung-Bin, Matej Ďurčo, Klaus Illmayer, Laure Barbot,
     Frank Fischer, Edward Gray: **Der SSH Open Marketplace.
     Kontextualisiertes Praxiswissen für die Digital Humanities.**
-    In: DHd2022: »Kulturen des digitalen Gedächtnisses«. 7–11 March 2022.
+    In: DHd2022: »Kulturen des digitalen Gedächtnisses«. 7--11 March 2022.
     Book of Abstracts. University of Potsdam.
     ([doi:10.5281/zenodo.6327975](https://doi.org/10.5281/zenodo.6327975))
 -   Ingo Börner, Frank Fischer, Carsten Milling, Henny Sluyter-Gäthje:
     **Einführung in DraCor: Programmable Corpora für die digitale Dramenanalyse.**
-    In: DHd2022: »Kulturen des digitalen Gedächtnisses«. 7–11 March 2022.
+    In: DHd2022: »Kulturen des digitalen Gedächtnisses«. 7--11 March 2022.
     Book of Abstracts. University of Potsdam.
     ([doi:10.5281/zenodo.6327951](https://doi.org/10.5281/zenodo.6327951))
 
@@ -154,7 +155,7 @@ title: Publications
 -   Frank Fischer: **Stahlpanzer gegen Müllner gegen Vieweg. Eine Episode
     aus der Endphase des Schicksalsdramas.** In:
     [Weimarer Beiträge 67.4](https://weimarer-beitraege.de/2021-4/)
-    (2021), pp. 601–613.
+    (2021), pp. 601--613.
 -   Daniil Skorinkin, Anastasia Khorosheva, Frank Fischer:
     **How to Get 90,000 Readers Interested in Digital Humanities:
     Experiences with »Systemnyj Blok«.**
@@ -174,7 +175,7 @@ title: Publications
 -   Frank Fischer, Daniil Skorinkin: **Social Network Analysis in
     Russian Literary Studies.** In: Daria Gritsenko, Mariëlle Wijermars,
     Mikhail Kopotev (eds.): The Palgrave Handbook of Digital Russia
-    Studies. Palgrave Macmillan 2021, pp. 517–536.
+    Studies. Palgrave Macmillan 2021, pp. 517--536.
     ([doi:10.1007/978-3-030-42855-6_29](https://doi.org/10.1007/978-3-030-42855-6_29))
 
 #### 2020
@@ -386,8 +387,8 @@ title: Publications
 -   Frank Fischer, Robert Jäschke, Jannik Strötgen, Elena Krotova:
     **»Der Helmut Kohl unter den Brotaufstrichen«. Zur Extraktion
     vossianischer Antonomasien aus großen Zeitungskorpora.** In:
-    DHd2017: »Digitale Nachhaltigkeit«. 13--18 February 2017. Book of
-    Abstracts. University of Bern, pp. 120--124.
+    DHd2017: »Digitale Nachhaltigkeit«. 13--18 February 2017. University
+    of Bern. Book of Abstracts, pp. 120--124.
     ([doi:10.5281/zenodo.4646126](https://doi.org/10.5281/zenodo.4646126))
 -   Peer Trilcke, Frank Fischer, Mathias Göbel, Dario Kampkaspar,
     Christopher Kittel: **Netzwerkdynamik, Plotanalyse -- Zur
@@ -414,7 +415,7 @@ title: Publications
     Typologie deutschsprachiger Dramen 1730--1930.** In: DHd2016:
     »Modellierung -- Vernetzung -- Visualisierung: Die Digital
     Humanities als fächerübergreifendes Forschungsparadigma«. 7--12
-    March 2016. Book of Abstracts. University of Leipzig, pp. 255--258.
+    March 2016. University of Leipzig. Book of Abstracts, pp. 255--258.
     ([doi:10.5281/zenodo.3526422](https://doi.org/10.5281/zenodo.3526422))
 
 #### 2015
