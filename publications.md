@@ -55,7 +55,7 @@ title: Publications
     to Reproducibility in Computational Literary Studies.**
     In: DH2023: »Collaboration as Opportunity«. 10--14 July 2023. University
     of Graz. Book of Abstracts, pp. 293--295.
-    ([doi:10.5281/zenodo.7961822](https://doi.org/10.5281/zenodo.7961822))
+    ([doi:10.5281/zenodo.8107836](https://doi.org/10.5281/zenodo.8107836))
 -   Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke:
     **Preface: World Literature in an Expanding Digital Space.**
     In: eid. (eds.): Wikipedia, Wikidata, and World Literature. Special

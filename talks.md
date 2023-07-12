@@ -22,7 +22,7 @@ Digital Humanities: Forschungsfelder und Berufsperspektiven
 Network Analysis of Literary Texts (Workshop)
 
 <small>2023-07-12 · Graz 🇦🇹 ([DH2023](https://dh2023.adho.org/))</small><br />
-Dockerizing DraCor – A Container-Based Approach to Reproducibility in Computational Literary Studies
+[Dockerizing DraCor – A Container-Based Approach to Reproducibility in Computational Literary Studies](https://bit.ly/dockerizing-dracor)
 
 <small>2023-06-12 · Freie Universität Berlin 🇩🇪 ([RA5 Meeting/EXC2020](https://www.temporal-communities.de/research/digital-communities/index.html))</small><br />
 [Internationale Autor\*innen zu Gast in der DDR – Die Einreisekartei des Schriftstellerverbandes und ihre digitale Aufbereitung](https://bit.ly/dsv-ra5) (extended version of our talk at DHd2023)

@@ -131,7 +131,8 @@ di testi drammatici in lingua italiana (AIUCD2023, Siena)**\
 *Luca Giovannini, Daniil Skorinkin, Peer Trilcke, Ingo Börner,
 Frank Fischer, Julia Dudar, Carsten Milling, Petr Pořízka:*\
 **Distributed Corpus Building in Literary Studies: The DraCor Example
-(DH2023, Graz)**
+(DH2023, Graz)**\
+[zenodo](https://doi.org/10.5281/zenodo.8107457) (abstract)
 
 *Julie M. Birkholz, Ingo Börner, Joanna Byszuk, Sally Chambers,
 Vera Maria Charvat, Silvie Cinková, Tess Dejaeghere, Julia Dudar,
@@ -143,3 +144,4 @@ Justin Tonra, Erzsébet Tóth-Czifra, Peer Trilcke, Karina van Dalen-Oskam,
 Lisanne van Rossum:*\
 **Computational Literary Studies Infrastructure (CLS INFRA):
 Initial Findings and Conclusions for the Field (DH2023, Graz)**
+[zenodo](https://doi.org/10.5281/zenodo.8107904) (abstract)
