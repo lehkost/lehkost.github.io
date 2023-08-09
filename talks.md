@@ -19,7 +19,7 @@ Geisteswissenschaftliche Kompetenzen: ›Recherche‹
 Digital Humanities: Forschungsfelder und Berufsperspektiven
 
 <small>2023-08-09 · DLA Marbach 🇩🇪 ([Summer School: Literature Data and Digital Literature](https://www.dla-marbach.de/kalender/detail/521/))</small><br />
-Network Analysis of Literary Texts (Workshop)
+[Network Analysis of Literary Texts (Workshop)](https://bit.ly/marbanet)
 
 <small>2023-07-12 · Graz 🇦🇹 ([DH2023](https://dh2023.adho.org/))</small><br />
 [Dockerizing DraCor – A Container-Based Approach to Reproducibility in Computational Literary Studies](https://bit.ly/dockerizing-dracor)

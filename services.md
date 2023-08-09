@@ -3,7 +3,7 @@ layout: page
 title: Committees/Services
 ---
 
-### Work on Programme Committees
+### Work on Programme and Award Committees
 * [GCDH Summer School 2014, Göttingen](https://www.gcdh.de/en/teaching/teachingsummer-schools/gcdh-summer-school-2014/)
 * [HDH2015, Madrid](https://web.archive.org/web/20200806171308/https://linhd.uned.es/ii-congreso-internacional-de-la-asociacion-de-humanidades-digitales-hispanicas/)
 * [DHd2016, Leipzig](https://dhd-blog.org/?p=5429)
@@ -17,6 +17,7 @@ title: Committees/Services
 * [DH2020, Ottawa (Workshop Twin Talks 3)](https://www.clarin.eu/event/2020/twintalksdh2020)
 * [DARIAH2021](https://dariah-2021.sciencesconf.org/) (chair)
 * [EADH2021, Krasnoyarsk](https://eadh2020-2021.org/about/program-committee/)
+* [Rahtz Prize for TEI Ingenuity 2023](https://tei-c.org/2023/08/02/rahtz-prize-for-ingenuity-2023-call-for-nominations-and-self-submissions/) (award panel)
 
 ### Board Memberships, Editorial Work, Review Activities
 * [IASLonline, »Digital Literary Studies« section](http://www.iaslonline.de/) (editor, 2016–)
@@ -30,3 +31,4 @@ title: Committees/Services
 * Agence nationale de la recherche (ANR)
 * European Research Council (ERC)
 * Federal Ministry of Education and Research (BMBF)
+* Berlin University Alliance (BUA)
