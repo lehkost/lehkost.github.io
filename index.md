@@ -47,7 +47,7 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 * GitHub: [lehkost](https://github.com/lehkost)
 * Twitter: [@umblaetterer](https://twitter.com/umblaetterer)
 * Mastodon: <a rel="me" href="https://chaos.social/@umblaetterer">@umblaetterer@chaos.social</a>
-* Bluesky: @umblaetterer.bsky.social
+* Bluesky: [@umblaetterer.bsky.social](https://bsky.app/profile/umblaetterer.bsky.social)
 * dblp: [13/3984-5](https://dblp.org/pid/13/3984-5)
 * Index of DH Conferences: [authors/2614](https://dh-abstracts.library.cmu.edu/authors/2614)
 * [Google Scholar](https://scholar.google.com/citations?user=Rr4N3OwAAAAJ)

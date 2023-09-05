@@ -18,6 +18,15 @@ Geisteswissenschaftliche Kompetenzen: ›Recherche‹
 <small>2023-12-05 · Freie Universität Berlin 🇩🇪 ([Mittagsforum der FSGS](https://www.geisteswissenschaften.fu-berlin.de/friedrichschlegel/aktivitaeten/mittagsforum/index.html))</small><br />
 Digital Humanities: Forschungsfelder und Berufsperspektiven
 
+<small>2023-11-24 · Freie Universität Berlin 🇩🇪 ([»Die DDR-Kulturzeitschrift ›Sonntag‹ im Kontext der Digital Humanities«](https://www.temporal-communities.de/events/workshop-ddr-kulturzeitschrift-sonntag.html))</small><br />
+(No title yet)
+
+<small>2023-10-10 · Freie Universität Berlin 🇩🇪 ([»Wikipedia, Wikidata and Wikibase: Usage Scenarios for Literary Studies«](https://www.temporal-communities.de/events/international-workshop-wikipedia-wikidata-wikibase.html))</small><br />
+(No title yet)
+
+<small>2023-09-11 · Freie Universität Berlin 🇩🇪 ([DraCor Onboarding Workshop for Hebrew and Yiddish Drama](https://www.ada.fu-berlin.de/kalender/HeDraCorWorkshop.html))</small><br />
+What Is DraCor? (Kick-off Presentation)
+
 <small>2023-08-09 · DLA Marbach 🇩🇪 ([Summer School: Literature Data and Digital Literature](https://www.dla-marbach.de/kalender/detail/521/))</small><br />
 [Network Analysis of Literary Texts (Workshop)](https://bit.ly/marbanet)
 
