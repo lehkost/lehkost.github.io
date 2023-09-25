@@ -5,9 +5,17 @@ title: Feuilleton
 
 Feuilleton articles and some [translations](#translations).
 
+### 2023
+
+-   Frank Fischer: [**Jurist, Journalist, Fälscher. Zweihundertfünfzig
+    Jahre nach seiner Geburt lässt sich das schriftstellerische Werk von
+    Johann Nikolaus Becker erst in seiner ganzen Breite entdecken.**](https://www.faz.net/-gr2-bfd72)
+    In: Frankfurter Allgemeine Zeitung, 23 September 2023, p. 18.
+
 ### 2022
 
--   Dîlan Canan Çakir, Frank Fischer: [**Wie ein Einakter Kotzebue aus der sibirischen Verbannung rettete.**](https://kotzebue.hypotheses.org/1345)
+-   Dîlan Canan Çakir, Frank Fischer: [**Wie ein Einakter Kotzebue aus der
+    sibirischen Verbannung rettete.**](https://kotzebue.hypotheses.org/1345)
     In: Kotzebue International, 16 April 2022.
 
 ### 2021

@@ -3,15 +3,15 @@ layout: page
 title: Talks/Slides
 ---
 
-Invited talks, conference and workshop slides.
+Invited talks, conference, workshop slides, introductions.
 
 ### 2024
 
 <small>2024-04-29 · Universität Rostock 🇩🇪 ([Ringvorlesung des #RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
 Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute
 
-<small>2024-01-08 · Freie Universität Berlin 🇩🇪 ([GiK-Vorlesung](https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geisteswissenschaften-im-interdisziplinaeren-kontext/index.html))</small><br />
-Geisteswissenschaftliche Kompetenzen: ›Recherche‹
+<small>2024-01-08 · Freie Universität Berlin 🇩🇪 ([GiK](https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geisteswissenschaften-im-interdisziplinaeren-kontext/index.html)-Vorlesungsreihe »Einführung in das geisteswissenschaftliche Arbeiten und Schreiben«)</small><br />
+Praxis der Geisteswissenschaften: ›Recherche‹
 
 ### 2023
 
@@ -21,17 +21,23 @@ Digital Humanities: Forschungsfelder und Berufsperspektiven
 <small>2023-11-24 · Freie Universität Berlin 🇩🇪 ([»Die DDR-Kulturzeitschrift ›Sonntag‹ im Kontext der Digital Humanities«](https://www.temporal-communities.de/events/workshop-ddr-kulturzeitschrift-sonntag.html))</small><br />
 (No title yet)
 
+<small>2023-10-11 · Freie Universität Berlin 🇩🇪 ([»Wikipedia, Wikidata and Wikibase: Usage Scenarios for Literary Studies«](https://www.temporal-communities.de/events/international-workshop-wikipedia-wikidata-wikibase.html))</small><br />
+Querying the Wikipedia API to Explore the Positioning of Authors and Works: A Jupyter Notebook Walkthrough
+
 <small>2023-10-10 · Freie Universität Berlin 🇩🇪 ([»Wikipedia, Wikidata and Wikibase: Usage Scenarios for Literary Studies«](https://www.temporal-communities.de/events/international-workshop-wikipedia-wikidata-wikibase.html))</small><br />
-(No title yet)
+Opening Remarks and Introduction
 
 <small>2023-09-11 · Freie Universität Berlin 🇩🇪 ([DraCor Onboarding Workshop for Hebrew and Yiddish Drama](https://www.ada.fu-berlin.de/kalender/HeDraCorWorkshop.html))</small><br />
-What Is DraCor? (Kick-off Presentation)
+[What Is DraCor? (Kick-Off Presentation)](https://bit.ly/widr)
 
 <small>2023-08-09 · DLA Marbach 🇩🇪 ([Summer School: Literature Data and Digital Literature](https://www.dla-marbach.de/kalender/detail/521/))</small><br />
 [Network Analysis of Literary Texts (Workshop)](https://bit.ly/marbanet)
 
 <small>2023-07-12 · Graz 🇦🇹 ([DH2023](https://dh2023.adho.org/))</small><br />
 [Dockerizing DraCor – A Container-Based Approach to Reproducibility in Computational Literary Studies](https://bit.ly/dockerizing-dracor)
+
+<small>2023-07-10 · Freie Universität Berlin 🇩🇪 ([Niels Penke: »Carmen Nova. Über fingierte Texte von Umberto Eco und Roland Barthes«](https://www.temporal-communities.de/events/lecture-carmen-nova.html))</small><br />
+Introduction
 
 <small>2023-06-12 · Freie Universität Berlin 🇩🇪 ([RA5 Meeting/EXC2020](https://www.temporal-communities.de/research/digital-communities/index.html))</small><br />
 [Internationale Autor\*innen zu Gast in der DDR – Die Einreisekartei des Schriftstellerverbandes und ihre digitale Aufbereitung](https://bit.ly/dsv-ra5) (extended version of our talk at DHd2023)
