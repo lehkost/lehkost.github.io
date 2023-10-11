@@ -9,7 +9,7 @@ Feuilleton articles and some [translations](#translations).
 
 -   Frank Fischer: [**Jurist, Journalist, Fälscher. Zweihundertfünfzig
     Jahre nach seiner Geburt lässt sich das schriftstellerische Werk von
-    Johann Nikolaus Becker erst in seiner ganzen Breite entdecken.**](https://www.faz.net/-gr2-bfd72)
+    Johann Nikolaus Becker erst in seiner ganzen Breite entdecken.**](https://archive.org/download/johann-nikolaus-becker-faz-2023-09-23/johann-nikolaus-becker-faz-2023-09-23.pdf)
     In: Frankfurter Allgemeine Zeitung, 23 September 2023, p. 18.
 
 ### 2022

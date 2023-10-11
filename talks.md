@@ -22,10 +22,10 @@ Digital Humanities: Forschungsfelder und Berufsperspektiven
 (No title yet)
 
 <small>2023-10-11 · Freie Universität Berlin 🇩🇪 ([»Wikipedia, Wikidata and Wikibase: Usage Scenarios for Literary Studies«](https://www.temporal-communities.de/events/international-workshop-wikipedia-wikidata-wikibase.html))</small><br />
-Querying the Wikipedia API to Explore the Positioning of Authors and Works: A Jupyter Notebook Walkthrough
+[Querying the Wikipedia API to Explore the Positioning of Authors and Works: A Jupyter Notebook Walkthrough](https://github.com/temporal-communities/wiki-literature)
 
 <small>2023-10-10 · Freie Universität Berlin 🇩🇪 ([»Wikipedia, Wikidata and Wikibase: Usage Scenarios for Literary Studies«](https://www.temporal-communities.de/events/international-workshop-wikipedia-wikidata-wikibase.html))</small><br />
-Opening Remarks and Introduction
+[Opening Remarks and Introduction](https://lehkost.github.io/slides/2023-10-10-wwwlit-intro/)
 
 <small>2023-09-11 · Freie Universität Berlin 🇩🇪 ([DraCor Onboarding Workshop for Hebrew and Yiddish Drama](https://www.ada.fu-berlin.de/kalender/HeDraCorWorkshop.html))</small><br />
 [What Is DraCor? (Kick-Off Presentation)](https://bit.ly/widr)
