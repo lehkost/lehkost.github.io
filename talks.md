@@ -25,7 +25,7 @@ Digital Humanities: Forschungsfelder und Berufsperspektiven
 [Querying the Wikipedia API to Explore the Positioning of Authors and Works: A Jupyter Notebook Walkthrough](https://github.com/temporal-communities/wiki-literature)
 
 <small>2023-10-10 · Freie Universität Berlin 🇩🇪 ([»Wikipedia, Wikidata and Wikibase: Usage Scenarios for Literary Studies«](https://www.temporal-communities.de/events/international-workshop-wikipedia-wikidata-wikibase.html))</small><br />
-[Opening Remarks and Introduction](https://lehkost.github.io/slides/2023-10-10-wwwlit-intro/)
+[Opening Remarks and Introduction](https://lehkost.github.io/slides/2023-10-10-wwwlit-intro/) ([Mastodon](https://chaos.social/@umblaetterer/111210080192828977)) ([Twitter](https://twitter.com/umblaetterer/status/1711678645993889886))
 
 <small>2023-09-11 · Freie Universität Berlin 🇩🇪 ([DraCor Onboarding Workshop for Hebrew and Yiddish Drama](https://www.ada.fu-berlin.de/kalender/HeDraCorWorkshop.html))</small><br />
 [What Is DraCor? (Kick-Off Presentation)](https://bit.ly/widr)
@@ -127,6 +127,9 @@ How to Get 90,000 Readers Interested in Digital Humanities: Experiences with [»
 <small>2021-09-22 · (virtual) 🇩🇪 ([Virtual Meeting of SPP 2207: Computational Literary Studies](https://dfg-spp-cls.github.io/de/2021/09/12/GeneralMeeting.html))</small><br />
 [Introduction to CLS INFRA](https://cls-infra.pages.clsinfra.io:11439/WP7/presentations/2021-09-22_SPP-CLS-General-Meeting/index.html)
 
+<small>2021-09-12 · Friedrich-Alexander-Universität Erlangen-Nürnberg 🇩🇪</small><br />
+[Digital Humanities zwischen Technologie und Interpretation](https://lehkost.github.io/slides/2021-09-12-erlangen/index.html)
+
 <small>2021-07-22 · (virtual) 🇺🇸 ([ACH2021](https://ach2021.ach.org/))</small><br />
 [Who Needs Tool Directories? A Forum on Sustaining Discovery Portals Large and Small](https://twitter.com/umblaetterer/status/1410612207663017998)
 
@@ -173,6 +176,9 @@ Nachnutzung und Analyse: CATMA und DraCor
 
 <small>2020-10-02 · Indiana University Bloomington (virtual) 🇺🇸 ([Russian Studies Workshop](https://rsw.indiana.edu/graduate-training/graduate-methods-training-workshop/gmtw2020/))</small><br />
 [Digital Humanities Research Methods in Russian Studies](/slides/2020-10-02-indiana/index.html)
+
+<small>2020-07-02 · TU Darmstadt 🇩🇪</small><br />
+[Namen als Signale: Geisteswissenschaftliche Daten in der Praxis](/slides/2020-07-02-darmstadt/index.html)
 
 <small>2020-03-05 · Paderborn University 🇩🇪 ([DHd2020](https://dhd2020.de/))</small><br />
 [Netzwerkanalyse spielerisch vermitteln mit DraCor und forTEXT: Zur nicht-digitalen Dissemination einer digitalen Methode in Form des Kartenspiels »Dramenquartett«](https://doi.org/10.5281/zenodo.3697240)
