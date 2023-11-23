@@ -3,10 +3,14 @@ layout: page
 title: Feuilleton
 ---
 
-Feuilleton articles and some [translations](#translations).
+Feuilleton articles, some prefaces and [translations](#translations).
 
 ### 2023
 
+-   Frank Fischer: **Ein 100-Seiten-Buch ist eigentlich immer ein gutes
+    Buch.** (Vorwort.) In: Joseph Wälzholz:
+    [100 superste 100-Seiten-Bücher.](https://www.ilri.de/buch/100-superste-100-seiten-buecher)
+    Leipzig: Ille &amp; Riemer 2023, pp. 9–11.
 -   Frank Fischer: [**Jurist, Journalist, Fälscher. Zweihundertfünfzig
     Jahre nach seiner Geburt lässt sich das schriftstellerische Werk von
     Johann Nikolaus Becker erst in seiner ganzen Breite entdecken.**](https://archive.org/download/johann-nikolaus-becker-faz-2023-09-23/johann-nikolaus-becker-faz-2023-09-23.pdf)
@@ -55,6 +59,13 @@ Feuilleton articles and some [translations](#translations).
     den sibirischen
     Februar.**](https://archive.org/download/unter-null-2018-02-18/unter-null-2018-02-18.pdf)
     In: Frankfurter Allgemeine Sonntagszeitung, 18 February 2018, p. 69.
+
+### 2017
+
+-   Frank Fischer: **Die Ungenauigkeit von Kaffeehausgesprächen.** (Vorwort.)
+    In: André Seelmann: [Abenteuer im Kaffeehaus. Feuilletons aus dem »Umblätterer«
+    2007–2015.](https://ilri.de/buch/abenteuer-im-kaffeehaus)
+    Leipzig und Weißenfels: Ille &amp; Riemer 2017, pp. 7–11.
 
 ### 2016
 

@@ -18,8 +18,8 @@ Praxis der Geisteswissenschaften: ›Recherche‹
 <small>2023-12-05 · Freie Universität Berlin 🇩🇪 ([Mittagsforum der FSGS](https://www.geisteswissenschaften.fu-berlin.de/friedrichschlegel/aktivitaeten/mittagsforum/index.html))</small><br />
 Digital Humanities: Forschungsfelder und Berufsperspektiven
 
-<small>2023-11-24 · Freie Universität Berlin 🇩🇪 ([»Die DDR-Kulturzeitschrift ›Sonntag‹ im Kontext der Digital Humanities«](https://www.temporal-communities.de/events/workshop-ddr-kulturzeitschrift-sonntag.html))</small><br />
-(No title yet)
+<small>2023-11-25 · Freie Universität Berlin 🇩🇪 ([»Die DDR-Kulturzeitschrift ›Sonntag‹ im Kontext der Digital Humanities«](https://www.temporal-communities.de/events/workshop-ddr-kulturzeitschrift-sonntag.html))</small><br />
+Präliminarien zu einer digitalen Erschließung des »Sonntag«
 
 <small>2023-10-11 · Freie Universität Berlin 🇩🇪 ([»Wikipedia, Wikidata and Wikibase: Usage Scenarios for Literary Studies«](https://www.temporal-communities.de/events/international-workshop-wikipedia-wikidata-wikibase.html))</small><br />
 [Querying the Wikipedia API to Explore the Positioning of Authors and Works: A Jupyter Notebook Walkthrough](https://github.com/temporal-communities/wiki-literature)
@@ -37,7 +37,7 @@ Digital Humanities: Forschungsfelder und Berufsperspektiven
 [Dockerizing DraCor – A Container-Based Approach to Reproducibility in Computational Literary Studies](https://bit.ly/dockerizing-dracor)
 
 <small>2023-07-10 · Freie Universität Berlin 🇩🇪 ([Niels Penke: »Carmen Nova. Über fingierte Texte von Umberto Eco und Roland Barthes«](https://www.temporal-communities.de/events/lecture-carmen-nova.html))</small><br />
-Introduction
+Introduction ([»Die Welt«, 13 July 2023, pp. 14–15](https://www.welt.de/246327316))
 
 <small>2023-06-12 · Freie Universität Berlin 🇩🇪 ([RA5 Meeting/EXC2020](https://www.temporal-communities.de/research/digital-communities/index.html))</small><br />
 [Internationale Autor\*innen zu Gast in der DDR – Die Einreisekartei des Schriftstellerverbandes und ihre digitale Aufbereitung](https://bit.ly/dsv-ra5) (extended version of our talk at DHd2023)
@@ -153,7 +153,7 @@ Nachnutzung und Analyse: CATMA und DraCor
 
 ### 2020
 
-<small>2020-12-08 · University of Wuppertal (virtual) 🇩🇪 ([IZED Lecture](https://www.ized.uni-wuppertal.de/de/aktuelles/ansicht/artikel/2020/11/26/5255-08122020-vortrag-dracor-v10-eine-forschungsnahe-infrastruktur-fuer-die-digitalen-literaturwissenschaften.html))</small><br />
+<small>2020-12-08 · University of Wuppertal (virtual) 🇩🇪 ([IZED Lecture](https://web.archive.org/web/20210307060616/https://www.ized.uni-wuppertal.de/de/aktuelles/ansicht/artikel/2020/11/26/5255-08122020-vortrag-dracor-v10-eine-forschungsnahe-infrastruktur-fuer-die-digitalen-literaturwissenschaften.html))</small><br />
 [DraCor V1.0 – Eine forschungsnahe Infrastruktur für die digitalen Literaturwissenschaften](https://bit.ly/wupcor)
 
 <small>2020-11-25 · San Sebastián (virtual) 🇪🇸 ([Workshop de INTELE](http://ixa2.si.ehu.es/intele/?q=actividades))</small><br />

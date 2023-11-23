@@ -46,7 +46,11 @@ title: Publications
     Theatre Plays: A DraCor Study in Comparative Literary Network Analysis.**
     In: Melanie Andresen, Nils Reiter (eds.): [Computational Drama Analysis.
     Reflecting Methods and Interpretations.](https://www.degruyter.com/document/isbn/9783111071763/html)
-    Berlin/Boston: De Gruyter 2023.
+    Berlin/Boston: De Gruyter 2024.
+-   Michel Schwab, Robert Jäschke, Frank Fischer: **»Japan’s Answer to
+    Mozart«: Automatic Detection of Generalized Patterns of Vossian Antonomasia.**
+    In: Proceedings of the 6th International Conference on Natural
+    Language and Speech Processing (ICNLSP 2023).
 
 #### 2023
 
