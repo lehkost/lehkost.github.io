@@ -19,7 +19,7 @@ Praxis der Geisteswissenschaften: ›Recherche‹
 Digital Humanities: Forschungsfelder und Berufsperspektiven
 
 <small>2023-11-25 · Freie Universität Berlin 🇩🇪 ([»Die DDR-Kulturzeitschrift ›Sonntag‹ im Kontext der Digital Humanities«](https://www.temporal-communities.de/events/workshop-ddr-kulturzeitschrift-sonntag.html))</small><br />
-Präliminarien zu einer digitalen Erschließung des »Sonntag«
+Präliminarien zur digitalen Erschließung des »Sonntag«
 
 <small>2023-10-11 · Freie Universität Berlin 🇩🇪 ([»Wikipedia, Wikidata and Wikibase: Usage Scenarios for Literary Studies«](https://www.temporal-communities.de/events/international-workshop-wikipedia-wikidata-wikibase.html))</small><br />
 [Querying the Wikipedia API to Explore the Positioning of Authors and Works: A Jupyter Notebook Walkthrough](https://github.com/temporal-communities/wiki-literature)
@@ -407,7 +407,7 @@ Editing/Annotating of Poems of the »Cancionero musical de Palacio«
 <small>2015-12-14 · Madrid 🇪🇸 ([La edición digital académica: de lo analógico a lo digital](https://linhd.uned.es/workshop-la-edicion-digital-academica-de-lo-analogico-a-lo-digital/))</small><br />
 Brief Introduction to DARIAH & TextGrid
 
-<small>2015-12-08 · Paris 🇫🇷 ([Deutsches Forum für Kunstgeschichte](https://vis.dfkg.org/))</small><br />
+<small>2015-12-08 · Paris 🇫🇷 ([Deutsches Forum für Kunstgeschichte](https://web.archive.org/web/20200928014516/https://vis.dfkg.org/))</small><br />
 Zu schön, um wahr zu sein? -- Visualisierung in den Geisteswissenschaften
 
 <small>2015-12-01 · Göttingen 🇩🇪 ([GCDH](https://www.gcdh.de/))</small><br />

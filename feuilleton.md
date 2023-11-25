@@ -62,7 +62,8 @@ Feuilleton articles, some prefaces and [translations](#translations).
 
 ### 2017
 
--   Frank Fischer: **Die Ungenauigkeit von Kaffeehausgesprächen.** (Vorwort.)
+-   Frank Fischer: **[Die Ungenauigkeit von
+    Kaffeehausgesprächen.](https://www.umblaetterer.de/wp-content/uploads/2017/Abenteuer_im_Kaffeehaus_2017_-_Leseprobe.pdf#page=4)** (Vorwort.)
     In: André Seelmann: [Abenteuer im Kaffeehaus. Feuilletons aus dem »Umblätterer«
     2007–2015.](https://ilri.de/buch/abenteuer-im-kaffeehaus)
     Leipzig und Weißenfels: Ille &amp; Riemer 2017, pp. 7–11.
