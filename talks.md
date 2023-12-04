@@ -16,10 +16,10 @@ Praxis der Geisteswissenschaften: ›Recherche‹
 ### 2023
 
 <small>2023-12-05 · Freie Universität Berlin 🇩🇪 ([Mittagsforum der FSGS](https://www.geisteswissenschaften.fu-berlin.de/friedrichschlegel/aktivitaeten/mittagsforum/index.html))</small><br />
-Digital Humanities: Forschungsfelder und Berufsperspektiven
+[Digital Humanities: Forschungsfelder und Berufsperspektiven](https://lehkost.github.io/slides/2023-12-05-fsgs-mittagsforum/index.html)
 
 <small>2023-11-25 · Freie Universität Berlin 🇩🇪 ([»Die DDR-Kulturzeitschrift ›Sonntag‹ im Kontext der Digital Humanities«](https://www.temporal-communities.de/events/workshop-ddr-kulturzeitschrift-sonntag.html))</small><br />
-Präliminarien zur digitalen Erschließung des »Sonntag«
+[Präliminarien zur digitalen Erschließung des »Sonntag«](https://lehkost.github.io/slides/2023-11-25-sonntag/index.html)
 
 <small>2023-10-11 · Freie Universität Berlin 🇩🇪 ([»Wikipedia, Wikidata and Wikibase: Usage Scenarios for Literary Studies«](https://www.temporal-communities.de/events/international-workshop-wikipedia-wikidata-wikibase.html))</small><br />
 [Querying the Wikipedia API to Explore the Positioning of Authors and Works: A Jupyter Notebook Walkthrough](https://github.com/temporal-communities/wiki-literature)
