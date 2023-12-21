@@ -18,7 +18,7 @@ title: Committees/Services
 * [DARIAH2021](https://dariah-2021.sciencesconf.org/) (chair)
 * [EADH2021, Krasnoyarsk](https://eadh2020-2021.org/about/program-committee/)
 * [Rahtz Prize for TEI Ingenuity 2023](https://tei-c.org/2023/08/02/rahtz-prize-for-ingenuity-2023-call-for-nominations-and-self-submissions/) (award panel)
-* TEI2024, Buenos Aires
+* [TEI2024, Buenos Aires](https://tei2024.tei-c.org/)
 
 ### Board Memberships, Editorial Work, Review Activities
 * [IASLonline, »Digital Literary Studies« section](http://www.iaslonline.de/) (editor, 2016–)

@@ -14,7 +14,8 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 
 ### Current Main Projects
 * [Digital Observatory of World Literature](https://www.temporal-communities.de/research/digital-communities/projects/digital-observatory-world-literature) – project lead (2023–)
-* [Semi-automatische Kollationierung verschiedensprachiger Fassungen eines Textes](https://gepris.dfg.de/gepris/projekt/524057241) – (2023–)
+* [QUADRIGA](https://www.fu-berlin.de/presse/informationen/fup/2023/fup_23_301-quadriga-digital-humanities/index.html) (Berlin-Brandenburgisches Datenkompetenzzentrum für Digital Humanities und Verwaltungswissenschaft) – WP leader (2023–2026)
+* [Semi-automatische Kollationierung verschiedensprachiger Fassungen eines Textes](https://gepris.dfg.de/gepris/projekt/524057241) – (2023–2026)
 * [Le *Sonntag* dans le contexte des Humanités numériques](https://sonntagfr.hypotheses.org/) – (2023–)
 * [CLS INFRA](https://clsinfra.io/) (Computational Literary Studies) – steering committee and WP leader (2021–2025)
 * [DraCor](https://dracor.org/) – multilingual Drama Corpora platform (a showcase for [Programmable Corpora](https://doi.org/10.5281/zenodo.4284002)) – editor-in-chief (2017–) ([Rahtz Prize for TEI Ingenuity 2022](https://tei-c.org/activities/rahtz-prize-for-tei-ingenuity/) 🏆)

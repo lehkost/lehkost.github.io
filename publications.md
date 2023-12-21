@@ -41,6 +41,15 @@ title: Publications
 
 #### Forthcoming
 
+-   Viktor J. Illmer, Bart Soethaert, Lilly Welz, Frank Fischer, Robert
+    Jäschke: **Literatur im Wikiversum – Eine praktische Annäherung über
+    API-Abfragen und Wikipedia-Metriken.** (Workshop.) In: DHd2024:
+    »DH Quo Vadis«. 26. Februar--1. März 2024. Book of Abstracts.
+    University of Passau.
+-   Jonah Lubin, Anke Detken, Frank Fischer: **Das »ureigenste theatralische
+    Element« – Automatische Extraktion von Requisiten aus deutschsprachigen
+    Dramentexten.** In: DHd2024: »DH Quo Vadis«. 26. Februar--1. März 2024.
+    Book of Abstracts. University of Passau.
 -   Peer Trilcke, Evgeniya Ustinova, Ingo Börner, Frank Fischer,
     Carsten Milling: **Detecting Small Worlds in a Corpus of Thousands of
     Theatre Plays: A DraCor Study in Comparative Literary Network Analysis.**

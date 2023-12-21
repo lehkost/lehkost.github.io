@@ -7,13 +7,16 @@ Invited talks, conference, workshop slides, introductions.
 
 ### 2024
 
-<small>2024-04-29 · Universität Rostock 🇩🇪 ([Ringvorlesung des #RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
+<small>2024-05-02 · Universität Rostock 🇩🇪 ([Ringvorlesung des #RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
 Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute
 
 <small>2024-01-08 · Freie Universität Berlin 🇩🇪 ([GiK](https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geisteswissenschaften-im-interdisziplinaeren-kontext/index.html)-Vorlesungsreihe »Einführung in das geisteswissenschaftliche Arbeiten und Schreiben«)</small><br />
 Praxis der Geisteswissenschaften: ›Recherche‹
 
 ### 2023
+
+<small>2023-12-14 · Freie Universität Berlin 🇩🇪 (EXC2020 · Fourth Meeting of the International Advisory Board)</small><br />
+[Digital Observatory of World Literature](https://lehkost.github.io/slides/2023-12-14-iab/index.html)
 
 <small>2023-12-05 · Freie Universität Berlin 🇩🇪 ([Mittagsforum der FSGS](https://www.geisteswissenschaften.fu-berlin.de/friedrichschlegel/aktivitaeten/mittagsforum/index.html))</small><br />
 [Digital Humanities: Forschungsfelder und Berufsperspektiven](https://lehkost.github.io/slides/2023-12-05-fsgs-mittagsforum/index.html)
