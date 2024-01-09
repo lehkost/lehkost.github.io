@@ -11,7 +11,7 @@ Invited talks, conference, workshop slides, introductions.
 Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute
 
 <small>2024-01-08 · Freie Universität Berlin 🇩🇪 ([GiK](https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geisteswissenschaften-im-interdisziplinaeren-kontext/index.html)-Vorlesungsreihe »Einführung in das geisteswissenschaftliche Arbeiten und Schreiben«)</small><br />
-Praxis der Geisteswissenschaften: ›Recherche‹
+[Praxis der Geisteswissenschaften: ›Recherche‹](https://bit.ly/gik8124)
 
 ### 2023
 
@@ -219,7 +219,7 @@ A Data-Driven View on Russian Drama ([conference review at H-Soz-Kult](https://w
 [»Als einst am 1. Mai die Welt begann« -- Berechnung und Interpretation der Überpräsenz des Wonnemonats im deutschsprachigen Roman](/slides/2019-09-24-saarbruecken-mai/index.html)
 
 <small>2019-09-20 · Graz 🇦🇹 ([TEI2019](https://graz-2019.tei-c.org/))</small><br />
-[Using Machine Learning for the Automated Classification of Stage Directions in TEI-Encoded Drama Corpora](https://shorturl.at/jEFJR)
+[Using Machine Learning for the Automated Classification of Stage Directions in TEI-Encoded Drama Corpora](https://bit.ly/jEFJR)
 
 <small>2019-08-30 · University of Potsdam 🇩🇪 (Summer School »Debating Data«)</small><br />
 [Digital Formalism](/slides/2019-08-30-potsdam-digital-formalism/index.html)
