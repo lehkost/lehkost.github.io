@@ -7,8 +7,14 @@ Invited talks, conference, workshop slides, introductions.
 
 ### 2024
 
-<small>2024-05-02 · Universität Rostock 🇩🇪 ([Ringvorlesung des #RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
+<small>2024-05-02 · University of Rostock 🇩🇪 ([Ringvorlesung des #RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
 Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute
+
+<small>2023-03-01 · University of Passau 🇩🇪 ([DHd2024](https://dhd2024.dig-hum.de/))</small><br />
+Das »ureigenste theatralische Element« – Automatische Extraktion von Requisiten aus deutschsprachigen Dramentexten
+
+<small>2023-02-27 · University of Passau 🇩🇪 ([DHd2024 Workshop](https://dhd2024.dig-hum.de/w1-literatur-im-wikiversum-eine-praktische-annaherung-uber-api-abfragen-und-wikipedia-metriken/))</small><br />
+Literatur im Wikiversum – Eine praktische Annäherung über API-Abfragen und Wikipedia-Metriken
 
 <small>2024-01-08 · Freie Universität Berlin 🇩🇪 ([GiK](https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geisteswissenschaften-im-interdisziplinaeren-kontext/index.html)-Vorlesungsreihe »Einführung in das geisteswissenschaftliche Arbeiten und Schreiben«)</small><br />
 [Praxis der Geisteswissenschaften: ›Recherche‹](https://bit.ly/gik8124)

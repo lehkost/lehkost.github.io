@@ -56,13 +56,14 @@ title: Publications
     In: Melanie Andresen, Nils Reiter (eds.): [Computational Drama Analysis.
     Reflecting Methods and Interpretations.](https://www.degruyter.com/document/isbn/9783111071763/html)
     Berlin/Boston: De Gruyter 2024.
--   Michel Schwab, Robert Jäschke, Frank Fischer: **»Japan’s Answer to
-    Mozart«: Automatic Detection of Generalized Patterns of Vossian Antonomasia.**
-    In: Proceedings of the 6th International Conference on Natural
-    Language and Speech Processing (ICNLSP 2023).
 
 #### 2023
 
+-   Michel Schwab, Robert Jäschke, Frank Fischer: **»Japan’s Answer to
+    Mozart«: Automatic Detection of Generalized Patterns of Vossian Antonomasia.**
+    In: Proceedings of the 6th International Conference on Natural
+    Language and Speech Processing (ICNLSP 2023), pp. 99--109.
+    (URL: <https://aclanthology.org/2023.icnlsp-1.10>)
 -   Ingo Börner, Peer Trilcke, Carsten Milling, Frank Fischer,
     Henny Sluyter-Gäthje: **Dockerizing DraCor -- A Container-Based Approach
     to Reproducibility in Computational Literary Studies.**
@@ -380,6 +381,11 @@ title: Publications
     »Pedagogy and Praxis«. 11--15 November 2017. Book of Abstracts,
     Vol. 16. University of Victoria. (URL:
     <https://hcmc.uvic.ca/tei2017/abstracts/t_115_fischeretal_lifeonstage.html>)
+-   Frank Fischer, Carsten Milling: **Easy Linavis (Simple Network
+    Visualisation for Literary Texts).** In: HDH2017: »Sociedades,
+    políticas, saberes«. 18--20 October 2017. Málaga. Libro de resúmenes,
+    pp. 173–176.
+    ([doi:10.5281/zenodo.10478399](https://doi.org/10.5281/zenodo.10478399))
 -   Jennifer Edmond, Frank Fischer, Michael Mertens, Laurent Romary:
     **The DARIAH ERIC: Redefining Research Infrastructure for the Arts
     and Humanities in the Digital Age.** In: ERCIM News. Number 111:
