@@ -7,11 +7,14 @@ Invited talks, conference, workshop slides, introductions.
 
 ### 2024
 
+<small>2024-10-02 · Freie Universität Berlin 🇩🇪 (Voss-Tagung)</small><br />
+Perspektiven für die buch- und verlagsgeschichtliche Forschung unter digitalen Bedingungen
+
 <small>2024-05-02 · University of Rostock 🇩🇪 ([Ringvorlesung des #RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
 Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute
 
-<small>2023-03-01 · University of Passau 🇩🇪 ([DHd2024](https://dhd2024.dig-hum.de/))</small><br />
-Das »ureigenste theatralische Element« – Automatische Extraktion von Requisiten aus deutschsprachigen Dramentexten
+<small>2023-03-01 · University of Passau 🇩🇪 ([DHd2024](https://dhd2024.dig-hum.de/programm-freitag-01-03-2024/))</small><br />
+[Das »ureigenste theatralische Element« – Automatische Extraktion von Requisiten aus deutschsprachigen Dramentexten](https://bit.ly/props-dhd)
 
 <small>2023-02-27 · University of Passau 🇩🇪 ([DHd2024 Workshop](https://dhd2024.dig-hum.de/w1-literatur-im-wikiversum-eine-praktische-annaherung-uber-api-abfragen-und-wikipedia-metriken/))</small><br />
 Literatur im Wikiversum – Eine praktische Annäherung über API-Abfragen und Wikipedia-Metriken

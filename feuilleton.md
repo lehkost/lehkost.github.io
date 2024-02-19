@@ -5,6 +5,12 @@ title: Feuilleton
 
 Feuilleton articles, some prefaces and [translations](#translations).
 
+### 2024
+
+-   Frank Fischer: [**Was macht die Freiheit in der
+    Forschung?**](https://www.fu-berlin.de/campusleben/forschen/2024/240215-tsp-freiheit-wissenschaft/index.html)
+    In: Tagesspiegel, Supplement, 18 February 2024.
+
 ### 2023
 
 -   Frank Fischer: **Ein 100-Seiten-Buch ist eigentlich immer ein gutes
