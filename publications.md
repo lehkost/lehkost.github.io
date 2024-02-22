@@ -167,9 +167,9 @@ title: Publications
 #### 2021
 
 -   Frank Fischer: **Stahlpanzer gegen Müllner gegen Vieweg. Eine Episode
-    aus der Endphase des Schicksalsdramas.** In:
-    [Weimarer Beiträge 67.4](https://weimarer-beitraege.de/2021-4/)
+    aus der Endphase des Schicksalsdramas.** In: Weimarer Beiträge 67.4
     (2021), pp. 601--613.
+    ([doi:10.17169/refubium-42185](https://doi.org/10.17169/refubium-42185))
 -   Daniil Skorinkin, Anastasia Khorosheva, Frank Fischer:
     **How to Get 90,000 Readers Interested in Digital Humanities:
     Experiences with »Systemnyj Blok«.**
