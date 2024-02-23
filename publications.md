@@ -52,13 +52,13 @@ title: Publications
 
 -   Jonah Lubin, Anke Detken, Frank Fischer: **Das »ureigenste theatralische
     Element« – Automatische Extraktion von Requisiten aus deutschsprachigen
-    Dramentexten.** In: DHd2024: »DH Quo Vadis«. 26. Februar--1. März 2024.
+    Dramentexten.** In: DHd2024: »DH Quo Vadis«. 26 February--1 March 2024.
     Book of Abstracts. University of Passau.
     ([doi:10.5281/zenodo.10698448](https://doi.org/10.5281/zenodo.10698448))
 -   Viktor J. Illmer, Bart Soethaert, Lilly Welz, Frank Fischer, Robert
     Jäschke: **Literatur im Wikiversum – Eine praktische Annäherung über
     API-Abfragen und Wikipedia-Metriken.** (Workshop.) In: DHd2024:
-    »DH Quo Vadis«. 26. Februar--1. März 2024. Book of Abstracts.
+    »DH Quo Vadis«. 26 February--1 March 2024. Book of Abstracts.
     University of Passau.
     ([doi:10.5281/zenodo.10698426](https://doi.org/10.5281/zenodo.10698426))
 
