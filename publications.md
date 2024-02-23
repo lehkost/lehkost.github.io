@@ -48,7 +48,7 @@ title: Publications
     Reflecting Methods and Interpretations.](https://www.degruyter.com/document/isbn/9783111071763/html)
     Berlin/Boston: De Gruyter 2024.
 
-#### 2023
+#### 2024
 
 -   Jonah Lubin, Anke Detken, Frank Fischer: **Das »ureigenste theatralische
     Element« – Automatische Extraktion von Requisiten aus deutschsprachigen
@@ -61,6 +61,9 @@ title: Publications
     »DH Quo Vadis«. 26. Februar--1. März 2024. Book of Abstracts.
     University of Passau.
     ([doi:10.5281/zenodo.10698426](https://doi.org/10.5281/zenodo.10698426))
+
+#### 2023
+
 -   Michel Schwab, Robert Jäschke, Frank Fischer: **»Japan’s Answer to
     Mozart«: Automatic Detection of Generalized Patterns of Vossian Antonomasia.**
     In: Proceedings of the 6th International Conference on Natural
