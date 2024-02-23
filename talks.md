@@ -17,7 +17,7 @@ Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1
 [Das »ureigenste theatralische Element« – Automatische Extraktion von Requisiten aus deutschsprachigen Dramentexten](https://bit.ly/props-dhd)
 
 <small>2023-02-27 · University of Passau 🇩🇪 ([DHd2024 Workshop](https://dhd2024.dig-hum.de/w1-literatur-im-wikiversum-eine-praktische-annaherung-uber-api-abfragen-und-wikipedia-metriken/))</small><br />
-Literatur im Wikiversum – Eine praktische Annäherung über API-Abfragen und Wikipedia-Metriken
+[Literatur im Wikiversum – Eine praktische Annäherung über API-Abfragen und Wikipedia-Metriken](https://bit.ly/wiklit)
 
 <small>2024-01-08 · Freie Universität Berlin 🇩🇪 ([GiK](https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geisteswissenschaften-im-interdisziplinaeren-kontext/index.html)-Vorlesungsreihe »Einführung in das geisteswissenschaftliche Arbeiten und Schreiben«)</small><br />
 [Praxis der Geisteswissenschaften: ›Recherche‹](https://bit.ly/gik8124)

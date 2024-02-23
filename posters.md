@@ -143,5 +143,5 @@ Stefan Resch, Salvador Ros, Christof Schöch, Artjoms Šeļa, Toma Tasovac,
 Justin Tonra, Erzsébet Tóth-Czifra, Peer Trilcke, Karina van Dalen-Oskam,
 Lisanne van Rossum:*\
 **Computational Literary Studies Infrastructure (CLS INFRA):
-Initial Findings and Conclusions for the Field (DH2023, Graz)**
+Initial Findings and Conclusions for the Field (DH2023, Graz)**\
 [zenodo](https://doi.org/10.5281/zenodo.8107904) (abstract)
