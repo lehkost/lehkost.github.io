@@ -41,6 +41,9 @@ title: Publications
 
 #### Forthcoming
 
+-   Julia Jennifer Beine, Frank Fischer, Viktor J. Illmer: **Just the Type:
+    Analysing Character Typology in Roman Comedy with RomDraCor.**
+    In: DH2024: »Reinvention & Responsibility«. 6--10 August 2024. Washington, DC. Book of Abstracts.
 -   Peer Trilcke, Evgeniya Ustinova, Ingo Börner, Frank Fischer,
     Carsten Milling: **Detecting Small Worlds in a Corpus of Thousands of
     Theatre Plays: A DraCor Study in Comparative Literary Network Analysis.**
@@ -90,13 +93,13 @@ title: Publications
 -   Michel Schwab, Frank Fischer: **»Die Greta Garbo der Leichtathletik«.
     Eine systematische Analyse der Modifier vossianischer Antonomasien
     mithilfe von Word Embeddings.** In: DHd2023: »Open Humanities, Open
-    Culture«. 13--17 March 2023. Book of Abstracts. University of Trier.
+    Culture«. 13--17 March 2023. Book of Abstracts. University of Trier.
     ([doi:10.5281/zenodo.7715490](https://doi.org/10.5281/zenodo.7715490))
 -   Frank Fischer, Viktor Jonathan Illmer, Lukas Nils Regeler,
     Jutta Müller-Tamm, Luise von Berenberg-Gossler, Franziska Diehr:
     **Internationale Autor\*innen zu Gast in der DDR: Die Einreisekartei
     des Schriftstellerverbandes und ihre digitale Aufbereitung.**
-    In: DHd2023: »Open Humanities, Open Culture«. 13--17 March 2023.
+    In: DHd2023: »Open Humanities, Open Culture«. 13--17 March 2023.
     Book of Abstracts. University of Trier.
     ([doi:10.5281/zenodo.7715311](https://doi.org/10.5281/zenodo.7715311))
 -   Frank Fischer, Robert Jäschke: **Ein Quantum Literatur. Empirische
