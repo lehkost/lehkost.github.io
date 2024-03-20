@@ -30,6 +30,7 @@ title: Committees/Services
 
 ### Scientific Consultancy
 * Agence nationale de la recherche (ANR)
-* European Research Council (ERC)
 * Federal Ministry of Education and Research (BMBF)
 * Berlin University Alliance (BUA)
+* European Research Council (ERC)
+* Israel Science Foundation (ISF)
