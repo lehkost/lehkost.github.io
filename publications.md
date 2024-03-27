@@ -516,6 +516,10 @@ title: Publications
 
 #### Reviews
 
+-   Jonah Lubin, Frank Fischer: **Conference Report,
+    »Wikipedia, Wikidata, and Wikibase: Usage Scenarios for Literary
+    Studies« (October 2023).** In: H-Soz-Kult, 27 March 2024. (URL:
+    <https://www.hsozkult.de/conferencereport/id/fdkn-142913>)
 -   Frank Fischer: **Nichtlesen als Methode der Literaturwissenschaft
     \[on Matthew Jockers’ »Macroanalysis«\].** In: IASLonline, 15
     August 2016. (URL:
@@ -526,10 +530,10 @@ title: Publications
     Selbstmordattentäter in der abendländischen Literatur«\].** In:
     IASLonline, 11 October 2011. (URL:
     <https://www.iaslonline.lmu.de/index.php?vorgang_id=3424>)
--   Tobias Grave, Frank Fischer: **Conference proceedings,
-    »Professorenkataloge online« (November 2008).** In: H-Soz-u-Kult, 27
+-   Tobias Grave, Frank Fischer: **Conference Report,
+    »Professorenkataloge online« (November 2008).** In: H-Soz-Kult, 27
     April 2009. (URL:
-    <https://www.hsozkult.de/conferencereport/id/tagungsberichte-2587>)
+    <https://www.hsozkult.de/conferencereport/id/fdkn-121228>)
 -   Frank Fischer: **Kunsthistorische Novalis-Forschung \[on the edited
     volume »Die Bildnisse des Novalis«\].** In: IASLonline, 29
     August 2007. (URL:
