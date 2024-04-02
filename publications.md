@@ -53,6 +53,15 @@ title: Publications
 
 #### 2024
 
+-   Bettina Buchholz, Ulrike Lucke, Sonja Schimmler, Jan-Hendrik Bakels,
+    Jan Bernoth, Frank Fischer, Lena Gieseke, Matthias Grotkopp,
+    Torsten Hiltmann, Daniel Krupka, Skadi Loist, Julia Meisner,
+    Dennis Mischke, Robin Möser, Heike Neuroth, Vivien Petras, Juliane
+    Schmeling, Sibylle Söring, Peer Trilcke: **Umsetzungskonzept QUADRIGA:
+    Berlin-Brandenburgisches Datenkompetenzzentrum für Digital Humanities,
+    Verwaltungswissenschaft, Informatik und Informationswissenschaft.**
+    In: Zenodo, 11 March 2024.
+    ([doi:10.5281/zenodo.10805015](https://doi.org/10.5281/zenodo.10805015))
 -   Jonah Lubin, Anke Detken, Frank Fischer: **Das »ureigenste theatralische
     Element« – Automatische Extraktion von Requisiten aus deutschsprachigen
     Dramentexten.** In: DHd2024: »DH Quo Vadis«. 26 February--1 March 2024.
@@ -63,7 +72,6 @@ title: Publications
     API-Abfragen und Wikipedia-Metriken.** (Workshop.) In: DHd2024:
     »DH Quo Vadis«. 26 February--1 March 2024. Book of Abstracts.
     University of Passau.
-    ([doi:10.5281/zenodo.10698426](https://doi.org/10.5281/zenodo.10698426))
 
 #### 2023
 
