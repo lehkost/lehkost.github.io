@@ -72,6 +72,7 @@ title: Publications
     API-Abfragen und Wikipedia-Metriken.** (Workshop.) In: DHd2024:
     »DH Quo Vadis«. 26 February--1 March 2024. Book of Abstracts.
     University of Passau.
+    ([doi:10.5281/zenodo.10698426](https://doi.org/10.5281/zenodo.10698426))
 
 #### 2023
 

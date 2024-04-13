@@ -13,8 +13,8 @@ Perspektiven für die buch- und verlagsgeschichtliche Forschung unter digitalen 
 <small>2024-05-02 · University of Rostock 🇩🇪 ([Ringvorlesung des #RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
 Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute
 
-<small>2024-04-12 · Akademie der Wissenschaften und der Literatur Mainz 🇩🇪 (Connecting the Dots: Briefe in Literaturwissenschaft und Digital Humanities)</small><br />
-Netzwerkdaten in der Literaturwissenschaft
+<small>2024-04-12 · Akademie der Wissenschaften und der Literatur Mainz 🇩🇪 ([Connecting the Dots: Briefe in Literaturwissenschaft und Digital Humanities](https://korrespondenzen-fruehromantik.uni-mainz.de/tagung-april-2024/))</small><br />
+[Netzwerkdaten in der Literaturwissenschaft](https://lehkost.github.io/slides/2024-04-12-mainz/index.html)
 
 <small>2024-03-22 · Leipzig 🇩🇪 ([Leipzig liest](https://www.leipziger-buchmesse.de/pco/de/buchmesse/65b76f515254697245654170))</small><br />
 [»100 superste 100-Seiten-Bücher«](https://lehkost.github.io/slides/2024-03-22-buchmesse/index.html) (Lesung)
