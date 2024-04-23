@@ -519,9 +519,9 @@ title: Publications
     85--107.
 -   Frank Fischer: **Der Autor als Medienjongleur. Die Inszenierung
     literarischer Modernität im Internet.** In: Christine Künzel, Jörg
-    Schönert (eds.): Autorinszenierungen. Würzburg: Königshausen &
-    Neumann 2007, pp. 271--280. (URL:
-    <http://www.satt.org/literatur/07_06_IuL.html>)
+    Schönert (eds.): Autorinszenierungen. Autorschaft und literarisches Werk
+    im Kontext der Medien. Würzburg: Königshausen & Neumann 2007, pp. 271--280.
+    ([doi:10.5281/zenodo.11046338](https://doi.org/10.5281/zenodo.11046338))
 
 #### Reviews
 
