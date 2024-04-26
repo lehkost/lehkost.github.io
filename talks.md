@@ -497,7 +497,12 @@ Wann findet die deutsche Literatur statt? Zur Untersuchung von Zeitstrukturen in
 Digitale Netzwerkanalyse dramatischer Texte
 
 <small>2014-06-04 · Göttingen 🇩🇪 ([GCDH](https://www.gcdh.de/))</small><br />
-[Die Außengrenzen der Literatur -- Textumfänge als messbare ästhetische Größe](/slides/pdf/2014-06-04_Die_Aussengrenzen_der Literatur_-_Slides.pdf) (PDF)
+[Die Außengrenzen der Literatur -- Textumfänge als messbare ästhetische Größe](/slides/pdf/2014-06-04_Die_Aussengrenzen_der_Literatur_-_Slides.pdf) (PDF)
+
+### 2006
+
+<small>2006-01-31 · Universität Hamburg 🇩🇪 ([Ringvorlesung »Inszenierung von Autorschaft und Werk als Medienereignis«](https://www.slm.uni-hamburg.de/germanistik/studium/vorlesungsverzeichnisse/wise-2005-06/kvv-ifg2-wise-2005-06.pdf#page=10))</small><br />
+Der Autor als Medienjongleur – Interferenzen zwischen Pop und Internet
 
 ### More slides …
 
