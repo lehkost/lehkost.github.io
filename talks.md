@@ -11,7 +11,7 @@ Invited talks, conference, workshop slides, introductions.
 Perspektiven für die buch- und verlagsgeschichtliche Forschung unter digitalen Bedingungen
 
 <small>2024-05-02 · University of Rostock 🇩🇪 ([Ringvorlesung des #RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
-Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute
+[Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute](https://bit.ly/geschdra)
 
 <small>2024-04-12 · Akademie der Wissenschaften und der Literatur Mainz 🇩🇪 ([Connecting the Dots: Briefe in Literaturwissenschaft und Digital Humanities](https://korrespondenzen-fruehromantik.uni-mainz.de/tagung-april-2024/))</small><br />
 [Netzwerkdaten in der Literaturwissenschaft](https://lehkost.github.io/slides/2024-04-12-mainz/index.html)
@@ -498,6 +498,11 @@ Digitale Netzwerkanalyse dramatischer Texte
 
 <small>2014-06-04 · Göttingen 🇩🇪 ([GCDH](https://www.gcdh.de/))</small><br />
 [Die Außengrenzen der Literatur -- Textumfänge als messbare ästhetische Größe](/slides/pdf/2014-06-04_Die_Aussengrenzen_der_Literatur_-_Slides.pdf) (PDF)
+
+### 2008
+
+<small>2008-11-14 · Universitätsbibliothek Leipzig 🇩🇪 ([»Professorenkataloge online«](https://www.hsozkult.de/event/id/event-60606))</small><br />
+Die Leipziger Vorlesungsverzeichnisse im 19. Jahrhundert und ihre Erfassung
 
 ### 2006
 
