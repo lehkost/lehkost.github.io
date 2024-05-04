@@ -133,6 +133,9 @@ Introducing the Hungarian Drama Corpus (HunDraCor) ([Twitter](https://twitter.co
 <small>2021-10-28 · Berlin 🇩🇪 ([Kolloquium »Phänomenologie der Digital Humanities«](https://wikis.fu-berlin.de/display/phaenodh))</small><br />
 Wie funktioniert eigentlich Forschung in den Digital Humanities?
 
+<small>2021-09-30 · Friedrich-Alexander-Universität Erlangen-Nürnberg 🇩🇪</small><br />
+[Versteckte Verbindungen: Texte als Netzwerke](https://lehkost.github.io/slides/2021-09-30-fau-texte-als-netzwerke/index.html)
+
 <small>2021-09-29 · (virtual) 🇪🇺 ([CLS INFRA Workshop](https://clsinfra.io/events/upcomingevents/))</small><br />
 [Introduction to DraCor](https://bit.ly/clsdrac)
 
