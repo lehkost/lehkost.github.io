@@ -17,7 +17,7 @@ title: Committees/Services
 * [DH2020, Ottawa (Workshop Twin Talks 3)](https://www.clarin.eu/event/2020/twintalksdh2020)
 * [DARIAH2021](https://dariah-2021.sciencesconf.org/) (chair)
 * [EADH2021, Krasnoyarsk](https://eadh2020-2021.org/about/program-committee/)
-* [Rahtz Prize for TEI Ingenuity 2023](https://tei-c.org/2023/08/02/rahtz-prize-for-ingenuity-2023-call-for-nominations-and-self-submissions/) (award panel)
+* [Rahtz Prize for TEI Ingenuity 2024](https://tei-c.org/2023/08/02/rahtz-prize-for-ingenuity-2023-call-for-nominations-and-self-submissions/) (award panel)
 * [TEI2024, Buenos Aires](https://tei2024.tei-c.org/)
 
 ### Board Memberships, Editorial Work, Review Activities
@@ -25,7 +25,7 @@ title: Committees/Services
 * [RIDE (Review Journal of the IDE)](https://ride.i-d-e.de/about/peer-reviewers/) (reviewer, 2018)
 * [Wiener Digitale Revue](https://journals.univie.ac.at/index.php/wdr/about) (board, 2019–)
 * [JCLS (Journal of Computational Literary Studies)](https://jcls.io/editorialteam/) (board, 2021–)
-* [LINDAT/CLARIAH-CZ](https://lindat.cz/ab) 🇨🇿 (board, 2021–)
+* [LINDAT/CLARIAH-CZ](https://web.archive.org/web/20230219124217/https://lindat.cz/ab) 🇨🇿 (board, 2021–2024)
 * [RosDH (Rostocker Arbeitskreis Digital Humanities)](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/) (associated member, 2023–)
 
 ### Scientific Consultancy
