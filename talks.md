@@ -7,7 +7,7 @@ Invited talks, conference, workshop slides, introductions.
 
 ### 2024
 
-<small>2024-10-02 · Freie Universität Berlin 🇩🇪 (Voss-Tagung)</small><br />
+<small>2024-10-02 · Freie Universität Berlin 🇩🇪 (Verlegerisches Handeln als aufklärerische Praxis – Christian Friedrich Voss (und Sohn) und die Literatur des 18. Jahrhunderts)</small><br />
 Perspektiven für die buch- und verlagsgeschichtliche Forschung unter digitalen Bedingungen
 
 <small>2024-06-10 · ACDH-CH OEAW (Vienna) 🇦🇹 ([CLS INFRA Training School](https://clsinfra.io/events/training-school/))</small><br />
