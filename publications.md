@@ -383,7 +383,7 @@ title: Publications
     Rosendahl Thomsen: **World Literature According to Wikipedia:
     Introduction to a DBpedia-Based Framework.** (Preprint:
     <https://arxiv.org/abs/1701.00991>) \[Critical review of this study:
-    Paula Wojcik, Sophie Picard: Klassiker\@wikipedia. Klassikforschung
+    Paula Wojcik, Sophie Picard: Klassiker@wikipedia. Klassikforschung
     und digital humanities. Ein Kommentar zur Studie »World Literature
     According to Wikipedia«. In: Paula Wojcik, Stefan Matuschek, Sophie
     Picard, Monika Wolting: Klassik als kulturelle Praxis -- funktional,

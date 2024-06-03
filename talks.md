@@ -7,11 +7,14 @@ Invited talks, conference, workshop slides, introductions.
 
 ### 2024
 
-<small>2024-10-02 · Freie Universität Berlin 🇩🇪 (Verlegerisches Handeln als aufklärerische Praxis – Christian Friedrich Voss (und Sohn) und die Literatur des 18. Jahrhunderts)</small><br />
+<small>2024-10-02 · Freie Universität Berlin 🇩🇪 ([Verlegerisches Handeln als aufklärerische Praxis – Christian Friedrich Voss \[und Sohn\] und die Literatur des 18. Jahrhunderts](https://www.hsozkult.de/event/id/event-142813))</small><br />
 Perspektiven für die buch- und verlagsgeschichtliche Forschung unter digitalen Bedingungen
 
+<small>2024-06-11 · ACDH-CH OEAW (Vienna) 🇦🇹 ([CLS INFRA Training School](https://clsinfra.io/events/training-school/))</small><br />
+Programmable Corpora and Network Analysis
+
 <small>2024-06-10 · ACDH-CH OEAW (Vienna) 🇦🇹 ([CLS INFRA Training School](https://clsinfra.io/events/training-school/))</small><br />
-Introduction
+Introduction to Programmable Corpora
 
 <small>2024-05-02 · University of Rostock 🇩🇪 ([Ringvorlesung des #RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
 [Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute](https://bit.ly/geschdra)
