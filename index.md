@@ -36,6 +36,8 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 * 2009–2013: PhD student at [Forschungszentrum »Laboratorium Aufklärung«](https://www.uni-jena.de/forschung/forschungsprofil/profillinien/wissenschaftliche-zentren/forschungszentrum-laboratorium-aufklaerung-fzla), University of Jena
 * 2007–2009: Research associate at Leipzig University Library ([DFG-funded](https://www.ub.uni-leipzig.de/forschungsbibliothek/projekte/projekte-chronologisch-alle/vorlesungsverzeichnisse-der-leipziger-universitaet/))
 * 2005: Copy editor of the [21st edition of the Brockhaus Encyclopaedia](https://de.wikipedia.org/wiki/Brockhaus_Enzyklopädie,_21._Auflage) at Bibliographisches Institut, Leipzig – Mannheim
+* 2003: Internship at [Goethe Institute, Buenos Aires](https://www.goethe.de/ins/ar/de/sta/bue.html)
+* 2001–2002: Middlesex University London (Erasmus Programme)
 
 ### Visiting Scholarships
 * Aarhus University, 2018

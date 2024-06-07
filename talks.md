@@ -11,7 +11,7 @@ Invited talks, conference, workshop slides, introductions.
 Perspektiven für die buch- und verlagsgeschichtliche Forschung unter digitalen Bedingungen
 
 <small>2024-06-11 · ACDH-CH OEAW (Vienna) 🇦🇹 ([CLS INFRA Training School](https://clsinfra.io/events/training-school/))</small><br />
-Programmable Corpora and Network Analysis
+[Programmable Corpora and Network Analysis](https://bit.ly/clsnet)
 
 <small>2024-06-10 · ACDH-CH OEAW (Vienna) 🇦🇹 ([CLS INFRA Training School](https://clsinfra.io/events/training-school/))</small><br />
 Introduction to Programmable Corpora
