@@ -115,7 +115,7 @@ title: Publications
     Daten zu einer Theorie des literarischen Textumfangs.** In: Fotis
     Jannidis (ed.): Digitale Literaturwissenschaft. Germanistische Symposien.
     \[Contributions to the DFG Symposium at Villa Vigoni, 9--13 October 2017.\)
-    Stuttgart: Metzler 2022 \[recte: 2023\], pp. 777--812.
+    Stuttgart: Metzler 2023, pp. 777--812.
     ([doi:10.1007/978-3-476-05886-7_32](https://doi.org/10.1007/978-3-476-05886-7_32))
 
 #### 2022
