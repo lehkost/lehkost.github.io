@@ -43,16 +43,26 @@ title: Publications
 
 -   Julia Jennifer Beine, Frank Fischer, Viktor J. Illmer: **Just the Type:
     Analysing Character Typology in Roman Comedy with RomDraCor.**
-    In: DH2024: »Reinvention & Responsibility«. 6--10 August 2024. Washington, DC. Book of Abstracts.
--   Peer Trilcke, Evgeniya Ustinova, Ingo Börner, Frank Fischer,
-    Carsten Milling: **Detecting Small Worlds in a Corpus of Thousands of
-    Theatre Plays: A DraCor Study in Comparative Literary Network Analysis.**
-    In: Melanie Andresen, Nils Reiter (eds.): [Computational Drama Analysis.
-    Reflecting Methods and Interpretations.](https://www.degruyter.com/document/isbn/9783111071763/html)
-    Berlin/Boston: De Gruyter 2024.
+    In: DH2024: »Reinvention & Responsibility«. 6--10 August 2024. Washington,
+    DC. Book of Abstracts.
+-   Frank Fischer, Dîlan Canan Çakir, Viktor J. Illmer, Niels Penke, Mark
+    Schwindt, Lilly Welz: **Chasing ›Carmen Nova‹: Encoding and Analysis of
+    a TEI Version of the Crime Novella Allegedly Written by Umberto Eco.**
+    In: TEI2024: »Texts, Languages, and Communities«. 7–11 October 2024.
+    Buenos Aires. Book of Abstracts.
+-   Frank Fischer, Carsten Milling, Jan Jokisch, Peer Trilcke: **French Drama
+    in TEI: A Workflow for the Continuous Integration of the »Théâtre classique«
+    Corpus into the DraCor Infrastructure.** In: TEI2024: »Texts, Languages, and
+    Communities«. 7–11 October 2024. Buenos Aires. Book of Abstracts.
 
 #### 2024
 
+-   Peer Trilcke, Evgeniya Ustinova, Ingo Börner, Frank Fischer, Carsten Milling:
+    **Detecting Small Worlds in a Corpus of Thousands of Theatre Plays: A DraCor
+    Study in Comparative Literary Network Analysis.** In: Melanie Andresen, Nils
+    Reiter (eds.): Computational Drama Analysis: Reflecting Methods and
+    Interpretations. Berlin/Boston: De Gruyter 2024, pp. 7–33.
+    ([doi:10.1515/9783111071824-002](https://doi.org/10.1515/9783111071824-002))
 -   Bettina Buchholz, Ulrike Lucke, Sonja Schimmler, Jan-Hendrik Bakels,
     Jan Bernoth, Frank Fischer, Lena Gieseke, Matthias Grotkopp,
     Torsten Hiltmann, Daniel Krupka, Skadi Loist, Julia Meisner,
