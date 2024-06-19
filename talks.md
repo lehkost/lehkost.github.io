@@ -10,7 +10,7 @@ Invited talks, conference, workshop slides, introductions.
 <small>2024-10-02 · Freie Universität Berlin 🇩🇪 ([Verlegerisches Handeln als aufklärerische Praxis – Christian Friedrich Voss \[und Sohn\] und die Literatur des 18. Jahrhunderts](https://www.hsozkult.de/event/id/event-142813))</small><br />
 Perspektiven für die buch- und verlagsgeschichtliche Forschung unter digitalen Bedingungen
 
-<small>2024-07-04 · Freie Universität Berlin 🇩🇪 ([EXC2020 Annual Conference 2024 · Literary Value: Artistic, Academic and Critical Practices](https://www.temporal-communities.de/explore/listen-read-watch/literary-value/programme/index.html)</small><br />
+<small>2024-07-04 · Freie Universität Berlin 🇩🇪 ([EXC2020 Annual Conference 2024 · Literary Value: Artistic, Academic and Critical Practices](https://www.temporal-communities.de/explore/listen-read-watch/literary-value/programme/index.html))</small><br />
 Measuring Public Engagement and the Valuation of Literature on Wikipedia (Workshop)
 
 <small>2024-06-11 · ACDH-CH OEAW (Vienna) 🇦🇹 ([CLS INFRA Training School](https://clsinfra.io/events/training-school/))</small><br />
