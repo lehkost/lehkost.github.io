@@ -24,6 +24,11 @@ title: Publications
     Literaturwissenschaft.**](https://www.textpraxis.net/sonderausgabe-6)
     Special Issue #6 of **Textpraxis. Digitales Journal für Philologie**
     (1.2022).
+-   Frank Fischer, Francesca Morselli, Femmy Admiraal, Andrea Scharnhorst,
+    Edward J. Gray, Georgios Artopoulos, Matej Ďurčo, Agiatis Benardou,
+    Tibor Kálmán, Marianne Huang, Almila Akdag (eds.):
+    [**Interfaces.**](https://pure.knaw.nl/portal/en/publications/dariah-annual-event-2021-interfaces-book-of-abstracts)
+    DARIAH Annual Event 2021. Book of Abstracts.
 -   Frank Fischer, Marina Akimova, Boris Orekhov (eds.): [**Moscow
     Formalism and Literary
     History.**](https://www.degruyter.com/journal/key/jlt/13/1/html)

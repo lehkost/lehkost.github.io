@@ -33,7 +33,7 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 * 2017–2021: Director of [DARIAH-EU](https://www.dariah.eu/) (Digital Research Infrastructure for the Arts and Humanities), Berlin – Paris – Dublin – The Hague
 * 2016–2021: Ass. Prof. of Digital Humanities at Higher School of Economics, Moscow
 * 2013–2016: Digital Humanities Coordinator at University of Göttingen
-* 2009–2013: PhD student at [Forschungszentrum »Laboratorium Aufklärung«](https://www.uni-jena.de/forschung/forschungsprofil/profillinien/wissenschaftliche-zentren/forschungszentrum-laboratorium-aufklaerung-fzla), University of Jena
+* 2009–2013: PhD student at [Forschungszentrum »Laboratorium Aufklärung«](https://web.archive.org/web/20240528175433/https://www.uni-jena.de/forschung/forschungsprofil/profillinien/wissenschaftliche-zentren/forschungszentrum-laboratorium-aufklaerung-fzla), University of Jena
 * 2007–2009: Research associate at Leipzig University Library ([DFG-funded](https://www.ub.uni-leipzig.de/forschungsbibliothek/projekte/projekte-chronologisch-alle/vorlesungsverzeichnisse-der-leipziger-universitaet/))
 * 2005: Copy editor of the [21st edition of the Brockhaus Encyclopaedia](https://de.wikipedia.org/wiki/Brockhaus_Enzyklopädie,_21._Auflage) at Bibliographisches Institut, Leipzig – Mannheim
 * 2003: Internship at [Goethe Institute, Buenos Aires](https://www.goethe.de/ins/ar/de/sta/bue.html)
