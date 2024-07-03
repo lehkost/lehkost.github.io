@@ -24,6 +24,9 @@ Perspektiven für die buch- und verlagsgeschichtliche Forschung unter digitalen 
 <small>2024-09-12 · Ludwig Maximilian University of Munich 🇩🇪 (Workshop »Digitale Gattungshermeneutik«)</small><br />
 Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik
 
+<small>2024-08-09 · Roy Rosenzweig Center for History and New Media, Washington, D.C. 🇺🇸 ([DH2024](https://dh2024.adho.org/))</small><br />
+Just the Type: Analysing Character Typology in Roman Comedy with RomDraCor
+
 <small>2024-07-04 · Freie Universität Berlin 🇩🇪 ([EXC2020 Annual Conference 2024 · Literary Value: Artistic, Academic and Critical Practices](https://www.temporal-communities.de/explore/listen-read-watch/literary-value/programme/index.html))</small><br />
 [Measuring Public Engagement and the Valuation of Literature on Wikipedia](https://bit.ly/lcb47) (Workshop)
 
@@ -310,7 +313,7 @@ A Data-Driven View on Russian Drama ([conference review at H-Soz-Kult](https://w
 <small>2019-03-12 · Utrecht 🇳🇱 ([EURISE Workshop](https://euriseworkshop.sciencesconf.org/))</small><br />
 [Business Models for Digital Research Infrastructures Using the Example of DARIAH](/slides/2019-03-12-utrecht-eurise/index.html)
 
-<small>2019-03-09 · Georgetown University, Washington 🇺🇸 ([ACLA Annual Meeting](https://www.acla.org/annual-meeting))</small><br />
+<small>2019-03-09 · Georgetown University, Washington, D.C. 🇺🇸 ([ACLA Annual Meeting](https://www.acla.org/annual-meeting))</small><br />
 [Quantum of Literature: Empirical Data on a Theory of Text Length](/slides/2019-03-09-washington-acla/index.html)
 
 <small>2019-03-02 · Yandex, Moscow 🇷🇺 ([Data & Science: цифровые методы в гуманитарных науках](https://events.yandex.ru/events/ds/02-mar-2019/))</small><br />
