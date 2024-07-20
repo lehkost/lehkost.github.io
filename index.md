@@ -38,6 +38,7 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 * 2005: Copy editor of the [21st edition of the Brockhaus Encyclopaedia](https://de.wikipedia.org/wiki/Brockhaus_Enzyklopädie,_21._Auflage) at Bibliographisches Institut, Leipzig – Mannheim
 * 2003: Internship at [Goethe Institute, Buenos Aires](https://www.goethe.de/ins/ar/de/sta/bue.html)
 * 2001–2002: Middlesex University London (Erasmus Programme)
+* 1997–2003: MA student of Computer Science and German Studies at University of Leipzig
 
 ### Visiting Scholarships
 * Aarhus University, 2018

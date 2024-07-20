@@ -12,16 +12,19 @@ Praxis der Geisteswissenschaften: ›Recherche‹ (aktualisierter Vortrag vom le
 
 ### 2024
 
-<small>2024-11-xx · Buenos Aires 🇦🇷 ([TEI2024](https://tei2024.tei-c.org/))</small><br />
+<small>2024-10-16 · Freie Universität Berlin 🇩🇪 ([EinS@FU-Ringvorlesung](https://www.fu-berlin.de/sites/eins/faq/schwerpunkte-module-co/Was-ist-eine-Ringvorlesung_.html))</small><br />
+Vorstellung des Fachs ›Digital Humanities‹
+
+<small>2024-10-10 · Buenos Aires 🇦🇷 ([TEI2024](https://www.conftool.pro/tei2024/sessions.php))</small><br />
 Chasing ›Carmen Nova‹: Encoding and Analysis of a TEI Version of the Crime Novella Allegedly Written by Umberto Eco
 
-<small>2024-11-xx · Buenos Aires 🇦🇷 ([TEI2024](https://tei2024.tei-c.org/))</small><br />
+<small>2024-10-09 · Buenos Aires 🇦🇷 ([TEI2024](https://www.conftool.pro/tei2024/sessions.php))</small><br />
 French Drama in TEI: A Workflow for the Continuous Integration of the « Théâtre classique » Corpus into the DraCor Infrastructure
 
 <small>2024-10-02 · Freie Universität Berlin 🇩🇪 ([Verlegerisches Handeln als aufklärerische Praxis – Christian Friedrich Voss \[und Sohn\] und die Literatur des 18. Jahrhunderts](https://www.hsozkult.de/event/id/event-142813))</small><br />
 Perspektiven für die buch- und verlagsgeschichtliche Forschung unter digitalen Bedingungen
 
-<small>2024-09-12 · Ludwig Maximilian University of Munich 🇩🇪 (Workshop »Digitale Gattungshermeneutik«)</small><br />
+<small>2024-09-12 · Ludwig Maximilian University of Munich 🇩🇪 ([Workshop »Digitale Gattungshermeneutik«](https://fedihum.org/@julianschroeter/112772558749377523))</small><br />
 Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik
 
 <small>2024-08-09 · Roy Rosenzweig Center for History and New Media, Washington, D.C. 🇺🇸 ([DH2024](https://dh2024.adho.org/))</small><br />
@@ -216,7 +219,7 @@ Nachnutzung und Analyse: CATMA und DraCor
 [Thematic Discovery Marketplaces for the European Open Science Cloud](http://doi.org/10.5281/zenodo.4277601)
 
 <small>2020-11-13 · Zagreb (virtual) 🇭🇷 ([DARIAH Annual Event 2020](https://www.dariah.eu/event/dariah-annual-event-2020/))</small><br />
-[DARIAH Public Demonstration of the SSH Open Marketplace](https://dariah-ae-2020.sciencesconf.org/334164)
+[DARIAH Public Demonstration of the SSH Open Marketplace](https://web.archive.org/web/20201218140206/https://dariah-ae-2020.sciencesconf.org/334164)
 
 <small>2020-11-11 · Humboldt University of Berlin (virtual) 🇩🇪 ([KO Korpuslinguistik und Phonetik](https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/lehre/wintersemester-2020-2021/ko-korpuslinguistik-und-phonetik))</small><br />
 [Der Buster Keaton der Linguistik: Ansätze zur Extraktion Vossianischer Antonomasien](https://slides.igada.de/2020-11-11-korpuslinguistik/index.html)
