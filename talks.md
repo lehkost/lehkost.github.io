@@ -7,13 +7,13 @@ Invited talks, conference, workshop slides, introductions.
 
 ### 2025
 
+<small>2025-02-12 · Freie Universität Berlin 🇩🇪 ([EinS@FU-Ringvorlesung](https://www.fu-berlin.de/sites/eins/faq/schwerpunkte-module-co/Was-ist-eine-Ringvorlesung_.html))</small><br />
+Vorstellung des Fachs ›Digital Humanities‹
+
 <small>2025-01-06 · Freie Universität Berlin 🇩🇪 ([GiK](https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geisteswissenschaften-im-interdisziplinaeren-kontext/index.html)-Vorlesungsreihe »Einführung in das geisteswissenschaftliche Arbeiten und Schreiben«)</small><br />
 Praxis der Geisteswissenschaften: ›Recherche‹ (aktualisierter Vortrag vom letzten Jahr)
 
 ### 2024
-
-<small>2024-10-16 · Freie Universität Berlin 🇩🇪 ([EinS@FU-Ringvorlesung](https://www.fu-berlin.de/sites/eins/faq/schwerpunkte-module-co/Was-ist-eine-Ringvorlesung_.html))</small><br />
-Vorstellung des Fachs ›Digital Humanities‹
 
 <small>2024-10-10 · Buenos Aires 🇦🇷 ([TEI2024](https://www.conftool.pro/tei2024/sessions.php))</small><br />
 Chasing ›Carmen Nova‹: Encoding and Analysis of a TEI Version of the Crime Novella Allegedly Written by Umberto Eco
@@ -40,7 +40,7 @@ Just the Type: Analysing Character Typology in Roman Comedy with RomDraCor
 [Introducing DraCor](https://bit.ly/dra106)
 
 <small>2024-05-02 · University of Rostock 🇩🇪 ([Ringvorlesung des #RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
-[Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute](https://bit.ly/geschdra)
+[Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute](https://bit.ly/geschdra) ([PDF](https://zenodo.org/doi/10.5281/zenodo.13143161))
 
 <small>2024-04-12 · Akademie der Wissenschaften und der Literatur Mainz 🇩🇪 ([Connecting the Dots: Briefe in Literaturwissenschaft und Digital Humanities](https://korrespondenzen-fruehromantik.uni-mainz.de/tagung-april-2024/))</small><br />
 [Netzwerkdaten in der Literaturwissenschaft](https://lehkost.github.io/slides/2024-04-12-mainz/index.html)
