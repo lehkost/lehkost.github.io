@@ -28,7 +28,7 @@ Perspektiven für die buch- und verlagsgeschichtliche Forschung unter digitalen 
 Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik
 
 <small>2024-08-09 · Roy Rosenzweig Center for History and New Media, Washington, D.C. 🇺🇸 ([DH2024](https://dh2024.adho.org/))</small><br />
-Just the Type: Analysing Character Typology in Roman Comedy with RomDraCor
+[Just the Type: Analysing Character Typology in Roman Comedy with RomDraCor](https://doi.org/10.5281/zenodo.13286286)
 
 <small>2024-07-04 · Freie Universität Berlin 🇩🇪 ([EXC2020 Annual Conference 2024 · Literary Value: Artistic, Academic and Critical Practices](https://www.temporal-communities.de/explore/listen-read-watch/literary-value/programme/index.html))</small><br />
 [Measuring Public Engagement and the Valuation of Literature on Wikipedia](https://bit.ly/lcb47) (Workshop)

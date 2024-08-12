@@ -20,6 +20,7 @@ title: Committees/Services
 * [WWWLIT 2023, FU Berlin](https://www.temporal-communities.de/events/international-workshop-wikipedia-wikidata-wikibase.html) (chair) ([review](https://www.hsozkult.de/conferencereport/id/fdkn-142913))
 * [Rahtz Prize for TEI Ingenuity 2024](https://tei-c.org/2023/08/02/rahtz-prize-for-ingenuity-2023-call-for-nominations-and-self-submissions/) (award panel)
 * [TEI2024, Buenos Aires](https://tei2024.tei-c.org/)
+* Linked Open Data and Literary Studies 2024, FU Berlin (chair)
 
 ### Board Memberships, Editorial Work, Review Activities
 * [IASLonline, »Digital Literary Studies« section](http://www.iaslonline.de/) (editor, 2016–)
