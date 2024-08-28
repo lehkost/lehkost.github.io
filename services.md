@@ -20,10 +20,11 @@ title: Committees/Services
 * [WWWLIT 2023, FU Berlin](https://www.temporal-communities.de/events/international-workshop-wikipedia-wikidata-wikibase.html) (chair) ([review](https://www.hsozkult.de/conferencereport/id/fdkn-142913))
 * [Rahtz Prize for TEI Ingenuity 2024](https://tei-c.org/2023/08/02/rahtz-prize-for-ingenuity-2023-call-for-nominations-and-self-submissions/) (award panel)
 * [TEI2024, Buenos Aires](https://tei2024.tei-c.org/)
+* [DSE (micro)communities of practices 2024, Warsaw](https://dse-communities.nplp.pl/programme-committee)
 * Linked Open Data and Literary Studies 2024, FU Berlin (chair)
 
 ### Board Memberships, Editorial Work, Review Activities
-* [IASLonline, »Digital Literary Studies« section](http://www.iaslonline.de/) (editor, 2016–)
+* [IASLonline, »Digital Literary Studies« section](http://www.iaslonline.de/) (editor, 2016–2022)
 * [RIDE (Review Journal of the IDE)](https://ride.i-d-e.de/about/peer-reviewers/) (reviewer, 2018)
 * [Wiener Digitale Revue](https://journals.univie.ac.at/index.php/wdr/about) (board, 2019–)
 * [JCLS (Journal of Computational Literary Studies)](https://jcls.io/editorialteam/) (board, 2021–)
@@ -31,8 +32,9 @@ title: Committees/Services
 * [RosDH (Rostocker Arbeitskreis Digital Humanities)](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/) (associated member, 2023–)
 
 ### Scientific Consultancy
-* Agence nationale de la recherche (ANR)
-* Federal Ministry of Education and Research (BMBF)
-* Berlin University Alliance (BUA)
-* European Research Council (ERC)
-* Israel Science Foundation (ISF)
+* Agence nationale de la recherche (ANR) 🇫🇷
+* Federal Ministry of Education and Research (BMBF) 🇩🇪
+* Berlin University Alliance (BUA) 🐻
+* European Research Council (ERC) 🇪🇺
+* Israel Science Foundation (ISF) 🇮🇱
+* Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal (NKFIH) 🇭🇺

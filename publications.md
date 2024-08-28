@@ -111,8 +111,8 @@ title: Publications
     Italian-American Literature?« Extracting and Analyzing Target Entities
     of Vossian Antonomasia.** In: Proceedings of the 7th Joint SIGHUM
     Workshop on Computational Linguistics for Cultural Heritage, Social
-    Sciences, Humanities and Literature, pp. 110--115. Dubrovnik, Croatia.
-    Association for Computational Linguistics.
+    Sciences, Humanities and Literature (SIGHUM 2023), pp. 110--115.
+    Dubrovnik, Croatia. Association for Computational Linguistics.
     ([doi:10.18653/v1/2023.latechclfl-1.12](https://doi.org/10.18653/v1/2023.latechclfl-1.12))
 -   Michel Schwab, Frank Fischer: **»Die Greta Garbo der Leichtathletik«.
     Eine systematische Analyse der Modifier vossianischer Antonomasien
