@@ -40,7 +40,7 @@ Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik
 [Introducing DraCor](https://bit.ly/dra106)
 
 <small>2024-05-02 · University of Rostock 🇩🇪 ([Ringvorlesung des #RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
-[Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute](https://bit.ly/geschdra) ([PDF](https://zenodo.org/doi/10.5281/zenodo.13143161))
+[Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute](https://bit.ly/geschdra) ([PDF](https://zenodo.org/doi/10.5281/zenodo.13143161)) ([recap](https://dhimfokus.hypotheses.org/1700))
 
 <small>2024-04-12 · Akademie der Wissenschaften und der Literatur Mainz 🇩🇪 ([Connecting the Dots: Briefe in Literaturwissenschaft und Digital Humanities](https://korrespondenzen-fruehromantik.uni-mainz.de/tagung-april-2024/))</small><br />
 [Netzwerkdaten in der Literaturwissenschaft](https://lehkost.github.io/slides/2024-04-12-mainz/index.html)
