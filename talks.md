@@ -24,8 +24,8 @@ French Drama in TEI: A Workflow for the Continuous Integration of the « Théâ
 <small>2024-10-02 · Freie Universität Berlin 🇩🇪 ([Verlegerisches Handeln als aufklärerische Praxis – Christian Friedrich Voss \[und Sohn\] und die Literatur des 18. Jahrhunderts](https://www.hsozkult.de/event/id/event-142813))</small><br />
 Perspektiven für die buch- und verlagsgeschichtliche Forschung unter digitalen Bedingungen
 
-<small>2024-09-12 · Ludwig Maximilian University of Munich 🇩🇪 ([Workshop »Digitale Gattungshermeneutik«](https://fedihum.org/@julianschroeter/112772558749377523))</small><br />
-Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik
+<small>2024-09-12 · Ludwig Maximilian University of Munich 🇩🇪 ([Workshop »Digitale Gattungshermeneutik«](https://www.germanistik.uni-muenchen.de/personal/ndl/professoren/schroeter/workshop_gattungsherm/index.html))</small><br />
+Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik (DraCor, Einakter-Datenbank, Nix)
 
 <small>2024-08-09 · Roy Rosenzweig Center for History and New Media, Washington, D.C. 🇺🇸 ([DH2024](https://dh2024.adho.org/))</small><br />
 [Just the Type: Analysing Character Typology in Roman Comedy with RomDraCor](https://doi.org/10.5281/zenodo.13286286)

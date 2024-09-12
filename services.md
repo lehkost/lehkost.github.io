@@ -22,6 +22,7 @@ title: Committees/Services
 * [TEI2024, Buenos Aires](https://tei2024.tei-c.org/)
 * [DSE (micro)communities of practices 2024, Warsaw](https://dse-communities.nplp.pl/programme-committee)
 * Linked Open Data and Literary Studies 2024, FU Berlin (chair)
+* [EXC 2020 Annual Conference 2025](https://www.temporal-communities.de/explore/annual-conferences/index.html)
 
 ### Board Memberships, Editorial Work, Review Activities
 * [IASLonline, »Digital Literary Studies« section](http://www.iaslonline.de/) (editor, 2016–2022)
