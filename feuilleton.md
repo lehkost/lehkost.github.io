@@ -7,6 +7,8 @@ Feuilleton articles, some prefaces and [translations](#translations).
 
 ### 2024
 
+-   Frank Fischer: [**Menschen am Papierscreen.**](https://www.monopol-magazin.de/zeitungsleserinnen-eddy-posthuma-de-boer)
+    In: MONOPOL. Magazin für Kunst und Leben, 12 September 2024.
 -   Frank Fischer: [**Was macht die Freiheit in der
     Forschung?**](https://www.fu-berlin.de/campusleben/forschen/2024/240215-tsp-freiheit-wissenschaft/index.html)
     In: Tagesspiegel, Supplement, 18 February 2024.
