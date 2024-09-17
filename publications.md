@@ -46,10 +46,6 @@ title: Publications
 
 #### Forthcoming
 
--   Julia Jennifer Beine, Frank Fischer, Viktor J. Illmer: **Just the Type:
-    Analysing Character Typology in Roman Comedy with RomDraCor.**
-    In: DH2024: »Reinvention & Responsibility«. 6--10 August 2024. Washington,
-    DC. Book of Abstracts.
 -   Frank Fischer, Dîlan Canan Çakir, Viktor J. Illmer, Niels Penke, Mark
     Schwindt, Lilly Welz: **Chasing ›Carmen Nova‹: Encoding and Analysis of
     a TEI Version of the Crime Novella Allegedly Written by Umberto Eco.**
@@ -62,6 +58,11 @@ title: Publications
 
 #### 2024
 
+-   Julia Jennifer Beine, Frank Fischer, Viktor J. Illmer: **Just the Type:
+    Analysing Character Typology in Roman Comedy with RomDraCor.**
+    In: DH2024: »Reinvention & Responsibility«. 6--10 August 2024. Washington,
+    DC. Book of Abstracts, pp. 53–57.
+    ([doi:10.5281/zenodo.13761079](https://doi.org/10.5281/zenodo.13761079))
 -   Peer Trilcke, Evgeniya Ustinova, Ingo Börner, Frank Fischer, Carsten Milling:
     **Detecting Small Worlds in a Corpus of Thousands of Theatre Plays: A DraCor
     Study in Comparative Literary Network Analysis.** In: Melanie Andresen, Nils
@@ -129,7 +130,7 @@ title: Publications
 -   Frank Fischer, Robert Jäschke: **Ein Quantum Literatur. Empirische
     Daten zu einer Theorie des literarischen Textumfangs.** In: Fotis
     Jannidis (ed.): Digitale Literaturwissenschaft. Germanistische Symposien.
-    \[Contributions to the DFG Symposium at Villa Vigoni, 9--13 October 2017.\)
+    \[Contributions to the DFG Symposium at Villa Vigoni, 9--13 October 2017.\]
     Stuttgart: Metzler 2023, pp. 777--812.
     ([doi:10.1007/978-3-476-05886-7_32](https://doi.org/10.1007/978-3-476-05886-7_32))
 
@@ -514,7 +515,7 @@ title: Publications
     Gruyter 2011, p. 205.
 -   Frank Fischer, Tobias Grave, Carsten Milling, Jörg Ossenkopp:
     **HistVV: Die Leipziger Vorlesungsdatenbank 1814/15--1914.** In:
-    Morgenstern, U., Riechert, Th. (eds.): Catalogus Professorum
+    Ulf Morgenstern, Thomas Riechert (eds.): Catalogus Professorum
     Lipsiensis. Konzeption, technische Umsetzung und Anwendungen für
     Professorenkataloge im Semantic Web. Leipzig: LIV 2010, pp.
     131--135.
