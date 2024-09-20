@@ -7,6 +7,9 @@ Invited talks, conference, workshop slides, introductions.
 
 ### 2025
 
+<small>2025-04-04 · University of Potsdam 🇩🇪 ([»Text as Data« Spring School in Digital Humanities](https://www.uni-potsdam.de/en/digital-humanities/activities/dh-potsdam-spring-school-2025-texts-as-data))</small><br />
+Working With Programmable Corpora and Rich Metadata
+
 <small>2025-02-12 · Freie Universität Berlin 🇩🇪 ([EinS@FU-Ringvorlesung](https://www.fu-berlin.de/sites/eins/faq/schwerpunkte-module-co/Was-ist-eine-Ringvorlesung_.html))</small><br />
 Vorstellung des Fachs ›Digital Humanities‹
 
