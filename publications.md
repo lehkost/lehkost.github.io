@@ -60,9 +60,9 @@ title: Publications
 
 -   Julia Jennifer Beine, Frank Fischer, Viktor J. Illmer: **Just the Type:
     Analysing Character Typology in Roman Comedy with RomDraCor.**
-    In: DH2024: »Reinvention & Responsibility«. 6--10 August 2024. Washington,
-    DC. Book of Abstracts, pp. 53–57.
-    ([doi:10.5281/zenodo.13761079](https://doi.org/10.5281/zenodo.13761079))
+    In: DH2024: »Reinvention & Responsibility«. 6--10 August 2024.
+    George Mason University, Arlington, VA. Book of Abstracts.
+    ([doi:10.5281/zenodo.13801481](https://doi.org/10.5281/zenodo.13801481))
 -   Peer Trilcke, Evgeniya Ustinova, Ingo Börner, Frank Fischer, Carsten Milling:
     **Detecting Small Worlds in a Corpus of Thousands of Theatre Plays: A DraCor
     Study in Comparative Literary Network Analysis.** In: Melanie Andresen, Nils

@@ -24,7 +24,7 @@ Chasing ›Carmen Nova‹: Encoding and Analysis of a TEI Version of the Crime N
 <small>2024-10-09 · Buenos Aires 🇦🇷 ([TEI2024](https://www.conftool.pro/tei2024/sessions.php))</small><br />
 French Drama in TEI: A Workflow for the Continuous Integration of the « Théâtre classique » Corpus into the DraCor Infrastructure
 
-<small>2024-10-02 · Freie Universität Berlin 🇩🇪 ([Verlegerisches Handeln als aufklärerische Praxis – Christian Friedrich Voss \[und Sohn\] und die Literatur des 18. Jahrhunderts](https://www.hsozkult.de/event/id/event-142813))</small><br />
+<small>2024-10-02 · Freie Universität Berlin 🇩🇪 ([Verlegerisches Handeln als aufklärerische Praxis – Christian Friedrich Voss \[und Sohn\] und die Literatur des 18. Jahrhunderts](https://www.geisteswissenschaften.fu-berlin.de/we04/ndl/mitarbeiter_innen/prof/bremer/Verlegerisches-Handeln-als-aufklaererische-Praxis/index.html))</small><br />
 Perspektiven für die buch- und verlagsgeschichtliche Forschung unter digitalen Bedingungen
 
 <small>2024-09-12 · Ludwig Maximilian University of Munich 🇩🇪 ([Workshop »Digitale Gattungshermeneutik«](https://www.germanistik.uni-muenchen.de/personal/ndl/professoren/schroeter/workshop_gattungsherm/index.html))</small><br />

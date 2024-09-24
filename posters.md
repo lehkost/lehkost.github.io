@@ -145,3 +145,9 @@ Lisanne van Rossum:*\
 **Computational Literary Studies Infrastructure (CLS INFRA):
 Initial Findings and Conclusions for the Field (DH2023, Graz)**\
 [zenodo](https://doi.org/10.5281/zenodo.8107904) (abstract)
+
+*Daniil Skorinkin, Luca Giovannini, Dennis Mischke, Carsten Milling,
+Ingo Börner, Frank Fischer, Peer Trilcke:*\
+**Introducing AmDraCor: A Digital Resource for the Study of American
+Drama (DH2024, Arlington, VA)**\
+[zenodo](https://doi.org/10.5281/zenodo.13340325) (poster)

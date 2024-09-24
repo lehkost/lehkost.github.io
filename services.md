@@ -18,10 +18,10 @@ title: Committees/Services
 * [DARIAH2021](https://dariah-2021.sciencesconf.org/) (chair)
 * [EADH2021, Krasnoyarsk](https://eadh2020-2021.org/about/program-committee/)
 * [WWWLIT 2023, FU Berlin](https://www.temporal-communities.de/events/international-workshop-wikipedia-wikidata-wikibase.html) (chair) ([review](https://www.hsozkult.de/conferencereport/id/fdkn-142913))
-* [Rahtz Prize for TEI Ingenuity 2024](https://tei-c.org/2023/08/02/rahtz-prize-for-ingenuity-2023-call-for-nominations-and-self-submissions/) (award panel)
+* [Rahtz Prize for TEI Ingenuity 2024](https://tei-c.org/activities/rahtz-prize-for-tei-ingenuity/) (award panel)
 * [TEI2024, Buenos Aires](https://tei2024.tei-c.org/)
 * [DSE (micro)communities of practices 2024, Warsaw](https://dse-communities.nplp.pl/programme-committee)
-* Linked Open Data and Literary Studies 2024, FU Berlin (chair)
+* [LODaLS 2024, FU Berln](https://www.temporal-communities.de/events/2024/conference-linked-open-data.html) (chair)
 * [EXC 2020 Annual Conference 2025](https://www.temporal-communities.de/explore/annual-conferences/index.html)
 
 ### Board Memberships, Editorial Work, Review Activities
