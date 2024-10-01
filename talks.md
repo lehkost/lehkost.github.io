@@ -18,6 +18,9 @@ Praxis der Geisteswissenschaften: ›Recherche‹ (aktualisierter Vortrag vom le
 
 ### 2024
 
+<small>2024-12-xx · Aarhus University 🇩🇰 ([CHR2024](https://2024.computational-humanities-research.org/))</small><br />
+Univariate Statistical Analysis of a Non-Canonical Literary Genre: Quantifying German-Language One-Act Plays (1740–1850)
+
 <small>2024-10-10 · Buenos Aires 🇦🇷 ([TEI2024](https://www.conftool.pro/tei2024/sessions.php))</small><br />
 Chasing ›Carmen Nova‹: Encoding and Analysis of a TEI Version of the Crime Novella Allegedly Written by Umberto Eco
 
@@ -25,7 +28,7 @@ Chasing ›Carmen Nova‹: Encoding and Analysis of a TEI Version of the Crime N
 French Drama in TEI: A Workflow for the Continuous Integration of the « Théâtre classique » Corpus into the DraCor Infrastructure
 
 <small>2024-10-02 · Freie Universität Berlin 🇩🇪 ([Verlegerisches Handeln als aufklärerische Praxis – Christian Friedrich Voss \[und Sohn\] und die Literatur des 18. Jahrhunderts](https://www.geisteswissenschaften.fu-berlin.de/we04/ndl/mitarbeiter_innen/prof/bremer/Verlegerisches-Handeln-als-aufklaererische-Praxis/index.html))</small><br />
-Perspektiven für die buch- und verlagsgeschichtliche Forschung unter digitalen Bedingungen
+[Perspektiven für die buch- und verlagsgeschichtliche Forschung unter digitalen Bedingungen](https://lehkost.github.io/slides/2024-10-02-voss/index.html)
 
 <small>2024-09-12 · Ludwig Maximilian University of Munich 🇩🇪 ([Workshop »Digitale Gattungshermeneutik«](https://www.germanistik.uni-muenchen.de/personal/ndl/professoren/schroeter/workshop_gattungsherm/index.html))</small><br />
 Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik (DraCor, Einakter-Datenbank, Nix)

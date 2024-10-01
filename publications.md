@@ -46,6 +46,10 @@ title: Publications
 
 #### Forthcoming
 
+-   Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer: **Univariate Statistical
+    Analysis of a Non-Canonical Literary Genre: Quantifying German-Language
+    One-Act Plays (1740–1850).** In: Proceedings of the 5th Conference on
+    Computational Humanities Research (CHR 2024). Book of Abstracts.
 -   Frank Fischer, Dîlan Canan Çakir, Viktor J. Illmer, Niels Penke, Mark
     Schwindt, Lilly Welz: **Chasing ›Carmen Nova‹: Encoding and Analysis of
     a TEI Version of the Crime Novella Allegedly Written by Umberto Eco.**

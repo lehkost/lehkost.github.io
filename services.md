@@ -21,7 +21,7 @@ title: Committees/Services
 * [Rahtz Prize for TEI Ingenuity 2024](https://tei-c.org/activities/rahtz-prize-for-tei-ingenuity/) (award panel)
 * [TEI2024, Buenos Aires](https://tei2024.tei-c.org/)
 * [DSE (micro)communities of practices 2024, Warsaw](https://dse-communities.nplp.pl/programme-committee)
-* [LODaLS 2024, FU Berln](https://www.temporal-communities.de/events/2024/conference-linked-open-data.html) (chair)
+* [LODaLS 2024, FU Berlin](https://www.temporal-communities.de/events/2024/conference-linked-open-data.html) (chair)
 * [EXC 2020 Annual Conference 2025](https://www.temporal-communities.de/explore/annual-conferences/index.html)
 
 ### Board Memberships, Editorial Work, Review Activities
