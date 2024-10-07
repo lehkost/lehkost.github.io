@@ -10,7 +10,7 @@ Invited talks, conference, workshop slides, introductions.
 <small>2025-04-04 · University of Potsdam 🇩🇪 ([»Text as Data« Spring School in Digital Humanities](https://www.uni-potsdam.de/en/digital-humanities/activities/dh-potsdam-spring-school-2025-texts-as-data))</small><br />
 Working With Programmable Corpora and Rich Metadata
 
-<small>2025-02-12 · Freie Universität Berlin 🇩🇪 ([EinS@FU-Ringvorlesung](https://www.fu-berlin.de/sites/eins/faq/schwerpunkte-module-co/Was-ist-eine-Ringvorlesung_.html))</small><br />
+<small>2025-02-12 · Freie Universität Berlin 🇩🇪 ([EinS@FU-Ringvorlesung](https://dh-teaching.github.io/courses/wise_2024-2025_eins-at-fu))</small><br />
 Vorstellung des Fachs ›Digital Humanities‹
 
 <small>2025-01-06 · Freie Universität Berlin 🇩🇪 ([GiK](https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geisteswissenschaften-im-interdisziplinaeren-kontext/index.html)-Vorlesungsreihe »Einführung in das geisteswissenschaftliche Arbeiten und Schreiben«)</small><br />
@@ -25,7 +25,7 @@ Univariate Statistical Analysis of a Non-Canonical Literary Genre: Quantifying G
 Chasing ›Carmen Nova‹: Encoding and Analysis of a TEI Version of the Crime Novella Allegedly Written by Umberto Eco
 
 <small>2024-10-09 · Buenos Aires 🇦🇷 ([TEI2024](https://www.conftool.pro/tei2024/sessions.php))</small><br />
-French Drama in TEI: A Workflow for the Continuous Integration of the « Théâtre classique » Corpus into the DraCor Infrastructure
+[French Drama in TEI: A Workflow for the Continuous Integration of the « Théâtre classique » Corpus into the DraCor Infrastructure](https://bit.ly/teifre)
 
 <small>2024-10-02 · Freie Universität Berlin 🇩🇪 ([Verlegerisches Handeln als aufklärerische Praxis – Christian Friedrich Voss \[und Sohn\] und die Literatur des 18. Jahrhunderts](https://www.geisteswissenschaften.fu-berlin.de/we04/ndl/mitarbeiter_innen/prof/bremer/Verlegerisches-Handeln-als-aufklaererische-Praxis/index.html))</small><br />
 [Perspektiven für die buch- und verlagsgeschichtliche Forschung unter digitalen Bedingungen](https://lehkost.github.io/slides/2024-10-02-voss/index.html)

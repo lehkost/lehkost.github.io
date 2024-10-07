@@ -50,18 +50,20 @@ title: Publications
     Analysis of a Non-Canonical Literary Genre: Quantifying German-Language
     One-Act Plays (1740–1850).** In: Proceedings of the 5th Conference on
     Computational Humanities Research (CHR 2024). Book of Abstracts.
+
+#### 2024
+
+-   Frank Fischer, Carsten Milling, Jan Jokisch, Peer Trilcke: **French Drama
+    in TEI: A Workflow for the Continuous Integration of the »Théâtre classique«
+    Corpus into the DraCor Infrastructure.** In: TEI2024: »Texts, Languages, and
+    Communities«. 7–11 October 2024. Buenos Aires. Book of Abstracts, pp. 62–63.
+    ([doi:10.5281/zenodo.13883242](https://doi.org/10.5281/zenodo.13883242))
 -   Frank Fischer, Dîlan Canan Çakir, Viktor J. Illmer, Niels Penke, Mark
     Schwindt, Lilly Welz: **Chasing ›Carmen Nova‹: Encoding and Analysis of
     a TEI Version of the Crime Novella Allegedly Written by Umberto Eco.**
     In: TEI2024: »Texts, Languages, and Communities«. 7–11 October 2024.
-    Buenos Aires. Book of Abstracts.
--   Frank Fischer, Carsten Milling, Jan Jokisch, Peer Trilcke: **French Drama
-    in TEI: A Workflow for the Continuous Integration of the »Théâtre classique«
-    Corpus into the DraCor Infrastructure.** In: TEI2024: »Texts, Languages, and
-    Communities«. 7–11 October 2024. Buenos Aires. Book of Abstracts.
-
-#### 2024
-
+    Buenos Aires. Book of Abstracts, pp. 100–101.
+    ([doi:10.5281/zenodo.13883242](https://doi.org/10.5281/zenodo.13883242))
 -   Julia Jennifer Beine, Frank Fischer, Viktor J. Illmer: **Just the Type:
     Analysing Character Typology in Roman Comedy with RomDraCor.**
     In: DH2024: »Reinvention & Responsibility«. 6--10 August 2024.
