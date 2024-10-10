@@ -24,6 +24,9 @@ Univariate Statistical Analysis of a Non-Canonical Literary Genre: Quantifying G
 <small>2024-10-10 · Buenos Aires 🇦🇷 ([TEI2024](https://www.conftool.pro/tei2024/sessions.php))</small><br />
 Chasing ›Carmen Nova‹: Encoding and Analysis of a TEI Version of the Crime Novella Allegedly Written by Umberto Eco
 
+<small>2024-10-10 · Buenos Aires 🇦🇷 ([TEI2024](https://www.conftool.pro/tei2024/sessions.php))</small><br />
+[The &lt;Foreign&gt; Element in Yiddish](https://sreyfe.github.io/slides/2024-10-10-foreign-tag/)
+
 <small>2024-10-09 · Buenos Aires 🇦🇷 ([TEI2024](https://www.conftool.pro/tei2024/sessions.php))</small><br />
 [French Drama in TEI: A Workflow for the Continuous Integration of the « Théâtre classique » Corpus into the DraCor Infrastructure](https://bit.ly/teifre)
 
