@@ -13,6 +13,9 @@ Working With Programmable Corpora and Rich Metadata
 <small>2025-02-12 · Freie Universität Berlin 🇩🇪 ([EinS@FU-Ringvorlesung](https://dh-teaching.github.io/courses/wise_2024-2025_eins-at-fu))</small><br />
 Vorstellung des Fachs ›Digital Humanities‹
 
+<small>2025-01-21 · Freie Universität Berlin 🇩🇪 ([Antrittsvorlesung](https://www.geisteswissenschaften.fu-berlin.de/we02/institut/news/2025_01_21-Antrittsvorlesung-Fischer.html))</small><br />
+Flüsse mit Ufern. Literaturgeschichten und digitale Infrastruktur
+
 <small>2025-01-06 · Freie Universität Berlin 🇩🇪 ([GiK](https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geisteswissenschaften-im-interdisziplinaeren-kontext/index.html)-Vorlesungsreihe »Einführung in das geisteswissenschaftliche Arbeiten und Schreiben«)</small><br />
 Praxis der Geisteswissenschaften: ›Recherche‹ (aktualisierter Vortrag vom letzten Jahr)
 
