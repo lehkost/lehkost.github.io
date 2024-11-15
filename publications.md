@@ -46,10 +46,19 @@ title: Publications
 
 #### Forthcoming
 
--   Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer: **Univariate Statistical
-    Analysis of a Non-Canonical Literary Genre: Quantifying German-Language
-    One-Act Plays (1740–1850).** In: Proceedings of the 5th Conference on
-    Computational Humanities Research (CHR 2024). Book of Abstracts.
+-   Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Lilly Welz, Carsten
+    Milling: **Univariate Statistical Analysis of a Non-Canonical Literary
+    Genre: Quantifying German-Language One-Act Plays (1740–1850).** In:
+    Proceedings of the 5th Conference on Computational Humanities Research
+    (CHR 2024). Book of Abstracts.
+-   Jonas Rohe, Viktor J. Illmer, Lisa Poggel, Frank Fischer: **Wikipedia als
+    Hallraum der Kanonizität: »1001 Books You Must Read Before You Die«.**
+    In: DHd2025: »Under Construction«. 3–7 March 2025. Book of Abstracts.
+    Bielefeld University.
+-   Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Mark Schwindt,
+    Jonas Rohe: **999 und noch etliche \[mehr\]. Georg Nikolaus Bärmanns
+    »Würfel-Almanach« von 1829 als Web-App.** In: DHd2025: »Under Construction«.
+    3–7 March 2025. Book of Abstracts. Bielefeld University.
 
 #### 2024
 

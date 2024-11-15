@@ -21,7 +21,7 @@ Praxis der Geisteswissenschaften: ›Recherche‹ (aktualisierter Vortrag vom le
 
 ### 2024
 
-<small>2024-12-xx · Aarhus University 🇩🇰 ([CHR2024](https://2024.computational-humanities-research.org/))</small><br />
+<small>2024-12-05 · Aarhus University 🇩🇰 ([CHR2024](https://2024.computational-humanities-research.org/))</small><br />
 Univariate Statistical Analysis of a Non-Canonical Literary Genre: Quantifying German-Language One-Act Plays (1740–1850)
 
 <small>2024-10-10 · Buenos Aires 🇦🇷 ([TEI2024](https://www.conftool.pro/tei2024/sessions.php))</small><br />
@@ -158,18 +158,18 @@ Dramatische Metadaten – Die Datenbank deutschsprachiger Einakter 1740–1850
 Nutzungspotentiale digitaler Sammlungen (Panel)
 
 <small>2022-01-17 · Humboldt-Universität zu Berlin 🇩🇪 ([»Digital Humanities und Literaturwissenschaft – Konkurrenz oder Komplementarität«](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&publishContainer=lectureContainer&publishid=183689))</small><br />
-Einführung in DraCor
+[Einführung in DraCor](https://lehkost.github.io/slides/2022-01-17-hub/index.html)
 
 ### 2021
 
 <small>2021-11-05 · (virtual) 🇪🇺 ([CLS INFRA](https://clsinfra.io/))</small><br />
 CLS INFRA-WP7 Kick-Off Meeting
 
-<small>2021-11-04 · Berlin 🇩🇪 (EXC 2020 Temporal Communities)</small><br />
-Modelling Drama in a Digital Ecosystem
+<small>2021-11-04 · Berlin 🇩🇪 ([EXC 2020 »Temporal Communities«](https://www.temporal-communities.de/), [RA5](https://www.temporal-communities.de/research/digital-communities/index.html) Meeting)</small><br />
+[Modelling Drama in a Digital Ecosystem](https://lehkost.github.io/slides/2021-11-04-ra5/index.html)
 
 <small>2021-11-03 · Eötvös Loránd University, Budapest 🇭🇺 ([Drámák a Mátrixban](https://www.elte.hu/content/dramak-a-matrixban.e.14110))</small><br />
-Introducing the Hungarian Drama Corpus (HunDraCor) ([Twitter](https://twitter.com/umblaetterer/status/1454019018508144644))
+[Introducing the Hungarian Drama Corpus (HunDraCor)](https://lehkost.github.io/slides/2021-11-03-hundracor/index.html) ([Twitter](https://twitter.com/umblaetterer/status/1454019018508144644))
 
 <small>2021-10-28 · Berlin 🇩🇪 ([Kolloquium »Phänomenologie der Digital Humanities«](https://wikis.fu-berlin.de/display/phaenodh))</small><br />
 Wie funktioniert eigentlich Forschung in den Digital Humanities?
