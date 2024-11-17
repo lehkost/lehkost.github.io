@@ -24,6 +24,9 @@ Praxis der Geisteswissenschaften: ›Recherche‹ (aktualisierter Vortrag vom le
 <small>2024-12-05 · Aarhus University 🇩🇰 ([CHR2024](https://2024.computational-humanities-research.org/))</small><br />
 Univariate Statistical Analysis of a Non-Canonical Literary Genre: Quantifying German-Language One-Act Plays (1740–1850)
 
+<small>2024-11-19 · Freie Universität Berlin 🇩🇪 ([Linked Open Data and Literary Studies](https://www.temporal-communities.de/events/2024/conference-linked-open-data.html))</small><br />
+[Opening Remarks and Introduction](https://lehkost.github.io/slides/2024-11-19-lodals-intro/index.html)
+
 <small>2024-10-10 · Buenos Aires 🇦🇷 ([TEI2024](https://www.conftool.pro/tei2024/sessions.php))</small><br />
 Chasing ›Carmen Nova‹: Encoding and Analysis of a TEI Version of the Crime Novella Allegedly Written by Umberto Eco
 
