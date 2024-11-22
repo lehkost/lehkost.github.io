@@ -46,11 +46,6 @@ title: Publications
 
 #### Forthcoming
 
--   Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Lilly Welz, Carsten
-    Milling: **Univariate Statistical Analysis of a Non-Canonical Literary
-    Genre: Quantifying German-Language One-Act Plays (1740–1850).** In:
-    Proceedings of the 5th Conference on Computational Humanities Research
-    (CHR 2024). Book of Abstracts.
 -   Jonas Rohe, Viktor J. Illmer, Lisa Poggel, Frank Fischer: **Wikipedia als
     Hallraum der Kanonizität: »1001 Books You Must Read Before You Die«.**
     In: DHd2025: »Under Construction«. 3–7 March 2025. Book of Abstracts.
@@ -62,6 +57,13 @@ title: Publications
 
 #### 2024
 
+-   Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Lilly Welz, Carsten
+    Milling: [**Univariate Statistical Analysis of a Non-Canonical Literary
+    Genre: Quantifying German-Language One-Act Plays
+    (1740–1850).**](https://ceur-ws.org/Vol-3834/paper86.pdf) In:
+    Proceedings of the 5th Conference on Computational Humanities Research
+    (CHR 2024). 4–6 December 2024. Aarhus, Denmark. Book of Abstracts,
+    pp. 1158–1174.
 -   Frank Fischer, Carsten Milling, Jan Jokisch, Peer Trilcke: **French Drama
     in TEI: A Workflow for the Continuous Integration of the »Théâtre classique«
     Corpus into the DraCor Infrastructure.** In: TEI2024: »Texts, Languages, and
