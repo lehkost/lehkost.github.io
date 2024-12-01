@@ -58,12 +58,11 @@ title: Publications
 #### 2024
 
 -   Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Lilly Welz, Carsten
-    Milling: [**Univariate Statistical Analysis of a Non-Canonical Literary
-    Genre: Quantifying German-Language One-Act Plays
-    (1740–1850).**](https://ceur-ws.org/Vol-3834/paper86.pdf) In:
+    Milling: **Univariate Statistical Analysis of a Non-Canonical Literary
+    Genre: Quantifying German-Language One-Act Plays (1740–1850).** In:
     Proceedings of the 5th Conference on Computational Humanities Research
     (CHR 2024). 4–6 December 2024. Aarhus, Denmark. Book of Abstracts,
-    pp. 1158–1174.
+    pp. 1158–1174. (URL: <https://ceur-ws.org/Vol-3834/paper86.pdf>)
 -   Frank Fischer, Carsten Milling, Jan Jokisch, Peer Trilcke: **French Drama
     in TEI: A Workflow for the Continuous Integration of the »Théâtre classique«
     Corpus into the DraCor Infrastructure.** In: TEI2024: »Texts, Languages, and

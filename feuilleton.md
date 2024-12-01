@@ -122,7 +122,7 @@ Feuilleton articles, some prefaces and [translations](#translations).
     so wichtig sind wie die Götter der deutschen
     Klassik.**](https://www.welt.de/123558430) In: Die Welt, 6 January
     2014, p. 22. \[Follow-up by Peter Cissek in: [Ostthüringer Zeitung,
-    7 January 2014](https://www.otz.de/219784329).\]
+    7 January 2014](https://www.otz.de/219784329). Reprinted in: Joseph Wälzholz and friends: ABC (Artikel, Blogposts, Columnen). Leipzig: Ille &amp; Riemer 2025, S. 89–99.\]
 -   Frank Fischer, Joseph Wälzholz: **Vossianische Antonomasien. Die
     schönsten Fundstücke des Jahres 2013.** In: Frankfurter Allgemeine
     Sonntagszeitung, 5 January 2014, p. 40.
