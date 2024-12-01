@@ -42,6 +42,15 @@ title: Publications
     Freygeist.** Leipzig: Ille & Riemer 2002. \[Review by Hans-Gert
     Roloff in: Editionen in der Kritik 1 (2005).\]
 
+### Games
+
+-   Frank Fischer, Mark Schwindt: [**Battle of the Plays. A Gamification Approach to Literary Network
+    Analysis.**](https://sukultur.de/produkt/battle-of-the-plays-a-gamification-approach-to-literary-network-analysis/)
+    Berlin: SUKULTUR 2024. ISBN 978-3-95566-182-3.
+-   Frank Fischer, Anika Schultz: [**Dramenquartett. Eine didaktische
+    Intervention.**](https://www.etkbooks.com/dramenquartett/)
+    Bern: edition taberna kritika 2019. ISBN 978-3-905846-55-3.
+
 ### Peer-Reviewed Papers and Articles for Edited Volumes
 
 #### Forthcoming
