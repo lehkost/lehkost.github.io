@@ -8,6 +8,7 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 ### Additional Affiliations
 * Cluster of Excellence 2020 »Temporal Communities: Doing Literature in a Global Perspective« ([homepage](https://www.temporal-communities.de/people/fischer/index.html)) (PI)
 * [Friedrich Schlegel Graduiertenschule für literaturwissenschaftliche Studien](https://www.geisteswissenschaften.fu-berlin.de/friedrichschlegel/personen/PI/index.html) (PI)
+* Official representative for Open Science of Freie Universität Berlin
 
 ### Research Interests
 * 18th–21st Century Literature, Computational Literary Studies, World Literature, European Drama, Network Analysis, Artificial Neural Networks for the Study of Literature, Linked Open Data, Research Infrastructures for Literary Studies
@@ -52,7 +53,7 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 ### Profiles
 * ORCID: [0000-0003-2419-6629](https://orcid.org/0000-0003-2419-6629)
 * GitHub: [lehkost](https://github.com/lehkost)
-* Twitter: [@umblaetterer](https://twitter.com/umblaetterer)
+* Twitter: [@umblaetterer](https://twitter.com/umblaetterer) (inactive)
 * Mastodon: <a rel="me" href="https://chaos.social/@umblaetterer">@umblaetterer@chaos.social</a>
 * Bluesky: [@umblaetterer.bsky.social](https://bsky.app/profile/umblaetterer.bsky.social)
 * dblp: [13/3984-5](https://dblp.org/pid/13/3984-5)

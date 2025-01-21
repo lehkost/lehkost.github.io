@@ -14,10 +14,10 @@ Working With Programmable Corpora and Rich Metadata
 Vorstellung des Fachs ›Digital Humanities‹
 
 <small>2025-01-21 · Freie Universität Berlin 🇩🇪 ([Antrittsvorlesung](https://www.geisteswissenschaften.fu-berlin.de/we02/institut/news/2025_01_21-Antrittsvorlesung-Fischer.html))</small><br />
-Flüsse mit Ufern. Literaturgeschichten und digitale Infrastruktur
+[Flüsse mit Ufern. Literaturgeschichten und digitale Infrastruktur](https://lehkost.github.io/slides/2025-01-21-antritt/index.html)
 
 <small>2025-01-06 · Freie Universität Berlin 🇩🇪 ([GiK](https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geisteswissenschaften-im-interdisziplinaeren-kontext/index.html)-Vorlesungsreihe »Einführung in das geisteswissenschaftliche Arbeiten und Schreiben«)</small><br />
-Praxis der Geisteswissenschaften: ›Recherche‹ (aktualisierter Vortrag vom letzten Jahr)
+[Praxis der Geisteswissenschaften: ›Recherche‹](https://lehkost.github.io/slides/2025-01-06-gik-recherche/index.html) (aktualisierter Vortrag vom letzten Jahr)
 
 ### 2024
 
@@ -46,7 +46,7 @@ Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik (DraCor,
 [Just the Type: Analysing Character Typology in Roman Comedy with RomDraCor](https://doi.org/10.5281/zenodo.13286286)
 
 <small>2024-07-04 · Freie Universität Berlin 🇩🇪 ([EXC2020 Annual Conference 2024 · Literary Value: Artistic, Academic and Critical Practices](https://www.temporal-communities.de/explore/listen-read-watch/literary-value/programme/index.html))</small><br />
-[Measuring Public Engagement and the Valuation of Literature on Wikipedia](https://bit.ly/lcb47) (Workshop)
+[Measuring Public Engagement and the Valuation of Literature on Wikipedia](https://lehkost.github.io/slides/2024-07-04-lcb/index.html) (Workshop)
 
 <small>2024-06-11 · ACDH-CH OEAW (Vienna) 🇦🇹 ([CLS INFRA Training School](https://clsinfra.io/events/training-school/))</small><br />
 [Programmable Corpora and Network Analysis](https://bit.ly/clsnet)
@@ -70,7 +70,7 @@ Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik (DraCor,
 [Literatur im Wikiversum – Eine praktische Annäherung über API-Abfragen und Wikipedia-Metriken](https://bit.ly/wiklit)
 
 <small>2024-01-08 · Freie Universität Berlin 🇩🇪 ([GiK](https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geisteswissenschaften-im-interdisziplinaeren-kontext/index.html)-Vorlesungsreihe »Einführung in das geisteswissenschaftliche Arbeiten und Schreiben«)</small><br />
-[Praxis der Geisteswissenschaften: ›Recherche‹](https://bit.ly/gik8124)
+[Praxis der Geisteswissenschaften: ›Recherche‹](https://lehkost.github.io/slides/2024-01-08-gik-recherche/index.html)
 
 ### 2023
 
