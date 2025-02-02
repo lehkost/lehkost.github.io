@@ -10,6 +10,12 @@ Invited talks, conference, workshop slides, introductions.
 <small>2025-04-04 · University of Potsdam 🇩🇪 ([»Text as Data« Spring School in Digital Humanities](https://www.uni-potsdam.de/en/digital-humanities/activities/dh-potsdam-spring-school-2025-texts-as-data))</small><br />
 Working With Programmable Corpora and Rich Metadata
 
+<small>2025-03-05 · Bielefeld University 🇩🇪 ([DHd2025](https://dhd2025.dig-hum.de/?page_id=8))</small><br />
+»999 und noch etliche [mehr]«. Georg Nikolaus Bärmanns Würfel-Almanach von 1829 als Web-App
+
+<small>2025-03-05 · Bielefeld University 🇩🇪 ([DHd2025](https://dhd2025.dig-hum.de/?page_id=8))</small><br />
+Wikipedia als Hallraum der Kanonizität: »1001 Books You Must Read Before You Die«
+
 <small>2025-02-12 · Freie Universität Berlin 🇩🇪 ([EinS@FU-Ringvorlesung](https://dh-teaching.github.io/courses/wise_2024-2025_eins-at-fu))</small><br />
 Vorstellung des Fachs ›Digital Humanities‹
 
@@ -34,7 +40,7 @@ Chasing ›Carmen Nova‹: Encoding and Analysis of a TEI Version of the Crime N
 [The &lt;Foreign&gt; Element in Yiddish](https://sreyfe.github.io/slides/2024-10-10-foreign-tag/)
 
 <small>2024-10-09 · Buenos Aires 🇦🇷 ([TEI2024](https://www.conftool.pro/tei2024/sessions.php))</small><br />
-[French Drama in TEI: A Workflow for the Continuous Integration of the « Théâtre classique » Corpus into the DraCor Infrastructure](https://bit.ly/teifre)
+[French Drama in TEI: A Workflow for the Continuous Integration of the « Théâtre classique » Corpus into the DraCor Infrastructure](https://lehkost.github.io/slides/2024-10-09-tei-fredracor/index.html)
 
 <small>2024-10-02 · Freie Universität Berlin 🇩🇪 ([Verlegerisches Handeln als aufklärerische Praxis – Christian Friedrich Voss \[und Sohn\] und die Literatur des 18. Jahrhunderts](https://www.geisteswissenschaften.fu-berlin.de/we04/ndl/mitarbeiter_innen/prof/bremer/Verlegerisches-Handeln-als-aufklaererische-Praxis/index.html))</small><br />
 [Perspektiven für die buch- und verlagsgeschichtliche Forschung unter digitalen Bedingungen](https://lehkost.github.io/slides/2024-10-02-voss/index.html)
@@ -49,13 +55,13 @@ Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik (DraCor,
 [Measuring Public Engagement and the Valuation of Literature on Wikipedia](https://lehkost.github.io/slides/2024-07-04-lcb/index.html) (Workshop)
 
 <small>2024-06-11 · ACDH-CH OEAW (Vienna) 🇦🇹 ([CLS INFRA Training School](https://clsinfra.io/events/training-school/))</small><br />
-[Programmable Corpora and Network Analysis](https://bit.ly/clsnet)
+[Programmable Corpora and Network Analysis](https://lehkost.github.io/slides/2024-06-11-vienna-cls-infra/index.html)
 
 <small>2024-06-10 · ACDH-CH OEAW (Vienna) 🇦🇹 ([CLS INFRA Training School](https://clsinfra.io/events/training-school/))</small><br />
-[Introducing DraCor](https://bit.ly/dra106)
+[Introducing DraCor](https://lehkost.github.io/slides/2024-06-10-vienna-dracor/index.html)
 
 <small>2024-05-02 · University of Rostock 🇩🇪 ([Ringvorlesung des #RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
-[Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute](https://bit.ly/geschdra) ([PDF](https://zenodo.org/doi/10.5281/zenodo.13143161)) ([recap](https://dhimfokus.hypotheses.org/1700))
+[Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute](https://lehkost.github.io/slides/2024-05-02-rosdh/index.html) ([PDF](https://zenodo.org/doi/10.5281/zenodo.13143161)) ([recap](https://dhimfokus.hypotheses.org/1700))
 
 <small>2024-04-12 · Akademie der Wissenschaften und der Literatur Mainz 🇩🇪 ([Connecting the Dots: Briefe in Literaturwissenschaft und Digital Humanities](https://korrespondenzen-fruehromantik.uni-mainz.de/tagung-april-2024/))</small><br />
 [Netzwerkdaten in der Literaturwissenschaft](https://lehkost.github.io/slides/2024-04-12-mainz/index.html)
@@ -64,10 +70,10 @@ Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik (DraCor,
 [»100 superste 100-Seiten-Bücher«](https://lehkost.github.io/slides/2024-03-22-buchmesse/index.html) (Lesung)
 
 <small>2024-03-01 · University of Passau 🇩🇪 ([DHd2024](https://dhd2024.dig-hum.de/programm-freitag-01-03-2024/))</small><br />
-[Das »ureigenste theatralische Element« – Automatische Extraktion von Requisiten aus deutschsprachigen Dramentexten](https://bit.ly/props-dhd)
+[Das »ureigenste theatralische Element« – Automatische Extraktion von Requisiten aus deutschsprachigen Dramentexten](https://lehkost.github.io/slides/2024-03-01-passau-dhd/index.html)
 
 <small>2024-02-27 · University of Passau 🇩🇪 ([DHd2024 Workshop](https://dhd2024.dig-hum.de/w1-literatur-im-wikiversum-eine-praktische-annaherung-uber-api-abfragen-und-wikipedia-metriken/))</small><br />
-[Literatur im Wikiversum – Eine praktische Annäherung über API-Abfragen und Wikipedia-Metriken](https://bit.ly/wiklit)
+[Literatur im Wikiversum – Eine praktische Annäherung über API-Abfragen und Wikipedia-Metriken](https://lehkost.github.io/slides/2024-02-27-passau-dhd-workshop/index.html)
 
 <small>2024-01-08 · Freie Universität Berlin 🇩🇪 ([GiK](https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geisteswissenschaften-im-interdisziplinaeren-kontext/index.html)-Vorlesungsreihe »Einführung in das geisteswissenschaftliche Arbeiten und Schreiben«)</small><br />
 [Praxis der Geisteswissenschaften: ›Recherche‹](https://lehkost.github.io/slides/2024-01-08-gik-recherche/index.html)
@@ -90,10 +96,10 @@ Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik (DraCor,
 [Opening Remarks and Introduction](https://lehkost.github.io/slides/2023-10-10-wwwlit-intro/) ([Mastodon](https://chaos.social/@umblaetterer/111210080192828977)) ([Twitter](https://twitter.com/umblaetterer/status/1711678645993889886))
 
 <small>2023-09-11 · Freie Universität Berlin 🇩🇪 ([DraCor Onboarding Workshop for Hebrew and Yiddish Drama](https://www.ada.fu-berlin.de/kalender/HeDraCorWorkshop.html))</small><br />
-[What Is DraCor? (Kick-Off Presentation)](https://bit.ly/widr)
+[What Is DraCor? (Kick-Off Presentation)](https://lehkost.github.io/slides/2023-09-11-dracor/index.html)
 
 <small>2023-08-09 · DLA Marbach 🇩🇪 ([Summer School: Literature Data and Digital Literature](https://www.dla-marbach.de/kalender/detail/521/))</small><br />
-[Network Analysis of Literary Texts (Workshop)](https://bit.ly/marbanet)
+[Network Analysis of Literary Texts (Workshop)](https://lehkost.github.io/slides/2023-08-09-marbach/index.html)
 
 <small>2023-07-12 · Graz 🇦🇹 ([DH2023](https://dh2023.adho.org/))</small><br />
 [Dockerizing DraCor – A Container-Based Approach to Reproducibility in Computational Literary Studies](https://bit.ly/dockerizing-dracor)
@@ -102,16 +108,16 @@ Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik (DraCor,
 Introduction ([»Die Welt«, 13 July 2023, pp. 14–15](https://www.welt.de/246327316))
 
 <small>2023-06-12 · Freie Universität Berlin 🇩🇪 ([RA5 Meeting/EXC2020](https://www.temporal-communities.de/research/digital-communities/index.html))</small><br />
-[Internationale Autor\*innen zu Gast in der DDR – Die Einreisekartei des Schriftstellerverbandes und ihre digitale Aufbereitung](https://bit.ly/dsv-ra5) (extended version of our talk at DHd2023)
+[Internationale Autor\*innen zu Gast in der DDR – Die Einreisekartei des Schriftstellerverbandes und ihre digitale Aufbereitung](https://lehkost.github.io/slides/2023-06-12-ra5-meeting/index.html) (extended version of our talk at DHd2023)
 
 <small>2023-05-05 · Dubrovnik 🇭🇷 ([SIGHUM2023](https://sighum.wordpress.com/events/latech-clfl-2023/))</small><br />
-[»Who is the Madonna of Italian-American Literature?« – Extracting and Analyzing Target Entities of Vossian Antonomasia](https://bit.ly/3UvC1JX)
+[»Who is the Madonna of Italian-American Literature?« – Extracting and Analyzing Target Entities of Vossian Antonomasia](https://schwabmi.github.io/presentations/2023-05-05-sighum/)
 
 <small>2023-03-17 · University of Trier 🇩🇪 ([DHd2023](https://dhd2023.dig-hum.de/))</small><br />
-[»Die Greta Garbo der Leichtathletik« – Eine systematische Analyse der Modifier vossianischer Antonomasien mithilfe von Word Embeddings](https://bit.ly/va-trier)
+[»Die Greta Garbo der Leichtathletik« – Eine systematische Analyse der Modifier vossianischer Antonomasien mithilfe von Word Embeddings](https://lehkost.github.io/slides/2023-03-17-trier-dhd/index.html)
 
 <small>2023-03-15 · University of Trier 🇩🇪 ([DHd2023](https://dhd2023.dig-hum.de/))</small><br />
-[Internationale Autor\*innen zu Gast in der DDR – Die Einreisekartei des Schriftstellerverbandes und ihre digitale Aufbereitung](https://bit.ly/dsv-dhd)
+[Internationale Autor\*innen zu Gast in der DDR – Die Einreisekartei des Schriftstellerverbandes und ihre digitale Aufbereitung](https://lehkost.github.io/slides/2023-03-15-trier-dhd/index.html)
 
 ### 2022
 
@@ -181,13 +187,13 @@ Wie funktioniert eigentlich Forschung in den Digital Humanities?
 [Versteckte Verbindungen: Texte als Netzwerke](https://lehkost.github.io/slides/2021-09-30-fau-texte-als-netzwerke/index.html)
 
 <small>2021-09-29 · (virtual) 🇪🇺 ([CLS INFRA Workshop](https://clsinfra.io/events/upcomingevents/))</small><br />
-[Introduction to DraCor](https://bit.ly/clsdrac)
+[Introduction to DraCor](https://lehkost.github.io/slides/2021-09-29-clsinfra/index.html)
 
 <small>2021-09-24 · Krasnoyarsk (virtual) 🇷🇺 ([EADH 2021: »Interdisciplinary Perspectives on Data«](https://eadh2020-2021.org/))</small><br />
 How to Get 90,000 Readers Interested in Digital Humanities: Experiences with [»Systemnyj Blok«](https://sysblok.ru/)
 
 <small>2021-09-23 · Krasnoyarsk (virtual) 🇷🇺 (EADH 2021: »Interdisciplinary Perspectives on Data«)</small><br />
-[Parents and Children in Russian Drama: Research Scenarios Based on the Annotation of Kinship and Social Relations](https://bit.ly/krasdra)
+[Parents and Children in Russian Drama: Research Scenarios Based on the Annotation of Kinship and Social Relations](https://lehkost.github.io/slides/2021-09-23-krasnoyarsk/index.html)
 
 <small>2021-09-22 · (virtual) 🇩🇪 ([Virtual Meeting of SPP 2207: Computational Literary Studies](https://dfg-spp-cls.github.io/de/2021/09/12/GeneralMeeting.html))</small><br />
 [Introduction to CLS INFRA](https://cls-infra.pages.clsinfra.io:11439/WP7/presentations/2021-09-22_SPP-CLS-General-Meeting/index.html)
@@ -199,13 +205,13 @@ How to Get 90,000 Readers Interested in Digital Humanities: Experiences with [»
 [Who Needs Tool Directories? A Forum on Sustaining Discovery Portals Large and Small](https://twitter.com/umblaetterer/status/1410612207663017998)
 
 <small>2021-06-18 · DLA Marbach (virtual) 🇩🇪 ([»Poesie-Hackathon«: Schiller, Hölderlin, Mörike, Celan](https://www.fontanearchiv.de/forschung/tfalab/ein-poesie-hackathon-schiller-hoelderlin-moerike-celan))</small><br />
-[Neural Reading – Zur Analyse computergenerierter Poesie](http://bit.ly/neuradla)
+[Neural Reading – Zur Analyse computergenerierter Poesie](https://lehkost.github.io/slides/2021-06-18-dla-marbach/index.html)
 
 <small>2021-06-14 · University of Göttingen (virtual) 🇩🇪 ([Institut für Digital Humanities](https://www.uni-goettingen.de/de/597374.html))</small><br />
-[DraCor & Co. – Programmierbare Korpora für eine digitale Literaturwissenschaft](http://bit.ly/goedracor)
+[DraCor & Co. – Programmierbare Korpora für eine digitale Literaturwissenschaft](https://lehkost.github.io/slides/2021-06-14-goettingen/index.html)
 
 <small>2021-05-12 · University of Cologne (virtual) 🇩🇪 ([vDHd2021, #autoChirp Night](https://texperimentales.hypotheses.org/4531))</small><br />
-[TiwoliChirp PechaKucha](https://bit.ly/tiwochi)
+[TiwoliChirp PechaKucha](https://lehkost.github.io/slides/2021-05-12-vdhd-tiwolichirp/index.html)
 
 <small>2021-03-26 · (virtual) ([vDHd2021](https://vdhd2021.hypotheses.org/))</small><br />
 [Die Werkbänke der Digital Humanities: Zur Rolle von Tools und Software für die Forschungsarbeit](https://doi.org/10.5281/zenodo.4639228)
@@ -214,15 +220,15 @@ How to Get 90,000 Readers Interested in Digital Humanities: Experiences with [»
 Nachnutzung und Analyse: CATMA und DraCor
 
 <small>2021-01-09 · University of Leipzig, Institute for Theatre Studies (virtual) 🇩🇪 ([Workshop](https://www.gko.uni-leipzig.de/institut-fuer-theaterwissenschaft/praxis/szenische-projekte-workshops/#c384167))</small><br />
-[DraCor: Dramenanalyse digital](https://bit.ly/unileicor)
+[DraCor: Dramenanalyse digital](https://lehkost.github.io/slides/2021-01-09-leipzig/index.html)
 
 ### 2020
 
 <small>2020-12-08 · University of Wuppertal (virtual) 🇩🇪 ([IZED Lecture](https://web.archive.org/web/20210307060616/https://www.ized.uni-wuppertal.de/de/aktuelles/ansicht/artikel/2020/11/26/5255-08122020-vortrag-dracor-v10-eine-forschungsnahe-infrastruktur-fuer-die-digitalen-literaturwissenschaften.html))</small><br />
-[DraCor V1.0 – Eine forschungsnahe Infrastruktur für die digitalen Literaturwissenschaften](https://bit.ly/wupcor)
+[DraCor V1.0 – Eine forschungsnahe Infrastruktur für die digitalen Literaturwissenschaften](https://lehkost.github.io/slides/2020-12-08-wuppertal/index.html)
 
 <small>2020-11-25 · San Sebastián (virtual) 🇪🇸 ([Workshop de INTELE](http://ixa2.si.ehu.es/intele/?q=actividades))</small><br />
-[DARIAH, la infraestructura de investigación digital para las Artes y Humanidades](https://bit.ly/dariah-intele) ([MP4](http://ixa2.si.ehu.eus/intele/sites/default/files/videos/04.frank_fisher.mp4))
+[DARIAH, la infraestructura de investigación digital para las Artes y Humanidades](https://lehkost.github.io/slides/2020-11-25-workshop-intele/index.html) ([MP4](http://ixa2.si.ehu.eus/intele/sites/default/files/videos/04.frank_fisher.mp4))
 
 <small>2020-11-18 · Zagreb (virtual) 🇭🇷 (DARIAH Annual Event 2020)</small><br />
 [Cracking digital archival research and metadata: Archives Portal Europe](https://doi.org/10.5281/zenodo.4280565)
