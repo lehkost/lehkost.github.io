@@ -17,7 +17,7 @@ Working With Programmable Corpora and Rich Metadata
 Wikipedia als Hallraum der Kanonizität: »1001 Books You Must Read Before You Die«
 
 <small>2025-02-12 · Freie Universität Berlin 🇩🇪 ([EinS@FU-Ringvorlesung](https://dh-teaching.github.io/courses/wise_2024-2025_eins-at-fu))</small><br />
-Vorstellung des Fachs ›Digital Humanities‹
+[Vorstellung des Fachs ›Digital Humanities‹](https://lehkost.github.io/slides/2025-02-12-eins-at-fu-dh/index.html)
 
 <small>2025-01-21 · Freie Universität Berlin 🇩🇪 ([Antrittsvorlesung](https://www.geisteswissenschaften.fu-berlin.de/we02/institut/news/2025_01_21-Antrittsvorlesung-Fischer.html))</small><br />
 [Flüsse mit Ufern. Literaturgeschichten und digitale Infrastruktur](https://lehkost.github.io/slides/2025-01-21-antritt/index.html)
