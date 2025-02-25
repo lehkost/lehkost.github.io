@@ -7,14 +7,20 @@ Invited talks, conference, workshop slides, introductions.
 
 ### 2025
 
+<small>2025-06-2x · Madrid 🇪🇸 (Literatura, teatro e inteligencia artificial)</small><br />
+DraCor y escenarios de uso para la Inteligencia Artificial
+
 <small>2025-04-04 · University of Potsdam 🇩🇪 ([»Text as Data« Spring School in Digital Humanities](https://www.uni-potsdam.de/en/digital-humanities/activities/dh-potsdam-spring-school-2025-texts-as-data))</small><br />
 Working With Programmable Corpora and Rich Metadata
 
 <small>2025-03-05 · Bielefeld University 🇩🇪 ([DHd2025](https://dhd2025.dig-hum.de/?page_id=8))</small><br />
-»999 und noch etliche [mehr]«. Georg Nikolaus Bärmanns Würfel-Almanach von 1829 als Web-App
+[»999 und noch etliche \[mehr\]«. Georg Nikolaus Bärmanns Würfel-Almanach von 1829 als Web-App](https://lehkost.github.io/slides/2025-03-05-bielefeld-dhd-999/index.html)
 
 <small>2025-03-05 · Bielefeld University 🇩🇪 ([DHd2025](https://dhd2025.dig-hum.de/?page_id=8))</small><br />
-Wikipedia als Hallraum der Kanonizität: »1001 Books You Must Read Before You Die«
+[Wikipedia als Hallraum der Kanonizität: »1001 Books You Must Read Before You Die«](https://lehkost.github.io/slides/2025-03-05-bielefeld-dhd-1001/index.html)
+
+<small>2025-02-25 · Freie Universität Berlin 🇩🇪</small><br />
+[Infrastructures and DH](https://lehkost.github.io/slides/2025-02-25-infrastructures-dh/index.html)
 
 <small>2025-02-12 · Freie Universität Berlin 🇩🇪 ([EinS@FU-Ringvorlesung](https://dh-teaching.github.io/courses/wise_2024-2025_eins-at-fu))</small><br />
 [Vorstellung des Fachs ›Digital Humanities‹](https://lehkost.github.io/slides/2025-02-12-eins-at-fu-dh/index.html)
@@ -148,7 +154,7 @@ Network Analysis in Literary Studies (Workshop) [postponed]
 <small>2022-05-26 · Università Ca’ Foscari di Venezia 🇮🇹 ([Dramma europeo nell’età moderna: circolazioni, configurazioni e innovazioni](https://www.unive.it/data/16437/1/62172))</small><br />
 [Il corpus del dramma italiano (ItaDraCor) come parte di un ecosistema digitale](https://lehkost.github.io/slides/2022-05-26-venezia/index.html)
 
-<small>2022-05-11 · Freie Universität Berlin 🇩🇪 ([Ringvorlesung »Vernetzen und zerstreuen? Perspektiven für die akademische Lehre«](https://www.fu-berlin.de/sites/offenerhoersaal/vernetzen-und-zerstreuen/20220511-oh-vernetzen-und-zerstreuen-fischer.html))</small><br />
+<small>2022-05-11 · Freie Universität Berlin 🇩🇪 ([Ringvorlesung »Vernetzen und zerstreuen? Perspektiven für die akademische Lehre«](https://web.archive.org/web/20220706004519/https://www.fu-berlin.de/sites/offenerhoersaal/vernetzen-und-zerstreuen/20220511-oh-vernetzen-und-zerstreuen-fischer.html))</small><br />
 Hacking Humanities: Didaktische Perspektiven für die Digitalen Geisteswissenschaften
 
 <small>2022-04-22 · (virtual) 🇪🇺 ([COST Action Final Event](https://www.distant-reading.net/events/conference-programme/))</small><br />
@@ -447,10 +453,11 @@ Ein Quantum Literatur -- Empirische Daten zu einer Theorie des literarischen Tex
 Grepping Aquinas: Reading from the Middle Distance ([Twitter](https://twitter.com/umblaetterer/status/821415624861777920))
 
 ### 2016
+
 <small>2016-10-10/11/12 · Würzburg 🇩🇪 ([CLiGS](https://cligs.hypotheses.org/))</small><br />
 [Literary Network Analysis](https://christof-schoech.de/literary-network-analysis-workshop/)
 
-<small>2016-08-04 · Weimar 🇩🇪 ([Summer School »The Making of a National Author«](https://www.mww-forschung.de/nachwuchsfoerderung/internationale-sommerschule-2016/))</small><br />
+<small>2016-08-04 · Weimar 🇩🇪 ([Summer School »The Making of a National Author«](https://www.mww-forschung.de/internationale-sommerschule/2016))</small><br />
 Taking National Authors to the Digital Lab: Introduction to the Digital Humanities
 
 <small>2016-08-02 · Aarhus University 🇩🇰 ([Summer University »Text Mining the Great Unread«](https://kursuskatalog.au.dk/da/course/64216))</small><br />
@@ -469,6 +476,7 @@ Network Analysis of Literary Texts
 [Dramen als ›Small Worlds‹? Netzwerkdaten zur Geschichte und Typologie deutschsprachiger Dramen 1730--1930](https://dlina.github.io/presentations/2016-leipzig/)
 
 ### 2015
+
 <small>2015-12-16 · Madrid 🇪🇸 (La edición digital académica: de lo analógico a lo digital)</small><br />
 Metadata, Images, Licensing, Long-Term Archiving, Standards
 
