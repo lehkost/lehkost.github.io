@@ -44,7 +44,8 @@ title: Publications
 
 ### Games
 
--   Frank Fischer, Mark Schwindt: [**Battle of the Plays. A Gamification Approach to Literary Network
+-   Frank Fischer, Mark Schwindt: [**Battle of the Plays. A Gamification
+    Approach to Literary Network
     Analysis.**](https://sukultur.de/produkt/battle-of-the-plays-a-gamification-approach-to-literary-network-analysis/)
     Berlin: SUKULTUR 2024. ISBN 978-3-95566-182-3.
 -   Frank Fischer, Anika Schultz: [**Dramenquartett. Eine didaktische
@@ -53,16 +54,18 @@ title: Publications
 
 ### Peer-Reviewed Papers and Articles for Edited Volumes
 
-#### Forthcoming
+#### 2025
 
--   Jonas Rohe, Viktor J. Illmer, Lisa Poggel, Frank Fischer: **Wikipedia als
-    Hallraum der Kanonizität: »1001 Books You Must Read Before You Die«.**
-    In: DHd2025: »Under Construction«. 3–7 March 2025. Book of Abstracts.
-    Bielefeld University.
 -   Viktor J. Illmer, Frank Fischer, Mark Schwindt, Jonas Rohe: **»999 und noch
     etliche \[mehr\]«. Georg Nikolaus Bärmanns »Würfel-Almanach« von 1829 als
     Web-App.** In: DHd2025: »Under Construction«. 3–7 March 2025. Book of
     Abstracts. Bielefeld University.
+    ([doi:10.5281/zenodo.14943242](https://doi.org/10.5281/zenodo.14943242))
+-   Jonas Rohe, Viktor J. Illmer, Lisa Poggel, Frank Fischer: **Wikipedia als
+    Hallraum der Kanonizität: »1001 Books You Must Read Before You Die«.**
+    In: DHd2025: »Under Construction«. 3–7 March 2025. Book of Abstracts.
+    Bielefeld University.
+    ([doi:10.5281/zenodo.14943076](https://doi.org/10.5281/zenodo.14943076))
 
 #### 2024
 
