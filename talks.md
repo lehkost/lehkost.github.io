@@ -7,7 +7,7 @@ Invited talks, conference, workshop slides, introductions.
 
 ### 2025
 
-<small>2025-06-2x · Madrid 🇪🇸 (Literatura, teatro e inteligencia artificial)</small><br />
+<small>2025-06-2x · Madrid 🇪🇸 ([Literatura, teatro e inteligencia artificial](https://www.resad.es/convocatorias/diciembre24/20250609_Seminario-Internacional-LITERATURA-TEATRO-E-IA.pdf))</small><br />
 DraCor y escenarios de uso para la Inteligencia Artificial
 
 <small>2025-04-04 · University of Potsdam 🇩🇪 ([»Text as Data« Spring School in Digital Humanities](https://www.uni-potsdam.de/en/digital-humanities/activities/dh-potsdam-spring-school-2025-texts-as-data))</small><br />
@@ -19,7 +19,7 @@ Working With Programmable Corpora and Rich Metadata
 <small>2025-03-05 · Bielefeld University 🇩🇪 ([DHd2025](https://dhd2025.dig-hum.de/?page_id=8))</small><br />
 [Wikipedia als Hallraum der Kanonizität: »1001 Books You Must Read Before You Die«](https://lehkost.github.io/slides/2025-03-05-bielefeld-dhd-1001/index.html)
 
-<small>2025-02-25 · Freie Universität Berlin 🇩🇪</small><br />
+<small>2025-02-25 · Freie Universität Berlin 🇩🇪 ([FUB–HUJI Digital Humanities Winter School](https://www.ada.fu-berlin.de/FUB-HUJI-WS24-25/))</small><br />
 [Infrastructures and DH](https://lehkost.github.io/slides/2025-02-25-infrastructures-dh/index.html)
 
 <small>2025-02-12 · Freie Universität Berlin 🇩🇪 ([EinS@FU-Ringvorlesung](https://dh-teaching.github.io/courses/wise_2024-2025_eins-at-fu))</small><br />

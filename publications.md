@@ -54,6 +54,26 @@ title: Publications
 
 ### Peer-Reviewed Papers and Articles for Edited Volumes
 
+#### Forthcoming
+
+-   Jonas Rohe, Viktor J. Illmer, Lisa Poggel, Frank Fischer: **Wikipedia as an
+    Echo Chamber of Canonicity: 1001 Books You Must Read Before You Die.** In:
+    DH2025: »Accessibility and Citizenship«. 14--18 July 2025. Universidade
+    NOVA de Lisboa.
+-   Sandra Balck, Janis Dähne, Fabian Etling, Frank Fischer, Steffen Frenzel,
+    Brigitte Grote, Sascha Hesse, Paul Molitor, Marcus Pöckelmann, Jörg Ritter,
+    Yashee Singh, Manfred Stede: **Collation of Multilingual Versions of a Text:
+    Necessity, Approach, Challenges.** In: DH2025: »Accessibility and Citizenship«.
+    14--18 July 2025. Universidade NOVA de Lisboa.
+-   Henny Sluyter-Gäthje, Ingo Börner, Peer Trilcke, Evgeniya Ustinova,
+    Frank Fischer, Carsten Milling: **Towards Modularised Open Infrastructures:
+    Enhancing Research Publications in Digital Humanities – »Detecting Small
+    Worlds« as an Example.** In: DH2025: »Accessibility and Citizenship«.
+    14--18 July 2025. Universidade NOVA de Lisboa.
+-   Jonah Lubin, Frank Fischer: **Introducing iberz, a Database of Yiddish
+    Translations.** In: DH2025: »Accessibility and Citizenship«. 14--18 July 2025.
+    Universidade NOVA de Lisboa.
+
 #### 2025
 
 -   Viktor J. Illmer, Frank Fischer, Mark Schwindt, Jonas Rohe: **»999 und noch
@@ -569,6 +589,10 @@ title: Publications
 
 #### Reviews
 
+-   Laura Untner, Viktor J. Illmer, Frank Fischer, Jonah Lubin:
+    **Conference Report, »Linked Open Data and Literary Studies«
+    (November 2024).** In: H-Soz-Kult, 16 March 2025. (URL:
+    <https://www.hsozkult.de/conferencereport/id/fdkn-153755>)
 -   Jonah Lubin, Frank Fischer: **Conference Report,
     »Wikipedia, Wikidata, and Wikibase: Usage Scenarios for Literary
     Studies« (October 2023).** In: H-Soz-Kult, 27 March 2024. (URL:
