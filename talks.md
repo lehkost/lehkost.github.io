@@ -10,8 +10,8 @@ Invited talks, conference, workshop slides, introductions.
 <small>2025-06-2x · Madrid 🇪🇸 ([Literatura, teatro e inteligencia artificial](https://www.resad.es/convocatorias/diciembre24/20250609_Seminario-Internacional-LITERATURA-TEATRO-E-IA.pdf))</small><br />
 DraCor y escenarios de uso para la Inteligencia Artificial
 
-<small>2025-04-04 · University of Potsdam 🇩🇪 ([»Text as Data« Spring School in Digital Humanities](https://www.uni-potsdam.de/en/digital-humanities/activities/dh-potsdam-spring-school-2025-texts-as-data))</small><br />
-Working With Programmable Corpora and Rich Metadata
+<small>2025-04-04 · University of Potsdam 🇩🇪 ([»Text as Data« Spring School in Digital Humanities](https://www.uni-potsdam.de/de/digital-humanities/aktivitaeten/potsdam-dh-school-2025))</small><br />
+[Working With Programmable Corpora and Rich Metadata](https://lehkost.github.io/slides/2025-04-04-potsdam/index.html)
 
 <small>2025-03-05 · Bielefeld University 🇩🇪 ([DHd2025](https://dhd2025.dig-hum.de/?page_id=8))</small><br />
 [»999 und noch etliche \[mehr\]«. Georg Nikolaus Bärmanns Würfel-Almanach von 1829 als Web-App](https://lehkost.github.io/slides/2025-03-05-bielefeld-dhd-999/index.html)
@@ -64,7 +64,7 @@ Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik (DraCor,
 [Programmable Corpora and Network Analysis](https://lehkost.github.io/slides/2024-06-11-vienna-cls-infra/index.html)
 
 <small>2024-06-10 · ACDH-CH OEAW (Vienna) 🇦🇹 ([CLS INFRA Training School](https://clsinfra.io/events/training-school/))</small><br />
-[Introducing DraCor](https://lehkost.github.io/slides/2024-06-10-vienna-dracor/index.html)
+[Introducing DraCor](https://lehkost.github.io/slides/2024-06-10-vienna-dracor/index.html) ([PDF](https://doi.org/10.5281/zenodo.15112759))
 
 <small>2024-05-02 · University of Rostock 🇩🇪 ([Ringvorlesung des #RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
 [Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute](https://lehkost.github.io/slides/2024-05-02-rosdh/index.html) ([PDF](https://zenodo.org/doi/10.5281/zenodo.13143161)) ([recap](https://dhimfokus.hypotheses.org/1700))
