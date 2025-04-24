@@ -587,7 +587,7 @@ title: Publications
     im Kontext der Medien. Würzburg: Königshausen & Neumann 2007, pp. 271--280.
     ([doi:10.5281/zenodo.11046338](https://doi.org/10.5281/zenodo.11046338))
 
-#### Reviews
+### Reviews
 
 -   Laura Untner, Viktor J. Illmer, Frank Fischer, Jonah Lubin:
     **Conference Report, »Linked Open Data and Literary Studies«
@@ -623,3 +623,15 @@ title: Publications
     »Novalis -- Das Werk und seine Editoren«\].** In: IASLonline, 26
     November 2003. (URL:
     <https://www.iaslonline.lmu.de/index.php?vorgang_id=2066>)
+
+### Portraits and Interviews
+
+-   [»Was die Geisteswissenschaft von der Informatik lernen kann –
+    und umgekehrt!«](https://archive.newsletter2go.com/?n2g=k78op17b-54vogfoy-s7)
+    In: Chefs von Devs. (Interview series.) golem.de, 10 April 2025.
+-   [»Open Science ist eine Kultur, die wachsen muss.«](https://www.fu-berlin.de/campusleben/forschen/2025/250114-open-access/index.html)
+    In: campus.leben. Das Online-Magazin der Freien Universität Berlin,
+    13 January 2025.
+-   Pepe Egger: [Digital Humanities: Einen Roman lesen – oder 3000
+    lesen lassen?]https://www.tagesspiegel.de/themenspeziale/bildungundforschung/einen-roman-lesen-oder-gleich-3000-lesen-lassen-12461174.html
+    In: Tagesspiegel, 4 October 2024.

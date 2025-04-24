@@ -7,7 +7,19 @@ Invited talks, conference, workshop slides, introductions.
 
 ### 2025
 
-<small>2025-06-2x · Madrid 🇪🇸 ([Literatura, teatro e inteligencia artificial](https://www.resad.es/convocatorias/diciembre24/20250609_Seminario-Internacional-LITERATURA-TEATRO-E-IA.pdf))</small><br />
+<small>2025-07-18 · Universidade NOVA de Lisboa 🇵🇹 ([DH2025](https://www.conftool.pro/dh2025/sessions.php))</small><br />
+Introducing iberz, a Database of Yiddish Translations
+
+<small>2025-07-17 · Universidade NOVA de Lisboa 🇵🇹 ([DH2025](https://www.conftool.pro/dh2025/sessions.php))</small><br />
+Towards Modularised Open Infrastructures: Enhancing Research Publications in Digital Humanities – »Detecting Small Worlds« as an Example
+
+<small>2025-07-17 · Universidade NOVA de Lisboa 🇵🇹 ([DH2025](https://www.conftool.pro/dh2025/sessions.php))</small><br />
+Collation of Multilingual Versions of a Text: Necessity, Approach, Challenges
+
+<small>2025-07-16 · Universidade NOVA de Lisboa 🇵🇹 ([DH2025](https://www.conftool.pro/dh2025/sessions.php))</small><br />
+Wikipedia as an Echo Chamber of Canonicity: »1001 Books You Must Read Before You Die«
+
+<small>2025-06-27 · Madrid 🇪🇸 ([Literatura, teatro e inteligencia artificial](https://www.resad.es/convocatorias/diciembre24/20250609_Seminario-Internacional-LITERATURA-TEATRO-E-IA.pdf))</small><br />
 DraCor y escenarios de uso para la Inteligencia Artificial
 
 <small>2025-04-04 · University of Potsdam 🇩🇪 ([»Text as Data« Spring School in Digital Humanities](https://www.uni-potsdam.de/de/digital-humanities/aktivitaeten/potsdam-dh-school-2025))</small><br />
