@@ -628,10 +628,10 @@ title: Publications
 
 -   [»Was die Geisteswissenschaft von der Informatik lernen kann –
     und umgekehrt!«](https://archive.newsletter2go.com/?n2g=k78op17b-54vogfoy-s7)
-    In: Chefs von Devs. (Interview series.) golem.de, 10 April 2025.
+    In: Chefs von Devs #67. (Interview series.) golem.de, 10 April 2025.
 -   [»Open Science ist eine Kultur, die wachsen muss.«](https://www.fu-berlin.de/campusleben/forschen/2025/250114-open-access/index.html)
     In: campus.leben. Das Online-Magazin der Freien Universität Berlin,
     13 January 2025.
--   Pepe Egger: [Digital Humanities: Einen Roman lesen – oder 3000
-    lesen lassen?]https://www.tagesspiegel.de/themenspeziale/bildungundforschung/einen-roman-lesen-oder-gleich-3000-lesen-lassen-12461174.html
+-   Pepe Egger: [Digital Humanities: Einen Roman lesen – oder 3000 lesen
+    lassen?](https://www.tagesspiegel.de/themenspeziale/bildungundforschung/einen-roman-lesen-oder-gleich-3000-lesen-lassen-12461174.html)
     In: Tagesspiegel, 4 October 2024.
