@@ -7,6 +7,9 @@ Invited talks, conference, workshop slides, introductions.
 
 ### 2025
 
+<small>2025-09-30 · University of Oxford 🇬🇧 ([4th symposium of the Oxford Berlin Research Partnership](https://www.berlin-university-alliance.de/en/commitments/international/oxford/termine/250930-symposium-innovation.html))</small><br />
+Participation in ›Panel 2: Innovation, AI and the Arts‹
+
 <small>2025-07-18 · Universidade NOVA de Lisboa 🇵🇹 ([DH2025](https://www.conftool.pro/dh2025/sessions.php))</small><br />
 Introducing iberz, a Database of Yiddish Translations
 
@@ -21,6 +24,9 @@ Wikipedia as an Echo Chamber of Canonicity: »1001 Books You Must Read Before Yo
 
 <small>2025-06-27 · Madrid 🇪🇸 ([Literatura, teatro e inteligencia artificial](https://www.resad.es/convocatorias/diciembre24/20250609_Seminario-Internacional-LITERATURA-TEATRO-E-IA.pdf))</small><br />
 DraCor y escenarios de uso para la Inteligencia Artificial
+
+<small>2025-05-23 · Freie Universität Berlin 🇩🇪 ([Netzwerk Frühe Neuzeit](https://www.fu-berlin.de/sites/dhc/nachwuchs/dhc-netzwerke/Fruehe-Neuzeit/index.html))</small><br />
+[Delegitimierte Autorschaft](https://lehkost.github.io/slides/2025-05-23-delegitimation/index.html)
 
 <small>2025-04-04 · University of Potsdam 🇩🇪 ([»Text as Data« Spring School in Digital Humanities](https://www.uni-potsdam.de/de/digital-humanities/aktivitaeten/potsdam-dh-school-2025))</small><br />
 [Working With Programmable Corpora and Rich Metadata](https://lehkost.github.io/slides/2025-04-04-potsdam/index.html)

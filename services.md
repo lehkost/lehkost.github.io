@@ -22,8 +22,8 @@ title: Committees/Services
 * [TEI2024, Buenos Aires](https://tei2024.tei-c.org/)
 * [DSE (micro)communities of practices 2024, Warsaw](https://dse-communities.nplp.pl/programme-committee)
 * [LODaLS 2024, FU Berlin](https://www.temporal-communities.de/events/2024/conference-linked-open-data.html) (chair)
-* [EXC 2020 Annual Conference 2025](https://www.temporal-communities.de/explore/annual-conferences/index.html)
-* [DraCor Summit 2025](https://dracor-org.github.io/dracor-summit/)
+* [EXC2020 Annual Conference 2025](https://www.temporal-communities.de/explore/listen-read-watch/futures-of-doing-literature/index.html)
+* [DraCor Summit 2025](https://summit.dracor.org/)
 
 ### Board Memberships, Editorial Work, Review Activities
 * [IASLonline, »Digital Literary Studies« section](http://www.iaslonline.de/) (editor, 2016–2022)
