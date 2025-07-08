@@ -56,6 +56,12 @@ title: Publications
 
 #### Forthcoming
 
+-   Viktor J. Illmer, Nele Heindorf, Roya Zendebudie, Mark Schwindt, Frank Fischer:
+    **Generating TEI Documents Through a Game of Dice.** In: TEI2025: »New
+    Territories«. 18–20 September 2025. Kraków. Book of Abstracts.
+-   Frank Fischer, Julia Havrylash, Daniil Skorinkin, Mark Schwindt: **Introducing
+    UDraCor, the Ukrainian Drama Corpus in TEI.** In: TEI2025: »New Territories«.
+    18–20 September 2025. Kraków. Book of Abstracts.
 -   Jonas Rohe, Viktor J. Illmer, Lisa Poggel, Frank Fischer: **Wikipedia as an
     Echo Chamber of Canonicity: 1001 Books You Must Read Before You Die.** In:
     DH2025: »Accessibility and Citizenship«. 14--18 July 2025. Universidade

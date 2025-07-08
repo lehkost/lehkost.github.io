@@ -16,14 +16,14 @@ title: Committees/Services
 * [DHN2020, Riga (Workshop Twin Talks 2)](https://www.clarin.eu/event/2020/twintalksdhn2020)
 * [DH2020, Ottawa (Workshop Twin Talks 3)](https://www.clarin.eu/event/2020/twintalksdh2020)
 * [DARIAH2021](https://dariah-2021.sciencesconf.org/) (chair)
-* [EADH2021, Krasnoyarsk](https://eadh2020-2021.org/about/program-committee/)
+* [EADH2021, Krasnoyarsk](https://web.archive.org/web/20210723192448/https://eadh2020-2021.org/about/program-committee/)
 * [WWWLIT 2023, FU Berlin](https://www.temporal-communities.de/events/international-workshop-wikipedia-wikidata-wikibase.html) (chair) ([review](https://www.hsozkult.de/conferencereport/id/fdkn-142913))
 * [Rahtz Prize for TEI Ingenuity 2024](https://tei-c.org/activities/rahtz-prize-for-tei-ingenuity/) (award panel)
 * [TEI2024, Buenos Aires](https://tei2024.tei-c.org/)
 * [DSE (micro)communities of practices 2024, Warsaw](https://dse-communities.nplp.pl/programme-committee)
-* [LODaLS 2024, FU Berlin](https://www.temporal-communities.de/events/2024/conference-linked-open-data.html) (chair)
-* [EXC2020 Annual Conference 2025](https://www.temporal-communities.de/explore/listen-read-watch/futures-of-doing-literature/index.html)
-* [DraCor Summit 2025](https://summit.dracor.org/)
+* [LODaLS 2024, FU Berlin](https://www.temporal-communities.de/events/2024/conference-linked-open-data.html) (chair) ([review](https://www.hsozkult.de/conferencereport/id/fdkn-153755))
+* [EXC2020 Annual Conference 2025, Berlin](https://www.temporal-communities.de/explore/listen-read-watch/futures-of-doing-literature/index.html)
+* [DraCor Summit 2025, FU Berlin](https://summit.dracor.org/)
 
 ### Board Memberships, Editorial Work, Review Activities
 * [IASLonline, »Digital Literary Studies« section](http://www.iaslonline.de/) (editor, 2016–2022)
@@ -32,6 +32,8 @@ title: Committees/Services
 * [JCLS (Journal of Computational Literary Studies)](https://jcls.io/editorialteam/) (board, 2021–)
 * [LINDAT/CLARIAH-CZ](https://web.archive.org/web/20230219124217/https://lindat.cz/ab) 🇨🇿 (board, 2021–2024)
 * [RosDH (Rostocker Arbeitskreis Digital Humanities)](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/) (associated member, 2023–)
+* [Potsdamer Netzwerk für Digitale Geisteswissenschaften](https://www.uni-potsdam.de/digital-humanities/) (associated member, 2025–)
+* [BBAW, Kommission Literaturwissenschaften](https://www.bbaw.de/die-akademie/organe-und-gremien/betreuungskommissionen-fuer-die-akademienvorhaben) (member, 2025–2027)
 
 ### Scientific Consultancy
 * Agence nationale de la recherche (ANR) 🇫🇷

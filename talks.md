@@ -20,9 +20,15 @@ Towards Modularised Open Infrastructures: Enhancing Research Publications in Dig
 Collation of Multilingual Versions of a Text: Necessity, Approach, Challenges
 
 <small>2025-07-16 · Universidade NOVA de Lisboa 🇵🇹 ([DH2025](https://www.conftool.pro/dh2025/sessions.php))</small><br />
-Wikipedia as an Echo Chamber of Canonicity: »1001 Books You Must Read Before You Die«
+[Wikipedia as an Echo Chamber of Canonicity: »1001 Books You Must Read Before You Die«](https://lehkost.github.io/slides/2025-07-16-lisbon-1001-books/index.html)
 
-<small>2025-06-27 · Madrid 🇪🇸 ([Literatura, teatro e inteligencia artificial](https://www.resad.es/convocatorias/diciembre24/20250609_Seminario-Internacional-LITERATURA-TEATRO-E-IA.pdf))</small><br />
+<small>2025-07-01 · Freie Universität Berlin 🇩🇪 ([uni.vers@geisteswissenschaften](https://www.geisteswissenschaften.fu-berlin.de/studium/uni-vers/index.html))</small><br />
+[Battle of the Plays – Netzwerkanalyse dramatischer Texte … als Spiel](https://lehkost.github.io/slides/2025-07-01-battle-of-the-plays/index.html)
+
+<small>2025-06-28 · Freie Universität Berlin 🇩🇪 ([Lange Nacht der Wissenschaften 2025](https://www.fu-berlin.de/en/sites/dhc/programme/termine/2025-06-28_LNWD_2025.html))</small><br />
+Digital Humanities @ Café Geisteswissenschaften
+
+<small>2025-06-27 · Madrid 🇪🇸 ([Literatura, teatro e inteligencia artificial](https://www.uned.es/universidad/inicio/en/dam/jcr:0dd43135-89a0-4702-a1d9-345b3f0a4e5a/Programa%2034%20Seminario.pdf))</small><br />
 DraCor y escenarios de uso para la Inteligencia Artificial
 
 <small>2025-05-23 · Freie Universität Berlin 🇩🇪 ([Netzwerk Frühe Neuzeit](https://www.fu-berlin.de/sites/dhc/nachwuchs/dhc-netzwerke/Fruehe-Neuzeit/index.html))</small><br />
@@ -117,7 +123,7 @@ Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik (DraCor,
 [Querying the Wikipedia API to Explore the Positioning of Authors and Works: A Jupyter Notebook Walkthrough](https://github.com/temporal-communities/wiki-literature)
 
 <small>2023-10-10 · Freie Universität Berlin 🇩🇪 ([»Wikipedia, Wikidata and Wikibase: Usage Scenarios for Literary Studies«](https://www.temporal-communities.de/events/international-workshop-wikipedia-wikidata-wikibase.html))</small><br />
-[Opening Remarks and Introduction](https://lehkost.github.io/slides/2023-10-10-wwwlit-intro/) ([Mastodon](https://chaos.social/@umblaetterer/111210080192828977)) ([Twitter](https://twitter.com/umblaetterer/status/1711678645993889886))
+[Opening Remarks and Introduction](https://lehkost.github.io/slides/2023-10-10-wwwlit-intro/) ([Mastodon](https://chaos.social/@umblaetterer/111210080192828977)) ([Twitter, via archive.org](https://web.archive.org/web/20231022202011/https://twitter.com/umblaetterer/status/1711678645993889886))
 
 <small>2023-09-11 · Freie Universität Berlin 🇩🇪 ([DraCor Onboarding Workshop for Hebrew and Yiddish Drama](https://www.ada.fu-berlin.de/kalender/HeDraCorWorkshop.html))</small><br />
 [What Is DraCor? (Kick-Off Presentation)](https://lehkost.github.io/slides/2023-09-11-dracor/index.html)
@@ -202,7 +208,7 @@ CLS INFRA-WP7 Kick-Off Meeting
 [Modelling Drama in a Digital Ecosystem](https://lehkost.github.io/slides/2021-11-04-ra5/index.html)
 
 <small>2021-11-03 · Eötvös Loránd University, Budapest 🇭🇺 ([Drámák a Mátrixban](https://www.elte.hu/content/dramak-a-matrixban.e.14110))</small><br />
-[Introducing the Hungarian Drama Corpus (HunDraCor)](https://lehkost.github.io/slides/2021-11-03-hundracor/index.html) ([Twitter](https://twitter.com/umblaetterer/status/1454019018508144644))
+[Introducing the Hungarian Drama Corpus (HunDraCor)](https://lehkost.github.io/slides/2021-11-03-hundracor/index.html) ([Twitter, via archive.org](https://web.archive.org/web/20211029093834/https://twitter.com/umblaetterer/status/1454019018508144644))
 
 <small>2021-10-28 · Berlin 🇩🇪 ([Kolloquium »Phänomenologie der Digital Humanities«](https://wikis.fu-berlin.de/display/phaenodh))</small><br />
 Wie funktioniert eigentlich Forschung in den Digital Humanities?
@@ -226,7 +232,7 @@ How to Get 90,000 Readers Interested in Digital Humanities: Experiences with [»
 [Digital Humanities zwischen Technologie und Interpretation](https://lehkost.github.io/slides/2021-09-12-erlangen/index.html)
 
 <small>2021-07-22 · (virtual) 🇺🇸 ([ACH2021](https://ach2021.ach.org/))</small><br />
-[Who Needs Tool Directories? A Forum on Sustaining Discovery Portals Large and Small](https://twitter.com/umblaetterer/status/1410612207663017998)
+[Who Needs Tool Directories? A Forum on Sustaining Discovery Portals Large and Small](https://web.archive.org/web/20210705142227/https://twitter.com/umblaetterer/status/1410612207663017998)
 
 <small>2021-06-18 · DLA Marbach (virtual) 🇩🇪 ([»Poesie-Hackathon«: Schiller, Hölderlin, Mörike, Celan](https://www.fontanearchiv.de/forschung/tfalab/ein-poesie-hackathon-schiller-hoelderlin-moerike-celan))</small><br />
 [Neural Reading – Zur Analyse computergenerierter Poesie](https://lehkost.github.io/slides/2021-06-18-dla-marbach/index.html)
@@ -242,6 +248,9 @@ How to Get 90,000 Readers Interested in Digital Humanities: Experiences with [»
 
 <small>2021-02-26 · University of Wuppertal (virtual) 🇩🇪 ([Digitale Editionen – Masterclass](https://www.i-d-e.de/aktivitaeten/schools/winter-school-2021-wuppertal/))</small><br />
 Nachnutzung und Analyse: CATMA und DraCor
+
+<small>2021-02-15 · University of Vechta (virtual) 🇩🇪</small><br />
+[Korpus und Umwelt: Perspektiven der digitalen Kulturwissenschaften](https://lehkost.github.io/slides/2021-02-15-vechta/index.html)
 
 <small>2021-01-09 · University of Leipzig, Institute for Theatre Studies (virtual) 🇩🇪 ([Workshop](https://www.gko.uni-leipzig.de/institut-fuer-theaterwissenschaft/praxis/szenische-projekte-workshops/#c384167))</small><br />
 [DraCor: Dramenanalyse digital](https://lehkost.github.io/slides/2021-01-09-leipzig/index.html)
@@ -272,7 +281,7 @@ Nachnutzung und Analyse: CATMA und DraCor
 <small>2020-10-02 · Indiana University Bloomington (virtual) 🇺🇸 ([Russian Studies Workshop](https://rsw.indiana.edu/graduate-training/graduate-methods-training-workshop/gmtw2020/))</small><br />
 [Digital Humanities Research Methods in Russian Studies](/slides/2020-10-02-indiana/index.html)
 
-<small>2020-07-02 · TU Darmstadt 🇩🇪</small><br />
+<small>2020-07-02 · TU Darmstadt (virtual) 🇩🇪</small><br />
 [Namen als Signale: Geisteswissenschaftliche Daten in der Praxis](/slides/2020-07-02-darmstadt/index.html)
 
 <small>2020-03-05 · Paderborn University 🇩🇪 ([DHd2020](https://dhd2020.de/))</small><br />
@@ -287,13 +296,13 @@ Nachnutzung und Analyse: CATMA und DraCor
 »A Buster Keaton of Linguistics«: First Automated Approaches for the Extraction of Vossian Antonomasia ([abstract](https://www.aclweb.org/anthology/D19-1647.pdf))
 
 <small>2019-10-25 · Toledo 🇪🇸 ([HDH2019](https://eventos.uclm.es/24964/detail/iv-congreso-internacional-de-la-asociacion-de-humanidades-digitales-hispanicas.html))</small><br />
-[Una perspectiva comparativa del teatro español: integración de la »Biblioteca Electrónica Textual del Teatro en Español« en la plataforma »DraCor«](/slides/pdf/2019-10-25_DraCor_BETTE_-_HDH2019.pdf) ([Twitter](https://twitter.com/umblaetterer/status/1187680908901539841))
+[Una perspectiva comparativa del teatro español: integración de la »Biblioteca Electrónica Textual del Teatro en Español« en la plataforma »DraCor«](/slides/pdf/2019-10-25_DraCor_BETTE_-_HDH2019.pdf) ([Twitter, via archive.org](https://web.archive.org/web/20191025111742/https://twitter.com/umblaetterer/status/1187680908901539841))
 
-<small>2019-10-22 · Madrid 🇪🇸 ([Seminarios de Humanidades Digitales](https://twitter.com/ale_ulla/status/1174695569652142080))</small><br />
+<small>2019-10-22 · Madrid 🇪🇸 ([Seminarios de Humanidades Digitales](https://web.archive.org/web/20190919153158/https://twitter.com/ale_ulla/status/1174695569652142080))</small><br />
 [Humanidades Digitales en Europa entre Investigación e Infraestructura](/slides/2019-10-22-madrid/index.html)
 
 <small>2019-10-19 · Voronovo 🇷🇺 ([4th Moscow-Tartu Digital Humanities School](https://hum.hse.ru/digital/school2019))</small><br />
-Слова и сети -- Цифровые подходы к русской литературе ([Twitter](https://twitter.com/umblaetterer/status/1185566092804141056))
+Слова и сети -- Цифровые подходы к русской литературе ([Twitter, via archive.org](https://web.archive.org/web/20191019182646/https://twitter.com/umblaetterer/status/1185566092804141056))
 
 <small>2019-10-14 · Florence 🇮🇹 ([2nd SSHOC Consortium Meeting](http://www.e-rihs.eu/sshoc-social-sciences-humanities-open-cloud-2nd-consortium-meeting-florence-october-14-15/))</small><br />
 Working Together in SSHOC (Social Sciences & Humanities Open Cloud)
@@ -468,7 +477,7 @@ Ein Quantum Literatur -- Empirische Daten zu einer Theorie des literarischen Tex
 [»Der Helmut Kohl unter den Brotaufstrichen«. Zur Extraktion Vossianischer Antonomasien aus großen Zeitungskorpora](/slides/2017-bern/index.html)
 
 <small>2017-01-17 · Turin 🇮🇹 ([Distant Reading and Data-Driven Research in the History of Philosophy](http://www.filosofia.unito.it/dr2/))</small><br />
-Grepping Aquinas: Reading from the Middle Distance ([Twitter](https://twitter.com/umblaetterer/status/821415624861777920))
+Grepping Aquinas: Reading from the Middle Distance
 
 ### 2016
 
@@ -526,7 +535,7 @@ Fernlesen mit Foucault? -- Praxis und Reflexion der Digital Humanities aus liter
 [Digital Network Analysis of Dramatic Texts](https://dlina.github.io/presentations/2015-sydney/sydney.html)
 
 <small>2015-06-01 · Göttingen 🇩🇪 ([Abschlusskonferenz](https://www.hsozkult.de/searching/id/termine-27898))</small><br />
-\#DigitalHumanities in der Praxis: Ergebnisse aus drei Jahren Forschung am Göttingen Centre for Digital Humanities ([\#DHinPraxis](https://twitter.com/search?q=%23DHinPraxis&src=typed_query&f=live))
+\#DigitalHumanities in der Praxis: Ergebnisse aus drei Jahren Forschung am Göttingen Centre for Digital Humanities (\#DHinPraxis)
 
 <small>2015-05-21 · Cologne 🇩🇪 ([DH Colloquium](https://cceh.uni-koeln.de/2015/05/13/die-deutsche-literatur-und-ihre-jahreszeiten-gastvortrag-von-frank-fischer-am-21-mai-2015/))</small><br />
 Die deutsche Literatur und ihre Jahreszeiten -- Korpusphilologie am Beispiel von Zeitausdrücken

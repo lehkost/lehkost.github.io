@@ -53,7 +53,6 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 ### Profiles
 * ORCID: [0000-0003-2419-6629](https://orcid.org/0000-0003-2419-6629)
 * GitHub: [lehkost](https://github.com/lehkost)
-* Twitter: [@umblaetterer](https://twitter.com/umblaetterer) (inactive)
 * Mastodon: <a rel="me" href="https://chaos.social/@umblaetterer">@umblaetterer@chaos.social</a>
 * Bluesky: [@umblaetterer.bsky.social](https://bsky.app/profile/umblaetterer.bsky.social)
 * dblp: [13/3984-5](https://dblp.org/pid/13/3984-5)

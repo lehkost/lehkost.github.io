@@ -55,8 +55,8 @@ Raciti, Sally Chambers, Joke Daems, Piraye Hacigüzeller, Kathleen Smith,
 Glen Worthey, Abigail Potter, Meghan Ferriter, Kylie Brass, Rowan
 Brownlee, Alexis Tindall:*\
 **DARIAH Beyond Europe (DH2019, Utrecht)**\
-[hal](https://hal.archives-ouvertes.fr/hal-02317079) (poster) ·
-[clariah.nl](https://dev.clariah.nl/files/dh2019/boa/1029.html)
+[hal-02317079](https://hal.science/hal-02317079) (poster) ·
+[clariah.nl](https://web.archive.org/web/20210924205429/https://dev.clariah.nl/files/dh2019/boa/1029.html)
 (abstract)
 
 *Jens Bjerring-Hansen, Frank Fischer, Torben Jelsbak, Nicolai Hartvig
@@ -151,3 +151,7 @@ Ingo Börner, Frank Fischer, Peer Trilcke:*\
 **Introducing AmDraCor: A Digital Resource for the Study of American
 Drama (DH2024, Arlington, VA)**\
 [zenodo](https://doi.org/10.5281/zenodo.13340325) (poster)
+
+*Julie M. Birkholz, Ingo Börner, Floor Buschenhenke, Joanna Byszuk, Sally Chambers, Vera Maria Charvat, Silvie Cinková, Tess Dejaeghere, Anna Dijkstra, Julia Dudar, Matej Ďurčo, Maciej Eder, Jennifer Edmond, Evgeniia Fileva, Frank Fischer, Vicky Garnett, Françoise Gouzi, Serge Heiden, Sarah Hoover, Michal Kren, Bartłomiej Kunda, Els Lefever, Michal Mrugalski, Ciara L. Murphy, Carolin Odebrecht, Eliza Papaki, Marco Raciti, Emily Ridge, Salvador Ros, Christof Schöch, Artjoms Šeļa, Toma Tasovac, Justin Tonra, Erzsébet Tóth-Czifra, Peer Trilcke, Karina van Dalen-Oskam, Vera Yakupova, Joris J. van Zundert:*\
+**CLS INFRA: Leveraging Literary Methods for FAIR(er) Science (DH2025, Lisbon)**\
+[hal-05098718](https://hal.science/hal-05098718) (poster)
