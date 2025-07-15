@@ -10,8 +10,14 @@ Invited talks, conference, workshop slides, introductions.
 <small>2025-09-30 · University of Oxford 🇬🇧 ([4th symposium of the Oxford Berlin Research Partnership](https://www.berlin-university-alliance.de/en/commitments/international/oxford/termine/250930-symposium-innovation.html))</small><br />
 Participation in ›Panel 2: Innovation, AI and the Arts‹
 
+<small>2025-09-18 · Kraków 🇵🇱 ([TEI2025](https://tei2025.confer.uj.edu.pl/))</small><br />
+Generating TEI Documents Through a Game of Dice
+
+<small>2025-09-17 · Kraków 🇵🇱 ([TEI2025](https://tei2025.confer.uj.edu.pl/))</small><br />
+Introducing UDraCor: the Ukrainian Drama Corpus in TEI
+
 <small>2025-07-18 · Universidade NOVA de Lisboa 🇵🇹 ([DH2025](https://www.conftool.pro/dh2025/sessions.php))</small><br />
-Introducing iberz, a Database of Yiddish Translations
+[Introducing *iberz*, a Database of Yiddish Translations](https://sreyfe.github.io/slides/2025-07-18-lisbon-iberz/)
 
 <small>2025-07-17 · Universidade NOVA de Lisboa 🇵🇹 ([DH2025](https://www.conftool.pro/dh2025/sessions.php))</small><br />
 Towards Modularised Open Infrastructures: Enhancing Research Publications in Digital Humanities – »Detecting Small Worlds« as an Example
@@ -21,6 +27,12 @@ Collation of Multilingual Versions of a Text: Necessity, Approach, Challenges
 
 <small>2025-07-16 · Universidade NOVA de Lisboa 🇵🇹 ([DH2025](https://www.conftool.pro/dh2025/sessions.php))</small><br />
 [Wikipedia as an Echo Chamber of Canonicity: »1001 Books You Must Read Before You Die«](https://lehkost.github.io/slides/2025-07-16-lisbon-1001-books/index.html)
+
+<small>2025-07-09 · [silent green](https://www.silent-green.net/) 🇩🇪 ([Futures of Doing Literature](https://www.temporal-communities.de/explore/listen-read-watch/futures-of-doing-literature/index.html))</small><br />
+[Panel: Hierarchies of the Past, Entanglements of the Future](https://www.temporal-communities.de/explore/listen-read-watch/futures-of-doing-literature/panel-hierarchies-of-the-past/index.html) (Chair)
+
+<small>2025-07-08 · Freie Universität Berlin 🇩🇪 (Info-Treffen der [Open Science Working Group](https://www.fu-berlin.de/sites/open-science/index.html))</small><br />
+Open Science an der FU – Mitdenken, Mitgestalten, Mitwirken
 
 <small>2025-07-01 · Freie Universität Berlin 🇩🇪 ([uni.vers@geisteswissenschaften](https://www.geisteswissenschaften.fu-berlin.de/studium/uni-vers/index.html))</small><br />
 [Battle of the Plays – Netzwerkanalyse dramatischer Texte … als Spiel](https://lehkost.github.io/slides/2025-07-01-battle-of-the-plays/index.html)
