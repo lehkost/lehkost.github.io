@@ -7,6 +7,9 @@ Invited talks, conference, workshop slides, introductions.
 
 ### 2025
 
+<small>2025-12-11 · Witten/Herdecke University 🇩🇪 (Reading Artists’ Books: Problems for Computer)</small><br />
+On Nanni Balestrini: »Tape Mark I« (1961)
+
 <small>2025-09-30 · University of Oxford 🇬🇧 ([4th symposium of the Oxford Berlin Research Partnership](https://www.berlin-university-alliance.de/en/commitments/international/oxford/termine/250930-symposium-innovation.html))</small><br />
 Participation in ›Panel 2: Innovation, AI and the Arts‹
 
@@ -35,7 +38,7 @@ Collation of Multilingual Versions of a Text: Necessity, Approach, Challenges
 Open Science an der FU – Mitdenken, Mitgestalten, Mitwirken
 
 <small>2025-07-01 · Freie Universität Berlin 🇩🇪 ([uni.vers@geisteswissenschaften](https://www.geisteswissenschaften.fu-berlin.de/studium/uni-vers/index.html))</small><br />
-[Battle of the Plays – Netzwerkanalyse dramatischer Texte … als Spiel](https://lehkost.github.io/slides/2025-07-01-battle-of-the-plays/index.html)
+[Battle of the Plays – Netzwerkanalyse dramatischer Texte … als Spiel](https://lehkost.github.io/slides/2025-07-01-battle-of-the-plays/index.html) ([recap](https://www.temporal-communities.de/news/2025/battle-of-the-plays.html))
 
 <small>2025-06-28 · Freie Universität Berlin 🇩🇪 ([Lange Nacht der Wissenschaften 2025](https://www.fu-berlin.de/en/sites/dhc/programme/termine/2025-06-28_LNWD_2025.html))</small><br />
 Digital Humanities @ Café Geisteswissenschaften
