@@ -503,6 +503,9 @@ title: Publications
     13--18 February 2017. Book of Abstracts. University of Bern,
     pp. 175--180.
     ([doi:10.5281/zenodo.4622799](https://doi.org/10.5281/zenodo.4622799))
+-   Frank Fischer, Jannik Strötgen: Corpus of German-Language Fiction (txt).
+    In: Figshare, 6 January 2017. Dataset.
+    ([doi:10.6084/m9.figshare.4524680](https://doi.org/10.6084/m9.figshare.4524680))
 
 #### 2016
 
