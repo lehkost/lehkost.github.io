@@ -13,6 +13,9 @@ On Nanni Balestrini: »Tape Mark I« (1961)
 <small>2025-09-30 · University of Oxford 🇬🇧 ([4th symposium of the Oxford Berlin Research Partnership](https://www.berlin-university-alliance.de/en/commitments/international/oxford/termine/250930-symposium-innovation.html))</small><br />
 Participation in ›Panel 2: Innovation, AI and the Arts‹
 
+<small>2025-09-25 · Universität Rostock 🇩🇪 ([FORGE2025](https://www.forge25.uni-rostock.de/))</small><br />
+Ganz, halb oder gar nicht? Herausforderungen und Strategien bei der Veröffentlichung sensibler Forschungsdaten aus einem Literaturarchiv
+
 <small>2025-09-18 · Kraków 🇵🇱 ([TEI2025](https://tei2025.confer.uj.edu.pl/))</small><br />
 Generating TEI Documents Through a Game of Dice
 
@@ -540,7 +543,7 @@ Fernlesen mit Foucault? -- Praxis und Reflexion der Digital Humanities aus liter
 <small>2015-10-07 · Madrid 🇪🇸 ([HDH2015](http://hdh2015.linhd.es/))</small><br />
 [Un calendario de la literatura española (aplicación para Android e iOS)](https://dbs.ifi.uni-heidelberg.de/fileadmin/Team/jannik/hdh2015-madrid-slides.pdf) (PDF)
 
-<small>2015-09-16 · Hamburg 🇩🇪 ([FORGE 2015](https://www.fdm.uni-hamburg.de/ueber-uns/a-nachrichten/aktivitaeten/forge15.html))</small><br />
+<small>2015-09-16 · Hamburg 🇩🇪 ([FORGE2015](https://www.fdm.uni-hamburg.de/ueber-uns/a-nachrichten/aktivitaeten/forge15.html))</small><br />
 [Mehr als wegspeichern -- Das (Nach-)leben digitaler Forschungsdaten](http://humanities-data-centre.org/wp-content/uploads/PUBLIC_HDC_WS_Breakoutsession1_Fischer_Wuttke2015.pdf) (PDF)
 
 <small>2015-07-03 · Sydney 🇦🇺 (DH2015)</small><br />
