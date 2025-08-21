@@ -62,6 +62,14 @@ title: Publications
 -   Frank Fischer, Julia Havrylash, Daniil Skorinkin, Mark Schwindt: **Introducing
     UDraCor, the Ukrainian Drama Corpus in TEI.** In: TEI2025: »New Territories«.
     18–20 September 2025. Kraków. Book of Abstracts.
+
+#### 2025
+
+-   Peer Trilcke, Ingo Börner, Henny Sluyter-Gäthje, Daniil Skorinkin, Frank Fischer,
+    Carsten Milling: **Agentic DraCor and the Art of Docstring Engineering: Evaluating
+    MCP-empowered LLM Usage of the DraCor API.** In: DraCor Summit. 1–5 September 2025.
+    Book of Abstracts. Freie Universität Berlin/Potsdam University.
+    (Preprint: <https://www.arxiv.org/abs/2508.13774>)
 -   Jonas Rohe, Viktor J. Illmer, Lisa Poggel, Frank Fischer: **Wikipedia as an
     Echo Chamber of Canonicity: 1001 Books You Must Read Before You Die.** In:
     DH2025: »Accessibility and Citizenship«. 14--18 July 2025. Universidade
@@ -79,9 +87,6 @@ title: Publications
 -   Jonah Lubin, Frank Fischer: **Introducing iberz, a Database of Yiddish
     Translations.** In: DH2025: »Accessibility and Citizenship«. 14--18 July 2025.
     Universidade NOVA de Lisboa.
-
-#### 2025
-
 -   Viktor J. Illmer, Frank Fischer, Mark Schwindt, Jonas Rohe: **»999 und noch
     etliche \[mehr\]«. Georg Nikolaus Bärmanns »Würfel-Almanach« von 1829 als
     Web-App.** In: DHd2025: »Under Construction«. 3–7 March 2025. Book of

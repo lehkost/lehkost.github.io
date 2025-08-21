@@ -22,6 +22,9 @@ Generating TEI Documents Through a Game of Dice
 <small>2025-09-17 · Kraków 🇵🇱 ([TEI2025](https://tei2025.confer.uj.edu.pl/))</small><br />
 Introducing UDraCor: the Ukrainian Drama Corpus in TEI
 
+<small>2025-09-03 · Freie Universität Berlin 🇩🇪 (DraCor Summit: [Workshop on Computational Drama Analysis](https://summit.dracor.org/computational_drama_analysis))</small><br />
+Agentic DraCor and the Art of Docstring Engineering: Evaluating MCP-empowered LLM Usage of the DraCor API
+
 <small>2025-07-18 · Universidade NOVA de Lisboa 🇵🇹 ([DH2025](https://www.conftool.pro/dh2025/sessions.php))</small><br />
 [Introducing *iberz*, a Database of Yiddish Translations](https://sreyfe.github.io/slides/2025-07-18-lisbon-iberz/)
 
