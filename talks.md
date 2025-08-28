@@ -10,6 +10,9 @@ Invited talks, conference, workshop slides, introductions.
 <small>2025-12-11 · Witten/Herdecke University 🇩🇪 (Reading Artists’ Books: Problems for Computer)</small><br />
 On Nanni Balestrini: »Tape Mark I« (1961)
 
+<small>2025-10-13 · Humboldt-Universität zu Berlin 🇩🇪 ([Institut für Bibliotheks- und Informationswissenschaft](https://www.ibi.hu-berlin.de/))</small><br />
+DraCor, eine digitale Infrastruktur zur Erforschung der europäischen Dramengeschichte
+
 <small>2025-09-30 · University of Oxford 🇬🇧 ([4th symposium of the Oxford Berlin Research Partnership](https://www.berlin-university-alliance.de/en/commitments/international/oxford/termine/250930-symposium-innovation.html))</small><br />
 Participation in ›Panel 2: Innovation, AI and the Arts‹
 
@@ -24,6 +27,9 @@ Introducing UDraCor: the Ukrainian Drama Corpus in TEI
 
 <small>2025-09-03 · Freie Universität Berlin 🇩🇪 (DraCor Summit: [Workshop on Computational Drama Analysis](https://summit.dracor.org/computational_drama_analysis))</small><br />
 Agentic DraCor and the Art of Docstring Engineering: Evaluating MCP-empowered LLM Usage of the DraCor API
+
+<small>2025-09-01 · Freie Universität Berlin 🇩🇪 (DraCor Summit: [DraCorOS Training Sessions](https://summit.dracor.org/dracoros_training_sessions))</small><br />
+[Simple Analyses with DraCor Data](https://lehkost.github.io/slides/2025-09-01-dracor-simple/index.html)
 
 <small>2025-07-18 · Universidade NOVA de Lisboa 🇵🇹 ([DH2025](https://www.conftool.pro/dh2025/sessions.php))</small><br />
 [Introducing *iberz*, a Database of Yiddish Translations](https://sreyfe.github.io/slides/2025-07-18-lisbon-iberz/)
@@ -46,11 +52,11 @@ Open Science an der FU – Mitdenken, Mitgestalten, Mitwirken
 <small>2025-07-01 · Freie Universität Berlin 🇩🇪 ([uni.vers@geisteswissenschaften](https://www.geisteswissenschaften.fu-berlin.de/studium/uni-vers/index.html))</small><br />
 [Battle of the Plays – Netzwerkanalyse dramatischer Texte … als Spiel](https://lehkost.github.io/slides/2025-07-01-battle-of-the-plays/index.html) ([recap](https://www.temporal-communities.de/news/2025/battle-of-the-plays.html))
 
-<small>2025-06-28 · Freie Universität Berlin 🇩🇪 ([Lange Nacht der Wissenschaften 2025](https://www.fu-berlin.de/en/sites/dhc/programme/termine/2025-06-28_LNWD_2025.html))</small><br />
+<small>2025-06-28 · Freie Universität Berlin 🇩🇪 ([Lange Nacht der Wissenschaften 2025](https://www.fu-berlin.de/sites/dhc/news/2025-06-28_LNDW-2025.html))</small><br />
 Digital Humanities @ Café Geisteswissenschaften
 
 <small>2025-06-27 · Madrid 🇪🇸 ([Literatura, teatro e inteligencia artificial](https://www.uned.es/universidad/inicio/en/dam/jcr:0dd43135-89a0-4702-a1d9-345b3f0a4e5a/Programa%2034%20Seminario.pdf))</small><br />
-DraCor y escenarios de uso para la Inteligencia Artificial
+[DraCor y escenarios de uso para la Inteligencia Artificial](https://lehkost.github.io/slides/2025-06-27-teatro/index.html)
 
 <small>2025-05-23 · Freie Universität Berlin 🇩🇪 ([Netzwerk Frühe Neuzeit](https://www.fu-berlin.de/sites/dhc/nachwuchs/dhc-netzwerke/Fruehe-Neuzeit/index.html))</small><br />
 [Delegitimierte Autorschaft](https://lehkost.github.io/slides/2025-05-23-delegitimation/index.html)
