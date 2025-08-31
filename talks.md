@@ -13,7 +13,7 @@ On Nanni Balestrini: »Tape Mark I« (1961)
 <small>2025-10-13 · Humboldt-Universität zu Berlin 🇩🇪 ([Institut für Bibliotheks- und Informationswissenschaft](https://www.ibi.hu-berlin.de/))</small><br />
 DraCor, eine digitale Infrastruktur zur Erforschung der europäischen Dramengeschichte
 
-<small>2025-09-30 · University of Oxford 🇬🇧 ([4th symposium of the Oxford Berlin Research Partnership](https://www.berlin-university-alliance.de/en/commitments/international/oxford/termine/250930-symposium-innovation.html))</small><br />
+<small>2025-09-30 · University of Oxford 🇬🇧 ([4th symposium of the Oxford Berlin Research Partnership](https://www.berlin-university-alliance.de/en/commitments/international/oxford/termine/250930-symposium-innovation1.html))</small><br />
 Participation in ›Panel 2: Innovation, AI and the Arts‹
 
 <small>2025-09-25 · Universität Rostock 🇩🇪 ([FORGE2025](https://www.forge25.uni-rostock.de/))</small><br />
@@ -28,6 +28,15 @@ Introducing UDraCor: the Ukrainian Drama Corpus in TEI
 <small>2025-09-03 · Freie Universität Berlin 🇩🇪 (DraCor Summit: [Workshop on Computational Drama Analysis](https://summit.dracor.org/computational_drama_analysis))</small><br />
 Agentic DraCor and the Art of Docstring Engineering: Evaluating MCP-empowered LLM Usage of the DraCor API
 
+<small>2025-09-02 · Freie Universität Berlin 🇩🇪 (DraCor Summit: [DraCor Corpora Conference](https://summit.dracor.org/corpora_conference))</small><br />
+[ItaDraCor](https://lehkost.github.io/slides/2025-09-02-itadracor/index.html)
+
+<small>2025-09-02 · Freie Universität Berlin 🇩🇪 (DraCor Summit: [DraCor Corpora Conference](https://summit.dracor.org/corpora_conference))</small><br />
+[FreDraCor](https://lehkost.github.io/slides/2025-09-02-fredracor/index.html)
+
+<small>2025-09-02 · Freie Universität Berlin 🇩🇪 (DraCor Summit: [DraCor Corpora Conference](https://summit.dracor.org/corpora_conference))</small><br />
+[GerDraCor and RusDraCor](https://lehkost.github.io/slides/2025-09-02-gerdracor-rusdracor/index.html)
+
 <small>2025-09-01 · Freie Universität Berlin 🇩🇪 (DraCor Summit: [DraCorOS Training Sessions](https://summit.dracor.org/dracoros_training_sessions))</small><br />
 [Simple Analyses with DraCor Data](https://lehkost.github.io/slides/2025-09-01-dracor-simple/index.html)
 
@@ -35,7 +44,7 @@ Agentic DraCor and the Art of Docstring Engineering: Evaluating MCP-empowered LL
 [Introducing *iberz*, a Database of Yiddish Translations](https://sreyfe.github.io/slides/2025-07-18-lisbon-iberz/)
 
 <small>2025-07-17 · Universidade NOVA de Lisboa 🇵🇹 ([DH2025](https://www.conftool.pro/dh2025/sessions.php))</small><br />
-Towards Modularised Open Infrastructures: Enhancing Research Publications in Digital Humanities – »Detecting Small Worlds« as an Example
+[Towards Modularised Open Infrastructures: Enhancing Research Publications in Digital Humanities – »Detecting Small Worlds« as an Example](https://docs.google.com/presentation/d/1U8gykMkBrpwt24nvFDzhF6ypAMuaNYSVhYzw1MqBljM/edit?usp=sharing)
 
 <small>2025-07-17 · Universidade NOVA de Lisboa 🇵🇹 ([DH2025](https://www.conftool.pro/dh2025/sessions.php))</small><br />
 Collation of Multilingual Versions of a Text: Necessity, Approach, Challenges
