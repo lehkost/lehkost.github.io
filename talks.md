@@ -16,7 +16,7 @@ DraCor, eine digitale Infrastruktur zur Erforschung der europäischen Dramengesc
 <small>2025-09-30 · University of Oxford 🇬🇧 ([4th symposium of the Oxford Berlin Research Partnership](https://www.berlin-university-alliance.de/en/commitments/international/oxford/termine/250930-symposium-innovation1.html))</small><br />
 Participation in ›Panel 2: Innovation, AI and the Arts‹
 
-<small>2025-09-25 · Universität Rostock 🇩🇪 ([FORGE2025](https://www.forge25.uni-rostock.de/))</small><br />
+<small>2025-09-25 · University of Rostock 🇩🇪 ([FORGE25](https://www.forge25.uni-rostock.de/))</small><br />
 Ganz, halb oder gar nicht? Herausforderungen und Strategien bei der Veröffentlichung sensibler Forschungsdaten aus einem Literaturarchiv
 
 <small>2025-09-18 · Kraków 🇵🇱 ([TEI2025](https://tei2025.confer.uj.edu.pl/))</small><br />
@@ -68,7 +68,7 @@ Digital Humanities @ Café Geisteswissenschaften
 [DraCor y escenarios de uso para la Inteligencia Artificial](https://lehkost.github.io/slides/2025-06-27-teatro/index.html)
 
 <small>2025-05-23 · Freie Universität Berlin 🇩🇪 ([Netzwerk Frühe Neuzeit](https://www.fu-berlin.de/sites/dhc/nachwuchs/dhc-netzwerke/Fruehe-Neuzeit/index.html))</small><br />
-[Delegitimierte Autorschaft](https://lehkost.github.io/slides/2025-05-23-delegitimation/index.html)
+[Delegitimierte Autorschaft: Holberg, Lessing, Albrecht](https://lehkost.github.io/slides/2025-05-23-delegitimation/index.html)
 
 <small>2025-04-04 · University of Potsdam 🇩🇪 ([»Text as Data« Spring School in Digital Humanities](https://www.uni-potsdam.de/de/digital-humanities/aktivitaeten/potsdam-dh-school-2025))</small><br />
 [Working With Programmable Corpora and Rich Metadata](https://lehkost.github.io/slides/2025-04-04-potsdam/index.html)

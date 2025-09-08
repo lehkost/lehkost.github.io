@@ -56,6 +56,10 @@ title: Publications
 
 #### Forthcoming
 
+-   Viktor J. Illmer, Frank Fischer: **Ganz, halb oder gar nicht? Herausforderungen
+    und Strategien bei der Veröffentlichung sensibler Forschungsdaten aus einem
+    Literaturarchiv.** In: FORGE25: »Daten neu denken«. 24–26 September 2025.
+    University of Rostock. Book of Abstracts.
 -   Viktor J. Illmer, Nele Heindorf, Roya Zendebudie, Mark Schwindt, Frank Fischer:
     **Generating TEI Documents Through a Game of Dice.** In: TEI2025: »New
     Territories«. 18–20 September 2025. Kraków. Book of Abstracts.
@@ -272,6 +276,7 @@ title: Publications
     Scenarios Based on the Annotation of Kinship and Social Relations.**
     In: EADH2021: »Interdisciplinary Perspectives on Data«.
     21--25 September 2021. Siberian Federal University, Krasnoyarsk.
+    ([doi:10.5281/zenodo.17079865](https://doi.org/10.5281/zenodo.17079865))
 -   Frank Fischer, Manuel Burghardt, Jan Luhmann, Laure Barbot, Yoann
     Moranville, Alireza Zarei: **Die Werkbänke der Digital Humanities:
     Zur Rolle von Tools und Software für die Forschungsarbeit.**
@@ -434,7 +439,7 @@ title: Publications
     Structure, Case Studies.** In: Computational Linguistics and
     Intellectual Technologies. Proceedings of the International
     Conference »Dialogue 2018«. 30 May---2 June 2018. Moscow. (URL:
-    <http://www.dialog-21.ru/media/4332/skorinkind.pdf>)
+    <https://publications.hse.ru/pubs/share/direct/220818959.pdf>)
 -   Frank Fischer, Robert Jäschke: **Liebe und Tod in der Deutschen
     Nationalbibliothek: Der DNB-Katalog als Forschungsobjekt der
     digitalen Literaturwissenschaft.** In: DHd2018: »Kritik der
