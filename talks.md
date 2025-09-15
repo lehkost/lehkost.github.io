@@ -20,7 +20,7 @@ Participation in ›Panel 2: Innovation, AI and the Arts‹
 Ganz, halb oder gar nicht? Herausforderungen und Strategien bei der Veröffentlichung sensibler Forschungsdaten aus einem Literaturarchiv
 
 <small>2025-09-18 · Kraków 🇵🇱 ([TEI2025](https://tei2025.confer.uj.edu.pl/))</small><br />
-Generating TEI Documents Through a Game of Dice
+[Generating TEI Documents Through a Game of Dice](https://lehkost.github.io/slides/2025-09-18-tei-dice/index.html)
 
 <small>2025-09-17 · Kraków 🇵🇱 ([TEI2025](https://tei2025.confer.uj.edu.pl/))</small><br />
 Introducing UDraCor: the Ukrainian Drama Corpus in TEI

@@ -69,6 +69,10 @@ title: Publications
 
 #### 2025
 
+-   Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Mark Schwindt, Jonas Rohe:
+    **More Plays than Atoms in the Universe: The Digitization of a 19th-Century
+    Generator for One-Act Comedies.** In: IEEE Transactions on Games. 2025.
+    ([doi:10.1109/TG.2025.3608847](https://doi.org/10.1109/TG.2025.3608847))
 -   Peer Trilcke, Ingo Börner, Henny Sluyter-Gäthje, Daniil Skorinkin, Frank Fischer,
     Carsten Milling: **Agentic DraCor and the Art of Docstring Engineering: Evaluating
     MCP-empowered LLM Usage of the DraCor API.** In: DraCor Summit. 1–5 September 2025.
