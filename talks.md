@@ -23,7 +23,7 @@ Ganz, halb oder gar nicht? Herausforderungen und Strategien bei der Veröffentli
 [Generating TEI Documents Through a Game of Dice](https://lehkost.github.io/slides/2025-09-18-tei-dice/index.html)
 
 <small>2025-09-17 · Kraków 🇵🇱 ([TEI2025](https://tei2025.confer.uj.edu.pl/))</small><br />
-Introducing UDraCor: the Ukrainian Drama Corpus in TEI
+[Introducing UDraCor: the Ukrainian Drama Corpus in TEI](https://doi.org/10.5281/zenodo.17148149)
 
 <small>2025-09-03 · Freie Universität Berlin 🇩🇪 (DraCor Summit: [Workshop on Computational Drama Analysis](https://summit.dracor.org/computational_drama_analysis))</small><br />
 Agentic DraCor and the Art of Docstring Engineering: Evaluating MCP-empowered LLM Usage of the DraCor API

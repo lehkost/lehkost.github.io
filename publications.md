@@ -62,10 +62,10 @@ title: Publications
     University of Rostock. Book of Abstracts.
 -   Viktor J. Illmer, Nele Heindorf, Roya Zendebudie, Mark Schwindt, Frank Fischer:
     **Generating TEI Documents Through a Game of Dice.** In: TEI2025: »New
-    Territories«. 18–20 September 2025. Kraków. Book of Abstracts.
+    Territories«. 16–19 September 2025. Kraków. Book of Abstracts.
 -   Frank Fischer, Julia Havrylash, Daniil Skorinkin, Mark Schwindt: **Introducing
     UDraCor, the Ukrainian Drama Corpus in TEI.** In: TEI2025: »New Territories«.
-    18–20 September 2025. Kraków. Book of Abstracts.
+    16–19 September 2025. Kraków. Book of Abstracts.
 
 #### 2025
 
