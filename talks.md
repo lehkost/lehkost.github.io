@@ -17,7 +17,7 @@ DraCor, eine digitale Infrastruktur zur Erforschung der europäischen Dramengesc
 Participation in ›Panel 2: Innovation, AI and the Arts‹
 
 <small>2025-09-25 · University of Rostock 🇩🇪 ([FORGE25](https://www.forge25.uni-rostock.de/))</small><br />
-Ganz, halb oder gar nicht? Herausforderungen und Strategien bei der Veröffentlichung sensibler Forschungsdaten aus einem Literaturarchiv
+[Ganz, halb oder gar nicht? Herausforderungen und Strategien bei der Veröffentlichung sensibler Forschungsdaten aus einem Literaturarchiv](https://lehkost.github.io/slides/2025-09-25-forge/index.html)
 
 <small>2025-09-18 · Kraków 🇵🇱 ([TEI2025](https://tei2025.confer.uj.edu.pl/))</small><br />
 [Generating TEI Documents Through a Game of Dice](https://lehkost.github.io/slides/2025-09-18-tei-dice/index.html)
