@@ -56,10 +56,6 @@ title: Publications
 
 #### Forthcoming
 
--   Viktor J. Illmer, Frank Fischer: **Ganz, halb oder gar nicht? Herausforderungen
-    und Strategien bei der Veröffentlichung sensibler Forschungsdaten aus einem
-    Literaturarchiv.** In: FORGE25: »Daten neu denken«. 24–26 September 2025.
-    University of Rostock. Book of Abstracts.
 -   Viktor J. Illmer, Nele Heindorf, Roya Zendebudie, Mark Schwindt, Frank Fischer:
     **Generating TEI Documents Through a Game of Dice.** In: TEI2025: »New
     Territories«. 16–19 September 2025. Kraków. Book of Abstracts.
@@ -69,6 +65,11 @@ title: Publications
 
 #### 2025
 
+-   Viktor J. Illmer, Frank Fischer: **Ganz, halb oder gar nicht? Herausforderungen
+    und Strategien bei der Veröffentlichung sensibler Forschungsdaten aus einem
+    Literaturarchiv.** In: FORGE25: »Daten neu denken«. 24–26 September 2025.
+    University of Rostock. Book of Abstracts, pp. 97–100.
+    ([doi:10.5281/zenodo.16994723](https://doi.org/10.5281/zenodo.16994723))
 -   Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Mark Schwindt, Jonas Rohe:
     **More Plays than Atoms in the Universe: The Digitization of a 19th-Century
     Generator for One-Act Comedies.** In: IEEE Transactions on Games. 2025.
