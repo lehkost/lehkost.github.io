@@ -69,7 +69,7 @@ title: Publications
     und Strategien bei der Veröffentlichung sensibler Forschungsdaten aus einem
     Literaturarchiv.** In: FORGE25: »Daten neu denken«. 24–26 September 2025.
     University of Rostock. Book of Abstracts, pp. 97–100.
-    ([doi:10.5281/zenodo.16994723](https://doi.org/10.5281/zenodo.16994723))
+    ([doi:10.5281/zenodo.17199319](https://doi.org/10.5281/zenodo.17199319))
 -   Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Mark Schwindt, Jonas Rohe:
     **More Plays than Atoms in the Universe: The Digitization of a 19th-Century
     Generator for One-Act Comedies.** In: IEEE Transactions on Games. 2025.
