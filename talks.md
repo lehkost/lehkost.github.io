@@ -20,7 +20,7 @@ Introducing YiDraCor: A TEI/XML-Encoded Corpus of Yiddish Drama
 Intro &amp; Outro
 
 <small>2025-10-13 · Humboldt-Universität zu Berlin 🇩🇪 ([Institut für Bibliotheks- und Informationswissenschaft](https://www.ibi.hu-berlin.de/))</small><br />
-DraCor, eine digitale Infrastruktur zur Erforschung der europäischen Dramengeschichte
+[DraCor, eine digitale Infrastruktur zur Erforschung der europäischen Dramengeschichte](https://lehkost.github.io/slides/2025-10-13-ibi-dracor/index.html)
 
 <small>2025-09-30 · University of Oxford 🇬🇧 ([4th symposium of the Oxford Berlin Research Partnership](https://www.berlin-university-alliance.de/en/commitments/international/oxford/termine/250930-symposium-innovation1.html))</small><br />
 Participation in ›Panel 2: Innovation, AI and the Arts‹ ([recap](https://www.berlin-university-alliance.de/commitments/international/oxford/einblicke/250930-innovation/index.html))
