@@ -54,15 +54,6 @@ title: Publications
 
 ### Peer-Reviewed Papers and Articles for Edited Volumes
 
-#### Forthcoming
-
--   Viktor J. Illmer, Nele Heindorf, Roya Zendebudie, Mark Schwindt, Frank Fischer:
-    **Generating TEI Documents Through a Game of Dice.** In: TEI2025: »New
-    Territories«. 16–19 September 2025. Kraków. Book of Abstracts.
--   Frank Fischer, Julia Havrylash, Daniil Skorinkin, Mark Schwindt: **Introducing
-    UDraCor, the Ukrainian Drama Corpus in TEI.** In: TEI2025: »New Territories«.
-    16–19 September 2025. Kraków. Book of Abstracts.
-
 #### 2025
 
 -   Viktor J. Illmer, Frank Fischer: **Ganz, halb oder gar nicht? Herausforderungen
@@ -70,6 +61,14 @@ title: Publications
     Literaturarchiv.** In: FORGE25: »Daten neu denken«. 24–26 September 2025.
     University of Rostock. Book of Abstracts, pp. 97–100.
     ([doi:10.5281/zenodo.17199319](https://doi.org/10.5281/zenodo.17199319))
+-   Viktor J. Illmer, Nele Heindorf, Roya Zendebudie, Mark Schwindt, Frank Fischer:
+    **Generating TEI Documents Through a Game of Dice.** In: TEI2025: »New
+    Territories«. 16–19 September 2025. Kraków. Book of Abstracts, pp. 109–110.
+    ([doi:10.5281/zenodo.17312233](https://doi.org/10.5281/zenodo.17312233))
+-   Frank Fischer, Julia Havrylash, Daniil Skorinkin, Mark Schwindt: **Introducing
+    UDraCor, the Ukrainian Drama Corpus in TEI.** In: TEI2025: »New Territories«.
+    16–19 September 2025. Kraków. Book of Abstracts, pp. 121–123.
+    ([doi:10.5281/zenodo.17312233](https://doi.org/10.5281/zenodo.17312233))
 -   Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Mark Schwindt, Jonas Rohe:
     **More Plays than Atoms in the Universe: The Digitization of a 19th-Century
     Generator for One-Act Comedies.** In: IEEE Transactions on Games. 2025.
