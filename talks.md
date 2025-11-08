@@ -16,6 +16,9 @@ On Nanni Balestrini: »Tape Mark I« (1961)
 <small>2025-11-17 · Vilnius University 🇱🇹 (Beyond Digital Awe: European Jewish Studies and the Challenge of Digital Humanities)</small><br />
 Introducing YiDraCor: A TEI/XML-Encoded Corpus of Yiddish Drama
 
+<small>2025-11-05 · European University Viadrina Frankfurt (Oder) 🇩🇪 ([Facts and Findings – KIU Fellows Present Their Research](https://www.kiu.europa-uni.de/en/kiu-news-events/events-kiu/upcoming-events/2025/20251105-fellows-present-their-research/index.html))</small><br />
+Panel Moderation
+
 <small>2025-10-17 · Freie Universität Berlin 🇩🇪 ([Open Science in Action – Auftaktveranstaltung der Open Science Working Group an der FU Berlin](https://www.fu-berlin.de/sites/open_access/termine/2025-10-17_OSWG-Event.html))</small><br />
 Intro &amp; Outro
 

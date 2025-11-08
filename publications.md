@@ -56,6 +56,13 @@ title: Publications
 
 #### 2025
 
+-   Günter M. Ziegler, Frank Fischer, Beatrice Gründler, Dennis Mischke,
+    Christoph Schneider, Carolin Odebrecht, Martin Reinhart, Christina Riesenweber,
+    Stephan Völker, Jürgen Christof, Manfred Hauswirth, Ulrich Kintscher,
+    Christoph Harms, Ulrich Dirnagl, Ursula Flitner, Viktor Scholz, Stefan Skupien:
+    **Prioritäten der Berlin University Alliance in der Umsetzung des Leitbilds für
+    eine Offene Wissenschaft.** Working Paper. 25 July 2025.
+    ([doi:10.17169/refubium-49556](https://doi.org/10.17169/refubium-49556))
 -   Viktor J. Illmer, Frank Fischer: **Ganz, halb oder gar nicht? Herausforderungen
     und Strategien bei der Veröffentlichung sensibler Forschungsdaten aus einem
     Literaturarchiv.** In: FORGE25: »Daten neu denken«. 24–26 September 2025.
@@ -84,9 +91,11 @@ title: Publications
     NOVA de Lisboa.
 -   Sandra Balck, Janis Dähne, Fabian Etling, Frank Fischer, Steffen Frenzel,
     Brigitte Grote, Sascha Hesse, Paul Molitor, Marcus Pöckelmann, Jörg Ritter,
-    Yashee Singh, Manfred Stede: **Collation of Multilingual Versions of a Text:
-    Necessity, Approach, Challenges.** In: DH2025: »Accessibility and Citizenship«.
-    14--18 July 2025. Universidade NOVA de Lisboa.
+    Yashee Singh, Manfred Stede: **[Collation of Multilingual Versions of a Text:
+    Necessity, Approach,
+    Challenges.](https://gitlab.informatik.uni-halle.de/poeckelm/public/-/raw/master/publications/DH2025_abstract.pdf)**
+    In: DH2025: »Accessibility and Citizenship«. 14--18 July 2025.
+    Universidade NOVA de Lisboa.
 -   Henny Sluyter-Gäthje, Ingo Börner, Peer Trilcke, Evgeniya Ustinova,
     Frank Fischer, Carsten Milling: **Towards Modularised Open Infrastructures:
     Enhancing Research Publications in Digital Humanities – »Detecting Small
