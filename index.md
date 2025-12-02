@@ -11,10 +11,7 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 * Official representative for Open Science of Freie Universität Berlin
 
 ### Research Interests
-* Computational Literary Studies
-  * 18th–21st Century Literature
-  * World Literature
-  * European Drama
+* Computational Literary Studies (17th–21st Century Literature, World Literature, European Drama)
 * Network Analysis
 * AI and the Humanities
 * Linked Open Data
