@@ -11,17 +11,22 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 * Official representative for Open Science of Freie Universität Berlin
 
 ### Research Interests
-* 18th–21st Century Literature, Computational Literary Studies, World Literature, European Drama, Network Analysis, Artificial Neural Networks for the Study of Literature, Linked Open Data, Research Infrastructures for Literary Studies
+* Computational Literary Studies
+  * 18th–21st Century Literature
+  * World Literature
+  * European Drama
+* Network Analysis
+* AI and the Humanities
+* Linked Open Data
+* Research Infrastructures for Literary Studies
 
 ### Current Main Projects
-* [Digital Observatory of World Literature](https://www.temporal-communities.de/research/digital-communities/projects/digital-observatory-world-literature) – project lead (2023–)
+* [Digital Observatory of World Literature](https://www.temporal-communities.de/research/digital-communities/projects/digital-observatory-world-literature) – project lead (2023–2025)
 * [QUADRIGA](https://www.fu-berlin.de/presse/informationen/fup/2023/fup_23_301-quadriga-digital-humanities/index.html) (Berlin-Brandenburgisches Datenkompetenzzentrum für Digital Humanities und Verwaltungswissenschaft) – WP leader (2023–2026)
 * [DraCorOS](https://oscars-project.eu/projects/dracoros-fostering-open-science-digital-humanities-connecting-dracor-ecosystem-eosc) (Fostering Open Science in Digital Humanities by connecting the DraCor Ecosystem to EOSC) – PI (2025–2026)
 * [COMUTE](https://gepris.dfg.de/gepris/projekt/524057241) (Collation of Multilingual Texts) – (2023–2026)
 * [Le *Sonntag* dans le contexte des Humanités numériques](https://sonntagfr.hypotheses.org/) – (2023–)
-* [CLS INFRA](https://clsinfra.io/) (Computational Literary Studies) – steering committee and WP leader (2021–2025)
 * [DraCor](https://dracor.org/) – multilingual Drama Corpora platform (a showcase for [Programmable Corpora](https://doi.org/10.5281/zenodo.4284002)) – editor-in-chief (2017–) ([Rahtz Prize for TEI Ingenuity 2022](https://tei-c.org/activities/rahtz-prize-for-tei-ingenuity/) 🏆, [YERUN Open Science Award 2023](https://yerun.eu/2024/02/meet-the-winners-of-the-yerun-open-science-awards-2023/) 🏆)
-* [Einakter](https://einakter.dracor.org/) – database of German-language one-act plays (2020–)
 * [Vossian Antonomasia](https://vossanto.weltliteratur.net/) – neural-network-based extraction methods for a special form of antonomasia, a project in cooperation with colleagues from Berlin School of Library and Information Science at Humboldt University (2017–)
 
 ### Finished Projects

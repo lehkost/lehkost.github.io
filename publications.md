@@ -60,6 +60,13 @@ title: Publications
     Christoph Schneider, Carolin Odebrecht, Martin Reinhart, Christina Riesenweber,
     Stephan Völker, Jürgen Christof, Manfred Hauswirth, Ulrich Kintscher,
     Christoph Harms, Ulrich Dirnagl, Ursula Flitner, Viktor Scholz, Stefan Skupien:
+    **Priorities of the Berlin University Alliance in Implementing the Mission
+    Statement for Open Science.** Working Paper. 25 July 2025.
+    ([doi:10.17169/refubium-49421](https://doi.org/10.17169/refubium-49421))
+-   Günter M. Ziegler, Frank Fischer, Beatrice Gründler, Dennis Mischke,
+    Christoph Schneider, Carolin Odebrecht, Martin Reinhart, Christina Riesenweber,
+    Stephan Völker, Jürgen Christof, Manfred Hauswirth, Ulrich Kintscher,
+    Christoph Harms, Ulrich Dirnagl, Ursula Flitner, Viktor Scholz, Stefan Skupien:
     **Prioritäten der Berlin University Alliance in der Umsetzung des Leitbilds für
     eine Offene Wissenschaft.** Working Paper. 25 July 2025.
     ([doi:10.17169/refubium-49556](https://doi.org/10.17169/refubium-49556))
@@ -89,6 +96,7 @@ title: Publications
     Echo Chamber of Canonicity: 1001 Books You Must Read Before You Die.** In:
     DH2025: »Accessibility and Citizenship«. 14--18 July 2025. Universidade
     NOVA de Lisboa.
+    ([doi:10.5281/zenodo.17736224](https://doi.org/10.5281/zenodo.17736224))
 -   Sandra Balck, Janis Dähne, Fabian Etling, Frank Fischer, Steffen Frenzel,
     Brigitte Grote, Sascha Hesse, Paul Molitor, Marcus Pöckelmann, Jörg Ritter,
     Yashee Singh, Manfred Stede: **[Collation of Multilingual Versions of a Text:

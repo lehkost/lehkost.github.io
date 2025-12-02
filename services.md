@@ -38,7 +38,8 @@ title: Committees/Services
 ### Scientific Consultancy
 * Agence nationale de la recherche (ANR) 🇫🇷
 * Federal Ministry of Education and Research (BMBF) 🇩🇪
-* Berlin University Alliance (BUA) 🐻
+* Berlin University Alliance (BUA) 🇩🇪
+* VolkswagenStiftung 🇩🇪
 * European Research Council (ERC) 🇪🇺
 * Israel Science Foundation (ISF) 🇮🇱
 * Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal (NKFIH) 🇭🇺
