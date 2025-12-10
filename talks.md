@@ -8,15 +8,15 @@ Invited talks, conference, workshop slides, introductions.
 ### 2025
 
 <small>2025-12-16 · Freie Universität Berlin 🇩🇪 ([Proseminar »Die Tragödie der französischen Klassik. Corneille und Racine«](https://www.fu-berlin.de/vv/de/lv/1025586))</small><br />
-Digitale Dramenanalyse mit DraCor (French Drama Corpus)
+[Digitale Dramenanalyse mit DraCor (French Drama Corpus)](https://lehkost.github.io/slides/2025-12-16-frz-klassik/index.html)
 
 <small>2025-12-11 · Witten/Herdecke University 🇩🇪 ([Reading Artists’ Books: Problems for Computer](https://sieben-viertel.de/vortraege/reading-artists-books/))</small><br />
-Reading Nanni Balestrini: »Tape Mark I« (1961)
+[Reading Nanni Balestrini: »Tape Mark I« (1961)](https://lehkost.github.io/slides/2025-12-11-nanni/index.html)
 
 <small>2025-11-17 · Vilnius University 🇱🇹 (Beyond Digital Awe: European Jewish Studies and the Challenge of Digital Humanities)</small><br />
 Introducing YiDraCor: A TEI/XML-Encoded Corpus of Yiddish Drama
 
-<small>2025-11-05 · European University Viadrina Frankfurt (Oder) 🇩🇪 ([Facts and Findings – KIU Fellows Present Their Research](https://www.kiu.europa-uni.de/en/kiu-news-events/events-kiu/upcoming-events/2025/20251105-fellows-present-their-research/index.html))</small><br />
+<small>2025-11-05 · European University Viadrina Frankfurt (Oder) 🇩🇪 ([Facts and Findings – KIU Fellows Present Their Research](https://www.kiu.europa-uni.de/en/kiu-news-events/events-kiu/past-events/2025/20251105-fellows-present-their-research/index.html))</small><br />
 Panel Moderation
 
 <small>2025-10-17 · Freie Universität Berlin 🇩🇪 ([Open Science in Action – Auftaktveranstaltung der Open Science Working Group an der FU Berlin](https://www.fu-berlin.de/sites/open_access/termine/2025-10-17_OSWG-Event.html))</small><br />
@@ -25,7 +25,7 @@ Intro &amp; Outro
 <small>2025-10-13 · Humboldt-Universität zu Berlin 🇩🇪 ([Institut für Bibliotheks- und Informationswissenschaft](https://www.ibi.hu-berlin.de/))</small><br />
 [DraCor, eine digitale Infrastruktur zur Erforschung der europäischen Dramengeschichte](https://lehkost.github.io/slides/2025-10-13-ibi-dracor/index.html)
 
-<small>2025-09-30 · University of Oxford 🇬🇧 ([4th symposium of the Oxford Berlin Research Partnership](https://www.berlin-university-alliance.de/en/commitments/international/oxford/termine/250930-symposium-innovation1.html))</small><br />
+<small>2025-09-30 · University of Oxford 🇬🇧 ([4th Symposium of the Oxford Berlin Research Partnership](https://www.berlin-university-alliance.de/en/commitments/international/oxford/termine/250930-symposium-innovation1.html))</small><br />
 Participation in ›Panel 2: Innovation, AI and the Arts‹ ([recap](https://www.berlin-university-alliance.de/commitments/international/oxford/einblicke/250930-innovation/index.html))
 
 <small>2025-09-25 · University of Rostock 🇩🇪 ([FORGE25](https://www.forge25.uni-rostock.de/))</small><br />
