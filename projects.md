@@ -13,6 +13,7 @@ title: Projects
 * [Vossian Antonomasia](https://vossanto.weltliteratur.net/) – neural-network-based extraction methods for a special form of antonomasia, a project in cooperation with colleagues from Berlin School of Library and Information Science at Humboldt University (2017–)
 
 ### Finished Projects
+* [Digital Observatory of World Literature](https://www.temporal-communities.de/research/digital-communities/projects/digital-observatory-world-literature) – project lead (2023–2025)
 * [CLS INFRA](https://clsinfra.io/) (Computational Literary Studies) – steering committee and WP leader (2021–2025)
 * [Einakter](https://einakter.dracor.org/) – database of German-language one-act plays (2020–2025)
 * [TEI Edition of »Carmen Nova«](https://temporal-communities.github.io/carmen-nova/) (Pseudo Umberto Eco Novella) – (2023)

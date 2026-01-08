@@ -18,7 +18,6 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 * Research Infrastructures for Literary Studies
 
 ### Current Main Projects
-* [Digital Observatory of World Literature](https://www.temporal-communities.de/research/digital-communities/projects/digital-observatory-world-literature) – project lead (2023–2025)
 * [QUADRIGA](https://www.fu-berlin.de/presse/informationen/fup/2023/fup_23_301-quadriga-digital-humanities/index.html) (Berlin-Brandenburgisches Datenkompetenzzentrum für Digital Humanities und Verwaltungswissenschaft) – WP leader (2023–2026)
 * [DraCorOS](https://oscars-project.eu/projects/dracoros-fostering-open-science-digital-humanities-connecting-dracor-ecosystem-eosc) (Fostering Open Science in Digital Humanities by connecting the DraCor Ecosystem to EOSC) – PI (2025–2026)
 * [COMUTE](https://gepris.dfg.de/gepris/projekt/524057241) (Collation of Multilingual Texts) – (2023–2026)
@@ -45,7 +44,7 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 * 1997–2003: MA student of Computer Science and German Studies at University of Leipzig
 
 ### Visiting Scholarships
-* Aarhus University, 2018
+* [Aarhus University, 2018](https://digitalarts.au.dk/news/nyhed/artikel/frank-fischer-to-guest-school-of-communication-and-culture-in-november)
 * Information School at University of Sheffield, 2017
 * École normale supérieure, Paris, 2009
 

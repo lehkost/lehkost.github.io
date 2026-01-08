@@ -109,6 +109,7 @@ title: Publications
     Enhancing Research Publications in Digital Humanities – »Detecting Small
     Worlds« as an Example.** In: DH2025: »Accessibility and Citizenship«.
     14--18 July 2025. Universidade NOVA de Lisboa.
+    ([doi:10.5281/zenodo.18183628](https://doi.org/10.5281/zenodo.18183628))
 -   Jonah Lubin, Frank Fischer: **Introducing iberz, a Database of Yiddish
     Translations.** In: DH2025: »Accessibility and Citizenship«. 14--18 July 2025.
     Universidade NOVA de Lisboa.

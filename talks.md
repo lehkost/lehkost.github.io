@@ -7,12 +7,12 @@ Invited talks, conference, workshop slides, introductions.
 
 ### 2025
 
-<small>2025-12-16 · Freie Universität Berlin 🇩🇪 ([Proseminar »Die Tragödie der französischen Klassik. Corneille und Racine«](https://www.fu-berlin.de/vv/de/lv/1025586))</small><br />
+<small>2025-12-16 · Freie Universität Berlin 🇩🇪 ([Proseminar »Die Tragödie der französischen Klassik. Corneille und Racine«](https://web.archive.org/web/20251009114246/https://www.fu-berlin.de/vv/de/lv/1025586))</small><br />
 [Digitale Dramenanalyse mit DraCor (French Drama Corpus)](https://lehkost.github.io/slides/2025-12-16-frz-klassik/index.html)
 
-<small>2025-12-11 · Witten/Herdecke University 🇩🇪 ([Reading Artists’ Books: Problems for Computer](https://sieben-viertel.de/vortraege/reading-artists-books/))</small><br />
+<small>2025-12-11 · Witten/Herdecke University 🇩🇪 ([Reading Artists’ Books: Problems for Computer](https://www.uni-wh.de/en/reading-artists-books-problems-for-computer))</small><br />
 [Reading Nanni Balestrini: »Tape Mark I« (1961)](https://lehkost.github.io/slides/2025-12-11-nanni/index.html)
-
+ 
 <small>2025-11-17 · Vilnius University 🇱🇹 (Beyond Digital Awe: European Jewish Studies and the Challenge of Digital Humanities)</small><br />
 Introducing YiDraCor: A TEI/XML-Encoded Corpus of Yiddish Drama
 
