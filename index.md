@@ -18,6 +18,7 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 * Research Infrastructures for Literary Studies
 
 ### Current Main Projects
+* [Hannah Arendt: Complete Works. Critical Edition](https://www.arendt-research-center.de/en/index.html) – WP leader (2026–2029)
 * [QUADRIGA](https://www.fu-berlin.de/presse/informationen/fup/2023/fup_23_301-quadriga-digital-humanities/index.html) (Berlin-Brandenburgisches Datenkompetenzzentrum für Digital Humanities und Verwaltungswissenschaft) – WP leader (2023–2026)
 * [DraCorOS](https://oscars-project.eu/projects/dracoros-fostering-open-science-digital-humanities-connecting-dracor-ecosystem-eosc) (Fostering Open Science in Digital Humanities by connecting the DraCor Ecosystem to EOSC) – PI (2025–2026)
 * [COMUTE](https://gepris.dfg.de/gepris/projekt/524057241) (Collation of Multilingual Texts) – (2023–2026)
