@@ -54,6 +54,27 @@ title: Publications
 
 ### Peer-Reviewed Papers and Articles for Edited Volumes
 
+#### Forthcoming
+
+-   Frank Fischer, Yashee Singh, Janis Dähne, Sascha Heße, Paul Molitor,
+    Marcus Pöckelmann, Jörg Ritter, Sandra Balck, Brigitte Grote, Steffen
+    Frenzel, Manfred Stede: **COMUTE in Action: Usage Scenarios for Comparing
+    Complex Multilingual Text Variants.**
+    In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
+-   Lisa Poggel, Laura Untner, Viktor J. Illmer, Jonas Rohe, Frank Fischer:
+    **Canons of World Literature Contextualised: Introducing Canon Shelf and
+    Canon Curator.**
+    In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
+-   Peer Trilcke, Sören Barkey, Ingo Börner, Carsten Milling, Mareike
+    Schumacher, Daniil Skorinkin, Henny Sluyter-Gäthje, Clara Funk, Mark
+    Schwindt, Anna Busch, Frank Fischer, Luca Giovannini, Clara Helmig:
+    **Introducing EcoCor: An Open Infrastructure for Digital Ecocriticism.**
+    In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
+-   Luca Giovannini, Henny Sluyter-Gäthje, Daniil Skorinkin, Peer Trilcke,
+    Ingo Börner, Frank Fischer, Tabeer Khilji: **A Decade in Drama Research.
+    Data Mining the DraCor Bibliography (2015–2025).**
+    In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
+
 #### 2025
 
 -   Günter M. Ziegler, Frank Fischer, Beatrice Gründler, Dennis Mischke,

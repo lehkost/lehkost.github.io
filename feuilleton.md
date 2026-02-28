@@ -5,6 +5,11 @@ title: Feuilleton
 
 Feuilleton articles, some prefaces and [translations](#translations).
 
+### 2026
+
+-   Frank Fischer: [**Was ist das denn?**](https://www.fu-berlin.de/news/et-al-newsletter/012026/ressourcen/et-al-012026-online-fassung.html)
+    In: et al. Newsletter, no. 1 (»Ich dich auch! Oder: Was macht die Liebe in der Wissenschaft?«), 12 February 2026.
+
 ### 2024
 
 -   Frank Fischer: [**Menschen am Papierscreen.**](https://www.monopol-magazin.de/zeitungsleserinnen-eddy-posthuma-de-boer)

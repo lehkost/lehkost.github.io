@@ -453,7 +453,7 @@ Introduction to Wikidata
 <small>2018-10-30b · Linnéuniversitetet, Växjö 🇸🇪 (Digital Humanities Day)</small><br />
 [A Social Marketplace for Services -- Introduction to DARIAH, the Pan-European Research Infrastructure for the Arts and Humanities](/slides/2018-vaxjo-dariah/index.html)
 
-<small>2018-10-18 · University of Potsdam 🇩🇪 ([Symposium zur Eröffnung des DH-Netzwerks](https://www.uni-potsdam.de/de/digital-humanities/aktivitaeten/veranstaltungen/symposium-zur-eroeffnung-des-netzwerks.html))</small><br />
+<small>2018-10-18 · University of Potsdam 🇩🇪 ([Symposium zur Eröffnung des DH-Netzwerks](https://www.uni-potsdam.de/de/digital-humanities/events/veranstaltungen/symposium-zur-eroeffnung-des-netzwerks))</small><br />
 [Die Digital Humanities zwischen Forschung und Infrastruktur](/slides/2018-potsdam/index.html)
 
 <small>2018-10-07 · University of Haifa 🇮🇱 ([DARIAH-DESIR](http://lib.haifa.ac.il/libinfo/announcements/index.php/2-uncategorised/106-new-announcement-106))</small><br />
@@ -604,7 +604,7 @@ How We Can Enhance Literary Studies with the Help of Computational Linguistics
 Rache ist sein Gewerbe -- Radikale Verlierer in den Dramen von J. W. von Brawe
 
 <small>2015-03-12 · Munich 🇩🇪 ([Computer-based Analysis of Drama and Its Uses for Literary Criticism and Historiography](https://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/aktuelles/meldungen/single/news/workshop-computer-based-analysis-of-drama-and-its-uses-for-literary-criticism-and-historiography/))</small><br />
-Digitale Netzwerkanalyse dramatischer Texte
+Digitale Netzwerkanalyse dramatischer Texte ([minutes](https://comedy.hypotheses.org/12))
 
 <small>2015-02-27 · Graz 🇦🇹 (DHd2015)</small><br />
 [Wann ﬁndet die deutsche Literatur statt? Zur Untersuchung von Zeitausdrücken in großen Korpora](https://dbs.ifi.uni-heidelberg.de/fileadmin/Team/jannik/dhd2015-fischer-stroetgen-deutsche-literatur-slides.pdf) (PDF)
@@ -629,7 +629,7 @@ Las estaciones de la literatura: Investigación de estructuras temporales en un 
 <small>2014-10-17 · Universidade Nova de Lisboa 🇵🇹 ([APEG Colloquium](http://fcsh.unl.pt/media/eventos/Nachwuchskolloquium_ProgrammModerador.pdf))</small><br />
 Wann findet die deutsche Literatur statt? Zur Untersuchung von Zeitstrukturen in großen Korpora
 
-<small>2014-09-29 · Würzburg 🇩🇪 ([CLiGS-Auftaktworkshop](https://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/aktuelles/veranstaltungen/auftaktworkshop-gattungsstilistik/))</small><br />
+<small>2014-09-29 · Würzburg 🇩🇪 ([CLiGS-Auftaktworkshop](https://www.germanistik.uni-wuerzburg.de/computerphilologie/aktuelles/veranstaltungen/auftaktworkshop-gattungsstilistik/))</small><br />
 Digitale Netzwerkanalyse dramatischer Texte
 
 <small>2014-06-04 · Göttingen 🇩🇪 ([GCDH](https://www.gcdh.de/))</small><br />

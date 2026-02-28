@@ -9,8 +9,8 @@ title: Posters
 Vogel, Hanna-Lena Meiners, Dario Kampkaspar:*\
 **Distant-Reading Showcase: 465 German-Language Dramas at a Glance
 (DHd2016, Leipzig)**\
-[Best Poster Award](http://dig-hum.de/gewinner-des-posterawards-2016) 🏆
--- [figshare](https://doi.org/10.6084/m9.figshare.3101203) (poster) ·
+[Best Poster Award](http://dig-hum.de/gewinner-des-posterawards-2016) 🏆 ·
+[figshare](https://doi.org/10.6084/m9.figshare.3101203) (poster) ·
 [zenodo](https://doi.org/10.5281/zenodo.4645054) (abstract) ·
 [dlina.github.io](https://dlina.github.io/Distant-Reading-Showcase-Poster-DHd2016-Leipzig/)
 (blog post)
@@ -47,7 +47,7 @@ Daniil Skorinkin, Tatiana Orlova, Carsten Milling, Christine Ivanovic:*\
 **Brecht Beats Shakespeare! A Card-Game Introduction to the Network
 Analysis of European Drama (DH2018, Ciudad de México)**\
 [figshare](https://doi.org/10.6084/m9.figshare.6667424) (poster) ·
-[dh2018.adho.org](https://dh2018.adho.org/?p=9465) (abstract) ·
+[dh2018.adho.org](https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf#page=595) (abstract) ·
 [Twitter](https://twitter.com/umblaetterer/status/1012048790730223621)
 
 *Quinn Dombrowski, Frank Fischer, Jennifer Edmond, Toma Tasovac, Marco
@@ -83,8 +83,7 @@ Vogel:*\
 Riesendrama »Die letzten Tage der Menschheit« (DHd2020, Paderborn)**\
 [Best Poster Award](https://dig-hum.de/dhd-awards) 🏆 ·
 [figshare](https://doi.org/10.6084/m9.figshare.11917902) (poster) ·
-[Twitter
-thread](https://twitter.com/umblaetterer/status/1235556225128886277) ·
+[Twitter thread](https://twitter.com/umblaetterer/status/1235556225128886277) ·
 [zenodo](https://doi.org/10.5281/zenodo.4621760)
 (abstract) ·
 [weltliteratur.net](https://weltliteratur.net/theatre-on-mars/) (blog
@@ -155,3 +154,14 @@ Drama (DH2024, Arlington, VA)**\
 *Julie M. Birkholz, Ingo Börner, Floor Buschenhenke, Joanna Byszuk, Sally Chambers, Vera Maria Charvat, Silvie Cinková, Tess Dejaeghere, Anna Dijkstra, Julia Dudar, Matej Ďurčo, Maciej Eder, Jennifer Edmond, Evgeniia Fileva, Frank Fischer, Vicky Garnett, Françoise Gouzi, Serge Heiden, Sarah Hoover, Michal Kren, Bartłomiej Kunda, Els Lefever, Michal Mrugalski, Ciara L. Murphy, Carolin Odebrecht, Eliza Papaki, Marco Raciti, Emily Ridge, Salvador Ros, Christof Schöch, Artjoms Šeļa, Toma Tasovac, Justin Tonra, Erzsébet Tóth-Czifra, Peer Trilcke, Karina van Dalen-Oskam, Vera Yakupova, Joris J. van Zundert:*\
 **CLS INFRA: Leveraging Literary Methods for FAIR(er) Science (DH2025, Lisbon)**\
 [hal-05098718](https://hal.science/hal-05098718) (poster)
+
+*Frank Fischer, Lisa Poggel, Mark Schwindt, Carsten Milling,
+Henny Sluyter-Gäthje, Ingo Börner, Peer Trilcke, Daniil Skorinkin,
+Luca Giovannini, Julia Jennifer Beine, Ivan Pozdniakov:*\
+**Ganz viel Drama auf einen Blick: Der »Distant Reading-Showcase«,
+zehn Jahre danach (2016/2026) (DH2026, Vienna)**\
+[Best Poster Award](https://bsky.app/profile/dhpotsdam.bsky.social/post/3mft57pxfgk2v) 🏆 ·
+[figshare](https://doi.org/10.6084/m9.figshare.31113820) (poster) ·
+[Bluesky thread](https://twitter.com/umblaetterer/status/1235556225128886277) ·
+[Mastodon thread](https://chaos.social/@umblaetterer/116136385820869150) ·
+[zenodo](https://doi.org/10.5281/zenodo.18702913) (abstract)
