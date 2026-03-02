@@ -18,7 +18,7 @@ title: Publications
 ### Edited Volumes
 
 -   Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.):
-    [**Wikipedia, Wikidata, and World Literature.**](https://culturalanalytics.org/issue/7259)
+    [**Wikipedia, Wikidata, and World Literature.**](https://culturalanalytics.org/issue/20/info/)
     Special Issue of the **Journal of Cultural Analytics**, vol. 8, no. 2 (May 2023).
 -   Jan Horstmann, Frank Fischer (eds.): [**Digitale Verfahren in der
     Literaturwissenschaft.**](https://www.textpraxis.net/sonderausgabe-6)
@@ -36,8 +36,8 @@ title: Publications
     Berlin/Boston: De Gruyter 2019.
 -   Frank Fischer, Jörg Riemer (eds.): **Joachim Wilhelm von Brawe:
     Brutus.** Leipzig: Ille & Riemer 2007 (2nd edition 2015). \[Review
-    by Alexander Košenina in: [Frankfurter Allgemeine Zeitung, 29
-    February 2008](https://www.faz.net/-gr4-wiba).\]
+    by Alexander Košenina in: [Frankfurter Allgemeine Zeitung, 29 February
+    2008](https://web.archive.org/web/20111006193030/https://www.faz.net/aktuell/feuilleton/buecher/rezensionen/belletristik/schreckens-maenner-1516726.html).\]
 -   Frank Fischer, Jörg Riemer (eds.): **Joachim Wilhelm von Brawe: Der
     Freygeist.** Leipzig: Ille & Riemer 2002. \[Review by Hans-Gert
     Roloff in: Editionen in der Kritik 1 (2005).\]
