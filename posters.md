@@ -83,7 +83,7 @@ Vogel:*\
 Riesendrama »Die letzten Tage der Menschheit« (DHd2020, Paderborn)**\
 [Best Poster Award](https://dig-hum.de/dhd-awards) 🏆 ·
 [figshare](https://doi.org/10.6084/m9.figshare.11917902) (poster) ·
-[Twitter thread](https://twitter.com/umblaetterer/status/1235556225128886277) ·
+[Twitter thread](https://web.archive.org/web/20200305140458/https://twitter.com/umblaetterer/status/1235556225128886277) (archived) ·
 [zenodo](https://doi.org/10.5281/zenodo.4621760)
 (abstract) ·
 [weltliteratur.net](https://weltliteratur.net/theatre-on-mars/) (blog
@@ -162,6 +162,6 @@ Luca Giovannini, Julia Jennifer Beine, Ivan Pozdniakov:*\
 zehn Jahre danach (2016/2026) (DH2026, Vienna)**\
 [Best Poster Award](https://bsky.app/profile/dhpotsdam.bsky.social/post/3mft57pxfgk2v) 🏆 ·
 [figshare](https://doi.org/10.6084/m9.figshare.31113820) (poster) ·
-[Bluesky thread](https://twitter.com/umblaetterer/status/1235556225128886277) ·
+[Bluesky thread](https://bsky.app/profile/umblaetterer.bsky.social/post/3mfqx4esboc2y) ·
 [Mastodon thread](https://chaos.social/@umblaetterer/116136385820869150) ·
 [zenodo](https://doi.org/10.5281/zenodo.18702913) (abstract)
