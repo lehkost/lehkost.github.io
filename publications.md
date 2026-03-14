@@ -71,7 +71,7 @@ title: Publications
     **Introducing EcoCor: An Open Infrastructure for Digital Ecocriticism.**
     In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
 -   Luca Giovannini, Henny Sluyter-Gäthje, Daniil Skorinkin, Peer Trilcke,
-    Ingo Börner, Frank Fischer, Tabeer Khilji: **A Decade in Drama Research.
+    Ingo Börner, Frank Fischer, Tabeer Khilji: **A Decade in Drama Research:
     Data Mining the DraCor Bibliography (2015–2025).**
     In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
 
@@ -651,6 +651,10 @@ title: Publications
 
 ### Reviews
 
+-   Laura Untner, Frank Fischer, Henny Sluyter-Gäthje, Peer Trilcke,
+    Julia Jennifer Beine: **Conference Report, »DraCor Summit 2025«
+    (September 2025).** In: H-Soz-Kult, 13 March 2026. (URL:
+    <https://www.hsozkult.de/conferencereport/id/fdkn-160945>)
 -   Laura Untner, Viktor J. Illmer, Frank Fischer, Jonah Lubin:
     **Conference Report, »Linked Open Data and Literary Studies«
     (November 2024).** In: H-Soz-Kult, 16 March 2025. (URL:

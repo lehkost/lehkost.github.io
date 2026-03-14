@@ -5,6 +5,26 @@ title: Talks/Slides
 
 Invited talks, conference, workshop slides, introductions.
 
+### 2026
+
+<small>2026-07-xx · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
+COMUTE in Action: Usage Scenarios for Comparing Complex Multilingual Text Variants
+
+<small>2026-07-xx · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
+Canons of World Literature Contextualised: Introducing Canon Shelf and Canon Curator
+
+<small>2026-07-xx · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
+Introducing EcoCor: An Open Infrastructure for Digital Ecocriticism
+
+<small>2026-07-xx · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
+A Decade in Drama Research: Data Mining the DraCor Bibliography (2015–2025)
+
+<small>2026-06-18/19 · TU Darmstadt 🇩🇪 (Mapping the Canon: Quantitative Approaches to Literary History)</small><br />
+Canon Shelf: A Repository of Machine-Readable Canon Lists
+
+<small>2026-03-04 · Freie Universität Berlin 🇩🇪 (Forschungsdekan\*innenrunde)</small><br />
+Die Open Science-Prioritäten der Freien Universität und der Berlin University Alliance
+
 ### 2025
 
 <small>2025-12-16 · Freie Universität Berlin 🇩🇪 ([Proseminar »Die Tragödie der französischen Klassik. Corneille und Racine«](https://web.archive.org/web/20251009114246/https://www.fu-berlin.de/vv/de/lv/1025586))</small><br />
