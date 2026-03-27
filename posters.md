@@ -155,11 +155,18 @@ Drama (DH2024, Arlington, VA)**\
 **CLS INFRA: Leveraging Literary Methods for FAIR(er) Science (DH2025, Lisbon)**\
 [hal-05098718](https://hal.science/hal-05098718) (poster)
 
+*Ingo Börner, Peer Trilcke, Henny Sluyter-Gäthje, Daniil Skorinkin,
+Frank Fischer, Carsten Milling:*\
+**How to Chat with the History of European Drama. Connecting DraCor
+with a Large Language Model Using an MCP Server (DHd2026, Vienna)**\
+[zenodo](https://doi.org/10.5281/zenodo.18832506) (poster) ·
+[zenodo](https://doi.org/10.5281/zenodo.18702881) (abstract)
+
 *Frank Fischer, Lisa Poggel, Mark Schwindt, Carsten Milling,
 Henny Sluyter-Gäthje, Ingo Börner, Peer Trilcke, Daniil Skorinkin,
 Luca Giovannini, Julia Jennifer Beine, Ivan Pozdniakov:*\
 **Ganz viel Drama auf einen Blick: Der »Distant Reading-Showcase«,
-zehn Jahre danach (2016/2026) (DH2026, Vienna)**\
+zehn Jahre danach (2016/2026) (DHd2026, Vienna)**\
 [Best Poster Award](https://bsky.app/profile/dhpotsdam.bsky.social/post/3mft57pxfgk2v) 🏆 ·
 [figshare](https://doi.org/10.6084/m9.figshare.31113820) (poster) ·
 [Bluesky thread](https://bsky.app/profile/umblaetterer.bsky.social/post/3mfqx4esboc2y) ·
