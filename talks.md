@@ -627,7 +627,7 @@ Rache ist sein Gewerbe -- Radikale Verlierer in den Dramen von J. W. von Brawe
 Digitale Netzwerkanalyse dramatischer Texte ([minutes](https://comedy.hypotheses.org/12))
 
 <small>2015-02-27 · Graz 🇦🇹 (DHd2015)</small><br />
-[Wann ﬁndet die deutsche Literatur statt? Zur Untersuchung von Zeitausdrücken in großen Korpora](https://dbs.ifi.uni-heidelberg.de/fileadmin/Team/jannik/dhd2015-fischer-stroetgen-deutsche-literatur-slides.pdf) (PDF)
+[Wann findet die deutsche Literatur statt? Zur Untersuchung von Zeitausdrücken in großen Korpora](https://gams.uni-graz.at/o:dhd2015.v.045) (PDF)
 
 <small>2015-02-25 · Graz 🇦🇹 ([DHd2015](https://dhd2015.uni-graz.at/))</small><br />
 [Digitale Netzwerkanalyse dramatischer Texte](http://gams.uni-graz.at/o:dhd2015.v.040) (PDF)

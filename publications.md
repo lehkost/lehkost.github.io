@@ -19,7 +19,7 @@ title: Publications
 
 -   Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke (eds.):
     [**Wikipedia, Wikidata, and World Literature.**](https://culturalanalytics.org/issue/20/info/)
-    Special Issue of the **Journal of Cultural Analytics**, vol. 8, no. 2 (May 2023).
+    Special Issue of the **Journal of Cultural Analytics**. Vol. 8, No. 2 (May 2023).
 -   Jan Horstmann, Frank Fischer (eds.): [**Digitale Verfahren in der
     Literaturwissenschaft.**](https://www.textpraxis.net/sonderausgabe-6)
     Special Issue #6 of **Textpraxis. Digitales Journal für Philologie**
@@ -75,6 +75,14 @@ title: Publications
     Data Mining the DraCor Bibliography (2015–2025).**
     In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
 
+#### 2026
+
+-   Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Mark Schwindt, Jonas Rohe:
+    **More Plays than Atoms in the Universe: The Digitization of a 19th-Century
+    Generator for One-Act Comedies.** In: IEEE Transactions on Games. Vol. 18,
+    No. 1 (March 2026), pp. 207–210.
+    ([doi:10.1109/TG.2025.3608847](https://doi.org/10.1109/TG.2025.3608847))
+
 #### 2025
 
 -   Günter M. Ziegler, Frank Fischer, Beatrice Gründler, Dennis Mischke,
@@ -104,10 +112,6 @@ title: Publications
     UDraCor, the Ukrainian Drama Corpus in TEI.** In: TEI2025: »New Territories«.
     16–19 September 2025. Kraków. Book of Abstracts, pp. 121–123.
     ([doi:10.5281/zenodo.17312233](https://doi.org/10.5281/zenodo.17312233))
--   Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Mark Schwindt, Jonas Rohe:
-    **More Plays than Atoms in the Universe: The Digitization of a 19th-Century
-    Generator for One-Act Comedies.** In: IEEE Transactions on Games. 2025.
-    ([doi:10.1109/TG.2025.3608847](https://doi.org/10.1109/TG.2025.3608847))
 -   Peer Trilcke, Ingo Börner, Henny Sluyter-Gäthje, Daniil Skorinkin, Frank Fischer,
     Carsten Milling: **Agentic DraCor and the Art of Docstring Engineering: Evaluating
     MCP-empowered LLM Usage of the DraCor API.** In: DraCor Summit. 1–5 September 2025.
@@ -212,7 +216,7 @@ title: Publications
 -   Frank Fischer, Jacob Blakesley, Paula Wojcik, Robert Jäschke:
     **Preface: World Literature in an Expanding Digital Space.**
     In: eid. (eds.): Wikipedia, Wikidata, and World Literature. Special
-    Issue of the Journal of Cultural Analytics, vol. 8, no. 2 (May 2023).
+    Issue of the Journal of Cultural Analytics. Vol. 8, No. 2 (May 2023).
     ([doi:10.22148/001c.74598](https://doi.org/10.22148/001c.74598))
 -   Michel Schwab, Robert Jäschke, Frank Fischer: **»Who is the Madonna of
     Italian-American Literature?« Extracting and Analyzing Target Entities
@@ -280,7 +284,7 @@ title: Publications
 -   Michel Schwab, Robert Jäschke, Frank Fischer: **The Rodney Dangerfield
     of Stylistic Devices: End-to-End Detection and Extraction of Vossian
     Antonomasia Using Neural Networks.** In: Frontiers in Artificial
-    Intelligence, Vol. 5 (9 June 2022.)
+    Intelligence. Vol. 5 (9 June 2022).
     ([doi:10.3389/frai.2022.868249](https://doi.org/10.3389/frai.2022.868249))
 -   Jan Horstmann, Frank Fischer: **Einleitung.** In: eid. (eds.):
     Digitale  Verfahren in der Literaturwissenschaft. Special Issue #6
@@ -518,7 +522,7 @@ title: Publications
     German Palchikov, Irina Pavlova, Ivan Pozdniakov, Daniil Skorinkin,
     Peer Trilcke: **Life(!) on Stage: Building an interface for the
     network analysis of TEI-encoded drama corpora.** In: TEI2017:
-    »Pedagogy and Praxis«. 11--15 November 2017. Book of Abstracts,
+    »Pedagogy and Praxis«. 11--15 November 2017. Book of Abstracts.
     Vol. 16. University of Victoria. (URL:
     <https://hcmc.uvic.ca/tei2017/abstracts/t_115_fischeretal_lifeonstage.html>)
 -   Frank Fischer, Carsten Milling: **Easy Linavis (Simple Network
@@ -621,8 +625,8 @@ title: Publications
 
 -   Frank Fischer: **Art. ›Stein, Benjamin‹.** In: Killy
     Literaturlexikon. Autoren und Werke des deutschsprachigen
-    Kulturraums. Ed. by Wilhelm Kühlmann. Vol. 11. Berlin/New York: De
-    Gruyter 2011, p. 205.
+    Kulturraums. Ed. by Wilhelm Kühlmann. Vol. 11. Berlin/New York:
+    De Gruyter 2011, p. 205.
 -   Frank Fischer, Tobias Grave, Carsten Milling, Jörg Ossenkopp:
     **HistVV: Die Leipziger Vorlesungsdatenbank 1814/15--1914.** In:
     Ulf Morgenstern, Thomas Riechert (eds.): Catalogus Professorum
