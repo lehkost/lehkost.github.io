@@ -7,19 +7,22 @@ Invited talks, conference, workshop slides, introductions.
 
 ### 2026
 
-<small>2026-07-xx · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
-COMUTE in Action: Usage Scenarios for Comparing Complex Multilingual Text Variants
+<small>2026-09-22 · Freie Universität Berlin 🇩🇪 ([Beyond the Book: Digital Research, Presentation, and Sustainability](https://closingthegap.github.io/workshop/))</small><br />
+Sustainability of Digital Scholarship
 
-<small>2026-07-xx · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
+<small>2026-07-31 · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
 Canons of World Literature Contextualised: Introducing Canon Shelf and Canon Curator
 
-<small>2026-07-xx · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
-Introducing EcoCor: An Open Infrastructure for Digital Ecocriticism
-
-<small>2026-07-xx · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
+<small>2026-07-31 · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
 A Decade in Drama Research: Data Mining the DraCor Bibliography (2015–2025)
 
-<small>2026-06-18/19 · TU Darmstadt 🇩🇪 (Mapping the Canon: Quantitative Approaches to Literary History)</small><br />
+<small>2026-07-30 · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
+Introducing EcoCor: An Open Infrastructure for Digital Ecocriticism
+
+<small>2026-07-29 · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
+COMUTE in Action: Usage Scenarios for Comparing Complex Multilingual Text Variants
+
+<small>2026-06-18 · TU Darmstadt 🇩🇪 ([Mapping the Canon: Quantitative Approaches to Literary History](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/brottrager/mapping_the_canon/index.en.jsp))</small><br />
 Canon Shelf: A Repository of Machine-Readable Canon Lists
 
 <small>2026-03-04 · Freie Universität Berlin 🇩🇪 (Forschungsdekan\*innenrunde)</small><br />
@@ -32,7 +35,7 @@ Die Open Science-Prioritäten der Freien Universität und der Berlin University 
 
 <small>2025-12-11 · Witten/Herdecke University 🇩🇪 ([Reading Artists’ Books: Problems for Computer](https://www.uni-wh.de/en/reading-artists-books-problems-for-computer))</small><br />
 [Reading Nanni Balestrini: »Tape Mark I« (1961)](https://lehkost.github.io/slides/2025-12-11-nanni/index.html)
- 
+
 <small>2025-11-17 · Vilnius University 🇱🇹 (Beyond Digital Awe: European Jewish Studies and the Challenge of Digital Humanities)</small><br />
 Introducing YiDraCor: A TEI/XML-Encoded Corpus of Yiddish Drama
 

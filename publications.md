@@ -5,11 +5,10 @@ title: Publications
 
 ### Book
 
--   Frank Fischer: [**Triumph der Rache. Joachim Wilhelm von Brawe und
-    die Ästhetik der
-    Aufklärung.**](https://www.winter-verlag.de/detail/978-3-8253-6217-1)
-    Heidelberg: Winter 2013. (= Jenaer germanistische Forschungen. Neue
-    Folge. Vol. 34.) \[Full text [at Internet Archive](https://archive.org/details/frank-fischer-triumph-der-rache-2013).
+-   Frank Fischer: Triumph der Rache. Joachim Wilhelm von Brawe und die
+    Ästhetik der Aufklärung. Heidelberg: Winter 2013.
+    (= Jenaer germanistische Forschungen. Neue Folge. Vol. 34.) \[Full text
+    [at Internet Archive](https://archive.org/details/frank-fischer-triumph-der-rache-2013).
     Review by Edward T. Potter in: [Lessing Yearbook XLII,
     2015](https://brawe.uni-leipzig.de/forschung/2015_lessing_yearbook_42_-_review_triumph_der_rache.pdf).
     Digital edition of entire research material at
@@ -655,8 +654,8 @@ title: Publications
 
 ### Reviews
 
--   Laura Untner, Frank Fischer, Henny Sluyter-Gäthje, Peer Trilcke,
-    Julia Jennifer Beine: **Conference Report, »DraCor Summit 2025«
+-   Laura Untner, Frank Fischer, Henny Sluyter-Gäthje, Julia Jennifer
+    Beine, Peer Trilcke: **Conference Report, »DraCor Summit 2025«
     (September 2025).** In: H-Soz-Kult, 13 March 2026. (URL:
     <https://www.hsozkult.de/conferencereport/id/fdkn-160945>)
 -   Laura Untner, Viktor J. Illmer, Frank Fischer, Jonah Lubin:

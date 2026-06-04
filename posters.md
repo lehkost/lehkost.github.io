@@ -167,8 +167,15 @@ Henny Sluyter-Gäthje, Ingo Börner, Peer Trilcke, Daniil Skorinkin,
 Luca Giovannini, Julia Jennifer Beine, Ivan Pozdniakov:*\
 **Ganz viel Drama auf einen Blick: Der »Distant Reading-Showcase«,
 zehn Jahre danach (2016/2026) (DHd2026, Vienna)**\
-[Best Poster Award](https://bsky.app/profile/dhpotsdam.bsky.social/post/3mft57pxfgk2v) 🏆 ·
+[Best Poster Award](https://digitalhumanities.de/dhd-awards-2026/) 🏆 ·
 [figshare](https://doi.org/10.6084/m9.figshare.31113820) (poster) ·
 [Bluesky thread](https://bsky.app/profile/umblaetterer.bsky.social/post/3mfqx4esboc2y) ·
 [Mastodon thread](https://chaos.social/@umblaetterer/116136385820869150) ·
 [zenodo](https://doi.org/10.5281/zenodo.18702913) (abstract)
+
+*Peer Trilcke, Sören Barkey, Mareike Schumacher, Ingo Börner,
+Carsten Milling, Daniil Skorinkin, Henny Sluyter-Gäthje,
+Thomas Haider, Mark Schwindt, Anna Busch, Frank Fischer,
+Clara Funk, Luca Giovannini, Clara Helmig, Gesine Viebke, Tabeer Khilji:*\
+**EcoCor Network Posters ([EcoHack2026](https://www.uni-potsdam.de/de/digital-humanities/aktivitaeten/environmental-digital-humanities-hackathon), Potsdam)**\
+[figshare](https://doi.org/10.6084/m9.figshare.32129641) (posters)
