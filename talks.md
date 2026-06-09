@@ -22,6 +22,12 @@ Introducing EcoCor: An Open Infrastructure for Digital Ecocriticism
 <small>2026-07-29 · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
 COMUTE in Action: Usage Scenarios for Comparing Complex Multilingual Text Variants
 
+<small>2026-07-17 · Freie Universität Berlin 🇩🇪 ([Hannah Arendt: Complete Works. Critical Edition](https://www.arendt-research-center.de/en/index.html))</small><br />
+Schnittstellen der Edition
+
+<small>2026-07-14 · Freie Universität Berlin 🇩🇪 ([Kolloquium »Phänomenologie der Digital Humanities«](https://wikis.fu-berlin.de/spaces/phaenodh/pages/1819445977))</small><br />
+A Semantic Web for Literary Studies
+
 <small>2026-06-18 · TU Darmstadt 🇩🇪 ([Mapping the Canon: Quantitative Approaches to Literary History](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/brottrager/mapping_the_canon/index.en.jsp))</small><br />
 Canon Shelf: A Repository of Machine-Readable Canon Lists
 
@@ -281,7 +287,7 @@ CLS INFRA-WP7 Kick-Off Meeting
 <small>2021-11-03 · Eötvös Loránd University, Budapest 🇭🇺 ([Drámák a Mátrixban](https://www.elte.hu/content/dramak-a-matrixban.e.14110))</small><br />
 [Introducing the Hungarian Drama Corpus (HunDraCor)](https://lehkost.github.io/slides/2021-11-03-hundracor/index.html) ([Twitter, via archive.org](https://web.archive.org/web/20211029093834/https://twitter.com/umblaetterer/status/1454019018508144644))
 
-<small>2021-10-28 · Berlin 🇩🇪 ([Kolloquium »Phänomenologie der Digital Humanities«](https://wikis.fu-berlin.de/display/phaenodh))</small><br />
+<small>2021-10-28 · Berlin 🇩🇪 ([Kolloquium »Phänomenologie der Digital Humanities«](https://wikis.fu-berlin.de/spaces/phaenodh/pages/1253344982))</small><br />
 Wie funktioniert eigentlich Forschung in den Digital Humanities?
 
 <small>2021-09-30 · Friedrich-Alexander-Universität Erlangen-Nürnberg 🇩🇪</small><br />
