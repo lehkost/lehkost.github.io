@@ -10,6 +10,9 @@ Invited talks, conference, workshop slides, introductions.
 <small>2026-09-22 · Freie Universität Berlin 🇩🇪 ([Beyond the Book: Digital Research, Presentation, and Sustainability](https://closingthegap.github.io/workshop/))</small><br />
 Sustainability of Digital Scholarship
 
+<small>2026-09-20 · University of Toronto 🇨🇦 (50th Anniversary REED \[Records of Early English Drama\] Colloquium)</small><br />
+DraCor as Part of the Digital Ecosystem on Drama and Performance Studies
+
 <small>2026-07-31 · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
 Canons of World Literature Contextualised: Introducing Canon Shelf and Canon Curator
 
@@ -28,8 +31,11 @@ Schnittstellen der Edition
 <small>2026-07-14 · Freie Universität Berlin 🇩🇪 ([Kolloquium »Phänomenologie der Digital Humanities«](https://wikis.fu-berlin.de/spaces/phaenodh/pages/1819445977))</small><br />
 A Semantic Web for Literary Studies
 
+<small>2026-06-25 · Freie Universität Berlin 🇩🇪 ([COMUTE-Workshop »Making Multilingual Texts Visible: Exchange, Exploration, Perspectives«](https://www.comute-project.de/news/2026-06-10-workshop.html))</small><br />
+Lightning Talks (Session Chair)
+
 <small>2026-06-18 · TU Darmstadt 🇩🇪 ([Mapping the Canon: Quantitative Approaches to Literary History](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/brottrager/mapping_the_canon/index.en.jsp))</small><br />
-Canon Shelf: A Repository of Machine-Readable Canon Lists
+[Canon Shelf: A Repository of Machine-Readable Canon Lists](https://lehkost.github.io/slides/2026-06-18-darmstadt-canon-shelf/index.html)
 
 <small>2026-03-04 · Freie Universität Berlin 🇩🇪 (Forschungsdekan\*innenrunde)</small><br />
 Die Open Science-Prioritäten der Freien Universität und der Berlin University Alliance
@@ -46,7 +52,7 @@ Die Open Science-Prioritäten der Freien Universität und der Berlin University 
 Introducing YiDraCor: A TEI/XML-Encoded Corpus of Yiddish Drama
 
 <small>2025-11-05 · European University Viadrina Frankfurt (Oder) 🇩🇪 ([Facts and Findings – KIU Fellows Present Their Research](https://www.kiu.europa-uni.de/en/kiu-news-events/events-kiu/past-events/2025/20251105-fellows-present-their-research/index.html))</small><br />
-Panel Moderation
+Panel Discussion (Moderator)
 
 <small>2025-10-17 · Freie Universität Berlin 🇩🇪 ([Open Science in Action – Auftaktveranstaltung der Open Science Working Group an der FU Berlin](https://www.fu-berlin.de/sites/open_access/termine/2025-10-17_OSWG-Event.html))</small><br />
 Intro &amp; Outro
