@@ -31,8 +31,11 @@ Schnittstellen der Edition
 <small>2026-07-14 · Freie Universität Berlin 🇩🇪 ([Kolloquium »Phänomenologie der Digital Humanities«](https://wikis.fu-berlin.de/spaces/phaenodh/pages/1819445977))</small><br />
 A Semantic Web for Literary Studies
 
-<small>2026-06-25 · Freie Universität Berlin 🇩🇪 ([COMUTE-Workshop »Making Multilingual Texts Visible: Exchange, Exploration, Perspectives«](https://www.comute-project.de/news/2026-06-10-workshop.html))</small><br />
-Lightning Talks (Session Chair)
+<small>2026-06-25 · Freie Universität Berlin 🇩🇪 ([COMUTE Workshop »Making Multilingual Texts Visible: Exchange, Exploration, Perspectives«](https://www.comute-project.de/news/2026-06-10-workshop.html))</small><br />
+[COMUTE Applications in Literary Studies](https://lehkost.github.io/slides/2026-06-25-comute-applications/index.html)
+
+<small>2026-06-25 · Freie Universität Berlin 🇩🇪 ([COMUTE Workshop »Making Multilingual Texts Visible: Exchange, Exploration, Perspectives«](https://www.comute-project.de/news/2026-06-10-workshop.html))</small><br />
+[Lightning Talks](https://lehkost.github.io/slides/2026-06-25-comute-intro/index.html) (Session Chair)
 
 <small>2026-06-18 · TU Darmstadt 🇩🇪 ([Mapping the Canon: Quantitative Approaches to Literary History](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/brottrager/mapping_the_canon/index.en.jsp))</small><br />
 [Canon Shelf: A Repository of Machine-Readable Canon Lists](https://lehkost.github.io/slides/2026-06-18-darmstadt-canon-shelf/index.html)
@@ -426,7 +429,7 @@ A Data-Driven View on Russian Drama ([conference review at H-Soz-Kult](https://w
 <small>2019-06-20 · Montréal 🇨🇦 ([SUNBELT 2019](https://www.fourwav.es/view/717/info/))</small><br />
 [Programmable Corpora: Towards a Combined Words/Networks Analysis of Literary Texts](/slides/2019-06-20-montreal-sunbelt/index.html)
 
-<small>2019-06-14 · University of Potsdam 🇩🇪 ([Kongress »Fontanes Medien«](https://www.uni-potsdam.de/de/fontanekongress/kongress-programm/freitag-146.html))</small><br />
+<small>2019-06-14 · University of Potsdam 🇩🇪 ([Kongress »Fontanes Medien«](https://www.uni-potsdam.de/en/fontanekongress/kongress-programm/hauptprogramm-freitag-146))</small><br />
 [Fontane im Wikiversum -- Ein Beitrag zur digitalen Rezeptionsgeschichte](/slides/2019-06-14-potsdam-fontane/index.html) (mentioned in conference review by [»Die Welt«](https://www.welt.de/195383531))
 
 <small>2019-06-12 · ZfL Berlin 🇩🇪 ([Panel Discussion](http://www.zfl-berlin.org/veranstaltungen-detail/items/moscow-formalism-and-literary-history.html))</small><br />
@@ -482,7 +485,7 @@ Introduction to Wikidata
 <small>2018-11-13 · Aarhus University 🇩🇰</small><br />
 [Introduction to Social Network Analysis](/slides/2018-aarhus-sna-intro/index.html)
 
-<small>2018-10-30a · Linnéuniversitetet, Växjö 🇸🇪 ([Digital Humanities Day](https://lnu.se/en/meet-linnaeus-university/current/events/2018/Digital-Humanities-Day/))</small><br />
+<small>2018-10-30a · Linnéuniversitetet, Växjö 🇸🇪 ([Digital Humanities Day](https://www.lnu.se/en/meet-linnaeus-university/current/events/2018/Digital-Humanities-Day/))</small><br />
 [Masks and Interfaces -- Digital Perspectives for the Study of European Drama](/slides/2018-vaxjo-drama-studies/index.html)
 
 <small>2018-10-30b · Linnéuniversitetet, Växjö 🇸🇪 (Digital Humanities Day)</small><br />

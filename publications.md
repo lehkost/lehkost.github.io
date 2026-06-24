@@ -467,12 +467,12 @@ title: Publications
     Daniil Skorinkin: **To Catch a Protagonist: Quantitative Dominance
     Relations in German-Language Drama (1730--1930).** In: DH2018:
     »Puentes/Bridges«. 26--29 June 2018. Book of Abstracts / Libro de
-    resúmenes. Mexico: Red de Humanidades Digitales A. C. (URL:
+    resúmenes. Mexico: Red de Humanidades Digitales A. C., pp. 193–201. (URL:
     <https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf#page=193>)
 -   Boris Orekhov, Frank Fischer: **The 91st Volume -- How the Digitised
     Index for the Collected Works of Leo Tolstoy Adds a New Angle for
     Research.** In: DH2018: »Puentes/Bridges«. 26--29 June 2018. Book of
-    Abstracts / Libro de resúmenes. Mexico: Red de Humanidades
+    Abstracts / Libro de resúmenes, pp. 465–466. Mexico: Red de Humanidades
     Digitales A. C. (URL:
     <https://dh2018.adho.org/wp-content/uploads/2018/06/dh2018_abstracts.pdf#page=465>)
 -   Daniil Skorinkin, Frank Fischer: **Measuring the ›Epification‹ of
