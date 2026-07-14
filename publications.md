@@ -267,18 +267,18 @@ title: Publications
 -   Stefan Heßbrüggen-Walter, Frank Fischer, Simon Meier-Vieracker:
     **Patterns of Verb Usage in Immanuel Kant’s Critical Writings.**
     In: DH2022: »Responding to Asian Diversity«. 25--29 July 2022. Book of
-    Abstracts. University of Tokyo.
+    Abstracts, pp. 486–488. University of Tokyo.
     (URL: <https://dh2022.dhii.asia/abstracts/202>)
 -   Laure Barbot, Edward Gray, Frank Fischer, Daan Broeder, Matej Ďurčo,
     Mari Kleemola, Carsten Thiel, Klaus Illmayer, Alexander König: **The
     European Open Science Cloud (EOSC) and Its Implications for the Digital
     Humanities and Social Sciences.** In: DH2022: »Responding to Asian
-    Diversity«. 25--29 July 2022. Book of Abstracts. University of Tokyo.
-    (URL: <https://dh2022.dhii.asia/abstracts/286>)
+    Diversity«. 25--29 July 2022. Book of Abstracts, pp. 68–70. University
+    of Tokyo. (URL: <https://dh2022.dhii.asia/abstracts/286>)
 -   Alireza Zarei, Yim Seung-Bin, Frank Fischer, Matej Ďurčo, Philipp Wieder:
     **Measuring the Use of Tools and Software in the Digital Humanities.**
     In: DH2022: »Responding to Asian Diversity«. 25--29 July 2022. Book of
-    Abstracts. University of Tokyo.
+    Abstracts, pp. 406–409. University of Tokyo.
     (URL: <https://dh2022.dhii.asia/abstracts/349>)
 -   Michel Schwab, Robert Jäschke, Frank Fischer: **The Rodney Dangerfield
     of Stylistic Devices: End-to-End Detection and Extraction of Vossian
@@ -489,9 +489,16 @@ title: Publications
 -   Frank Fischer, Robert Jäschke: **Liebe und Tod in der Deutschen
     Nationalbibliothek: Der DNB-Katalog als Forschungsobjekt der
     digitalen Literaturwissenschaft.** In: DHd2018: »Kritik der
-    digitalen Vernunft«. 26 February--2 March 2018, University of
-    Cologne. Book of Abstracts, pp. 261--266.
+    digitalen Vernunft«. 26 February--2 March 2018, University
+    of Cologne. Book of Abstracts, pp. 261--266.
     ([doi:10.5281/zenodo.4622376](https://doi.org/10.5281/zenodo.4622376))
+-   Ingo Börner, Frank Fischer, Angelika Hechtl, Robert Jäschke,
+    Peer Trilcke: **Cäsar Flaischlens »Graphische Litteratur-Tafel« –
+    digitale Erschließung einer großformatigen Karte zur Deutschen
+    Literatur.** In: DHd2018: »Kritik der
+    digitalen Vernunft«. 26 February--2 March 2018, University
+    of Cologne. Book of Abstracts, pp. 261--266.
+    ([doi:10.5281/zenodo.4622336](https://doi.org/10.5281/zenodo.4622336))
 -   Peer Trilcke, Frank Fischer: **Literaturwissenschaft als Hackathon.
     Zur Praxeologie der Digital Literary Studies und ihren epistemischen
     Dingen.** In: Zeitschrift für digitale Geisteswissenschaften (ZfdG).

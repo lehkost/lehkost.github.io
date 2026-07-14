@@ -23,13 +23,13 @@ A Decade in Drama Research: Data Mining the DraCor Bibliography (2015–2025)
 Introducing EcoCor: An Open Infrastructure for Digital Ecocriticism
 
 <small>2026-07-29 · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
-COMUTE in Action: Usage Scenarios for Comparing Complex Multilingual Text Variants
+[COMUTE in Action: Usage Scenarios for Comparing Complex Multilingual Text Variants](https://lehkost.github.io/slides/2026-07-29-daejeon-comute/index.html)
 
-<small>2026-07-17 · Freie Universität Berlin 🇩🇪 ([Hannah Arendt: Complete Works. Critical Edition](https://www.arendt-research-center.de/en/index.html))</small><br />
-Schnittstellen der Edition
+<small>2026-07-17 · Freie Universität Berlin 🇩🇪 ([Hannah Arendt: Complete Works. Critical Edition](https://www.arendt-research-center.de/))</small><br />
+[Entwicklung und Nutzung der Programmierschnittstelle (API) der Hannah-Arendt-Edition](https://lehkost.github.io/slides/2026-07-17-ae/index.html)
 
 <small>2026-07-14 · Freie Universität Berlin 🇩🇪 ([Kolloquium »Phänomenologie der Digital Humanities«](https://wikis.fu-berlin.de/spaces/phaenodh/pages/1819445977))</small><br />
-A Semantic Web for Literary Studies
+[Literary Studies &amp; Semantic Web: Digitale Konstellationen literaturwissenschaftlichen Wissens](https://lehkost.github.io/slides/2026-07-14-dh-koll/index.html)
 
 <small>2026-06-25 · Freie Universität Berlin 🇩🇪 ([COMUTE Workshop »Making Multilingual Texts Visible: Exchange, Exploration, Perspectives«](https://www.comute-project.de/news/2026-06-10-workshop.html))</small><br />
 [COMUTE Applications in Literary Studies](https://lehkost.github.io/slides/2026-06-25-comute-applications/index.html)
@@ -552,6 +552,9 @@ Ein Quantum Literatur -- Empirische Daten zu einer Theorie des literarischen Tex
 
 <small>2017-09-22 · Krasnoyarsk 🇷🇺 ([DHRussia2017](http://conf2.sfu-kras.ru/en/dhrussia2017))</small><br />
 [Easy Linavis (Simple Network Visualisation for Literary Texts)](https://dlina.github.io/presentations/2017-krasnoyarsk/)
+
+<small>2017-08-11 · Montréal 🇨🇦 ([DH2017](https://dh2017.adho.org/))</small><br />
+[Cäsar Flaischlen’s »Graphische Litteratur-Tafel«. Digitising A Giant Historical Flowchart Of Foreign Influences On German Literature](https://dlina.github.io/presentations/2017-montreal/)
 
 <small>2017-08-10 · Montréal 🇨🇦 ([DH2017](https://dh2017.adho.org/))</small><br />
 [Network Dynamics, Plot Analysis: Approaching the Progressive Structuration of Literary Texts](https://dlina.github.io/presentations/2017-montreal/)
