@@ -63,4 +63,5 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 * Bluesky: [@umblaetterer.bsky.social](https://bsky.app/profile/umblaetterer.bsky.social)
 * dblp: [13/3984-5](https://dblp.org/pid/13/3984-5)
 * Index of DH Conferences: [authors/2614](https://dh-abstracts.library.cmu.edu/authors/2614)
+* OpenAlex: [A5101437756](https://openalex.org/authors/A5101437756)
 * [Google Scholar](https://scholar.google.com/citations?user=Rr4N3OwAAAAJ)

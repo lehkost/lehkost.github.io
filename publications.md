@@ -53,29 +53,34 @@ title: Publications
 
 ### Peer-Reviewed Papers and Articles for Edited Volumes
 
-#### Forthcoming
+#### 2026
 
 -   Frank Fischer, Yashee Singh, Janis Dähne, Sascha Heße, Paul Molitor,
     Marcus Pöckelmann, Jörg Ritter, Sandra Balck, Brigitte Grote, Steffen
     Frenzel, Manfred Stede: **COMUTE in Action: Usage Scenarios for Comparing
     Complex Multilingual Text Variants.**
     In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
+    Book of Abstracts, pp. 579--581.
+    ([doi:10.5281/zenodo.21495908](https://doi.org/10.5281/zenodo.21495908))
 -   Lisa Poggel, Laura Untner, Viktor J. Illmer, Jonas Rohe, Frank Fischer:
     **Canons of World Literature Contextualised: Introducing Canon Shelf and
     Canon Curator.**
     In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
+    Book of Abstracts, pp. 551--554.
+    ([doi:10.5281/zenodo.21495908](https://doi.org/10.5281/zenodo.21495908))
 -   Peer Trilcke, Sören Barkey, Ingo Börner, Carsten Milling, Mareike
     Schumacher, Daniil Skorinkin, Henny Sluyter-Gäthje, Clara Funk, Mark
     Schwindt, Anna Busch, Frank Fischer, Luca Giovannini, Clara Helmig:
     **Introducing EcoCor: An Open Infrastructure for Digital Ecocriticism.**
     In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
+    Book of Abstracts, pp. 679--683.
+    ([doi:10.5281/zenodo.21495908](https://doi.org/10.5281/zenodo.21495908))
 -   Luca Giovannini, Henny Sluyter-Gäthje, Daniil Skorinkin, Peer Trilcke,
     Ingo Börner, Frank Fischer, Tabeer Khilji: **A Decade in Drama Research:
     Data Mining the DraCor Bibliography (2015–2025).**
+    **Introducing EcoCor: An Open Infrastructure for Digital Ecocriticism.**
     In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
-
-#### 2026
-
+    Book of Abstracts, pp. 482--486.
 -   Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Mark Schwindt, Jonas Rohe:
     **More Plays than Atoms in the Universe: The Digitization of a 19th-Century
     Generator for One-Act Comedies.** In: IEEE Transactions on Games. Vol. 18,
@@ -268,7 +273,7 @@ title: Publications
     **Patterns of Verb Usage in Immanuel Kant’s Critical Writings.**
     In: DH2022: »Responding to Asian Diversity«. 25--29 July 2022. Book of
     Abstracts, pp. 486–488. University of Tokyo.
-    (URL: <https://dh2022.dhii.asia/abstracts/202>)
+    ([doi:10.5281/zenodo.21380797](https://doi.org/10.5281/zenodo.21380797))
 -   Laure Barbot, Edward Gray, Frank Fischer, Daan Broeder, Matej Ďurčo,
     Mari Kleemola, Carsten Thiel, Klaus Illmayer, Alexander König: **The
     European Open Science Cloud (EOSC) and Its Implications for the Digital

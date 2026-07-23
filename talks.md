@@ -7,6 +7,9 @@ Invited talks, conference, workshop slides, introductions.
 
 ### 2026
 
+<small>2026-10-30 · Freie Universität Berlin 🇩🇪 ([Echoes of Intelligence – The Critical AI Workshop](https://www.fu-berlin.de/en/sites/echo/connect1/_termine_connect/20261028_echoes_of_intelligence.html))</small><br />
+»Nur von Menschen verfasste Originalbeiträge«: KI in Journalismus und Öffentlichkeitsarbeit
+
 <small>2026-09-22 · Freie Universität Berlin 🇩🇪 ([Beyond the Book: Digital Research, Presentation, and Sustainability](https://closingthegap.github.io/workshop/))</small><br />
 Sustainability of Digital Scholarship
 
@@ -14,7 +17,7 @@ Sustainability of Digital Scholarship
 DraCor as Part of the Digital Ecosystem on Drama and Performance Studies
 
 <small>2026-07-31 · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
-Canons of World Literature Contextualised: Introducing Canon Shelf and Canon Curator
+[Canons of World Literature Contextualised: Introducing Canon Shelf and Canon Curator](https://lehkost.github.io/slides/2026-07-31-daejeon-canon/index.html)
 
 <small>2026-07-31 · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
 A Decade in Drama Research: Data Mining the DraCor Bibliography (2015–2025)
