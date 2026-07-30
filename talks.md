@@ -13,8 +13,14 @@ Invited talks, conference, workshop slides, introductions.
 <small>2026-09-22 · Freie Universität Berlin 🇩🇪 ([Beyond the Book: Digital Research, Presentation, and Sustainability](https://closingthegap.github.io/workshop/))</small><br />
 Sustainability of Digital Scholarship
 
-<small>2026-09-20 · University of Toronto 🇨🇦 (50th Anniversary REED \[Records of Early English Drama\] Colloquium)</small><br />
+<small>2026-09-20 · University of Toronto 🇨🇦 ([50th Anniversary REED \[Records of Early English Drama\] Colloquium](https://crrs.ca/crrsevents/records-of-early-english-drama-50th-anniversary-colloquium/))</small><br />
 DraCor as Part of the Digital Ecosystem on Drama and Performance Studies
+
+<small>2025-09-08 · University of Rostock 🇩🇪 ([Women Playwrights in Digital Corpora: A DraCor Hackathon](https://www.germanistik.uni-rostock.de/en/forschung/digital-humanities/rosdh/events/detail-view/n/women-playwrights-in-digital-corpora-a-dracor-hackathon-283694/))</small><br />
+Battle of the Plays World Championship 2026
+
+<small>2025-09-07 · University of Rostock 🇩🇪 ([Women Playwrights in Digital Corpora: A DraCor Hackathon](https://www.germanistik.uni-rostock.de/en/forschung/digital-humanities/rosdh/events/detail-view/n/women-playwrights-in-digital-corpora-a-dracor-hackathon-283694/))</small><br />
+[Analyses with DraCor Data](https://lehkost.github.io/slides/2025-09-01-dracor-simple/index.html)
 
 <small>2026-07-31 · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
 [Canons of World Literature Contextualised: Introducing Canon Shelf and Canon Curator](https://lehkost.github.io/slides/2026-07-31-daejeon-canon/index.html)
@@ -23,7 +29,7 @@ DraCor as Part of the Digital Ecosystem on Drama and Performance Studies
 A Decade in Drama Research: Data Mining the DraCor Bibliography (2015–2025)
 
 <small>2026-07-30 · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
-Introducing EcoCor: An Open Infrastructure for Digital Ecocriticism
+[Introducing EcoCor: An Open Infrastructure for Digital Ecocriticism](https://docs.google.com/presentation/d/1k_QEiyNmN_2vRfCP1EpSL3Z0cSVG9EkRP9pUAgkQJNs/present)
 
 <small>2026-07-29 · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
 [COMUTE in Action: Usage Scenarios for Comparing Complex Multilingual Text Variants](https://lehkost.github.io/slides/2026-07-29-daejeon-comute/index.html)
@@ -97,7 +103,7 @@ Agentic DraCor and the Art of Docstring Engineering: Evaluating MCP-empowered LL
 [Introducing *iberz*, a Database of Yiddish Translations](https://sreyfe.github.io/slides/2025-07-18-lisbon-iberz/)
 
 <small>2025-07-17 · Universidade NOVA de Lisboa 🇵🇹 ([DH2025](https://www.conftool.pro/dh2025/sessions.php))</small><br />
-[Towards Modularised Open Infrastructures: Enhancing Research Publications in Digital Humanities – »Detecting Small Worlds« as an Example](https://docs.google.com/presentation/d/1U8gykMkBrpwt24nvFDzhF6ypAMuaNYSVhYzw1MqBljM/edit?usp=sharing)
+[Towards Modularised Open Infrastructures: Enhancing Research Publications in Digital Humanities – »Detecting Small Worlds« as an Example](https://docs.google.com/presentation/d/1U8gykMkBrpwt24nvFDzhF6ypAMuaNYSVhYzw1MqBljM/present)
 
 <small>2025-07-17 · Universidade NOVA de Lisboa 🇵🇹 ([DH2025](https://www.conftool.pro/dh2025/sessions.php))</small><br />
 Collation of Multilingual Versions of a Text: Necessity, Approach, Challenges
@@ -418,7 +424,7 @@ A Data-Driven View on Russian Drama ([conference review at H-Soz-Kult](https://w
 [Introduction to Stylometry](/slides/2019-08-28-potsdam-stylometry/index.html)
 
 <small>2019-08-27 · University of Potsdam 🇩🇪 (Summer School »Debating Data«)</small><br />
-[Literary Network Analysis](https://docs.google.com/presentation/d/1-KjUzKC3F8ll08AXFdBnLd0yGmYOUoq8xBAC78SjMyQ/edit?usp=sharing) (Google Slides)
+[Literary Network Analysis](https://docs.google.com/presentation/d/1-KjUzKC3F8ll08AXFdBnLd0yGmYOUoq8xBAC78SjMyQ/present) (Google Slides)
 
 <small>2019-08-26 · University of Potsdam 🇩🇪 ([Summer School »Debating Data«](https://www.uni-potsdam.de/de/slavistik-russistik/aktuelles/archiv/summer-school-debating-data-oeffentliche-veranstaltungen))</small><br />
 [Introduction to the Digital Literary Studies](/slides/2019-08-26-potsdam-digital-literary-studies/index.html)

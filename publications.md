@@ -61,13 +61,13 @@ title: Publications
     Complex Multilingual Text Variants.**
     In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
     Book of Abstracts, pp. 579--581.
-    ([doi:10.5281/zenodo.21495908](https://doi.org/10.5281/zenodo.21495908))
+    ([doi:10.5281/zenodo.21659602](https://doi.org/10.5281/zenodo.21659602))
 -   Lisa Poggel, Laura Untner, Viktor J. Illmer, Jonas Rohe, Frank Fischer:
     **Canons of World Literature Contextualised: Introducing Canon Shelf and
     Canon Curator.**
     In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
     Book of Abstracts, pp. 551--554.
-    ([doi:10.5281/zenodo.21495908](https://doi.org/10.5281/zenodo.21495908))
+    ([doi:10.5281/zenodo.21711390](https://doi.org/10.5281/zenodo.21711390))
 -   Peer Trilcke, Sören Barkey, Ingo Börner, Carsten Milling, Mareike
     Schumacher, Daniil Skorinkin, Henny Sluyter-Gäthje, Clara Funk, Mark
     Schwindt, Anna Busch, Frank Fischer, Luca Giovannini, Clara Helmig:
