@@ -20,7 +20,7 @@ DraCor as Part of the Digital Ecosystem on Drama and Performance Studies
 Battle of the Plays World Championship 2026
 
 <small>2025-09-07 · University of Rostock 🇩🇪 ([Women Playwrights in Digital Corpora: A DraCor Hackathon](https://www.germanistik.uni-rostock.de/en/forschung/digital-humanities/rosdh/events/detail-view/n/women-playwrights-in-digital-corpora-a-dracor-hackathon-283694/))</small><br />
-[Analyses with DraCor Data](https://lehkost.github.io/slides/2025-09-01-dracor-simple/index.html)
+Analyses with DraCor Data
 
 <small>2026-07-31 · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
 [Canons of World Literature Contextualised: Introducing Canon Shelf and Canon Curator](https://lehkost.github.io/slides/2026-07-31-daejeon-canon/index.html)
