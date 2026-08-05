@@ -26,7 +26,7 @@ Analyses with DraCor Data
 [Canons of World Literature Contextualised: Introducing Canon Shelf and Canon Curator](https://lehkost.github.io/slides/2026-07-31-daejeon-canon/index.html)
 
 <small>2026-07-31 · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
-A Decade in Drama Research: Data Mining the DraCor Bibliography (2015–2025)
+[A Decade in Drama Research: Data Mining the DraCor Bibliography (2015–2025)](https://lucagiovannini7.github.io/slides/dh-2026.pdf)
 
 <small>2026-07-30 · Daejeon 🇰🇷 ([DH2026](https://dh2026.adho.org/))</small><br />
 [Introducing EcoCor: An Open Infrastructure for Digital Ecocriticism](https://docs.google.com/presentation/d/1k_QEiyNmN_2vRfCP1EpSL3Z0cSVG9EkRP9pUAgkQJNs/present)
@@ -47,7 +47,7 @@ A Decade in Drama Research: Data Mining the DraCor Bibliography (2015–2025)
 [Lightning Talks](https://lehkost.github.io/slides/2026-06-25-comute-intro/index.html) (Session Chair)
 
 <small>2026-06-18 · TU Darmstadt 🇩🇪 ([Mapping the Canon: Quantitative Approaches to Literary History](https://www.linglit.tu-darmstadt.de/institutlinglit/mitarbeitende/brottrager/mapping_the_canon/index.en.jsp))</small><br />
-[Canon Shelf: A Repository of Machine-Readable Canon Lists](https://lehkost.github.io/slides/2026-06-18-darmstadt-canon-shelf/index.html)
+[Canon Shelf: A Repository of Machine-Readable Canon Lists](https://lehkost.github.io/slides/2026-06-18-darmstadt-canon-shelf/index.html) ([doi:10.5281/zenodo.21402279](https://doi.org/10.5281/zenodo.21402279))
 
 <small>2026-03-04 · Freie Universität Berlin 🇩🇪 (Forschungsdekan\*innenrunde)</small><br />
 Die Open Science-Prioritäten der Freien Universität und der Berlin University Alliance
@@ -183,10 +183,10 @@ Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik (DraCor,
 [Programmable Corpora and Network Analysis](https://lehkost.github.io/slides/2024-06-11-vienna-cls-infra/index.html)
 
 <small>2024-06-10 · ACDH-CH OEAW (Vienna) 🇦🇹 ([CLS INFRA Training School](https://clsinfra.io/events/training-school/))</small><br />
-[Introducing DraCor](https://lehkost.github.io/slides/2024-06-10-vienna-dracor/index.html) ([PDF](https://doi.org/10.5281/zenodo.15112759))
+[Introducing DraCor](https://lehkost.github.io/slides/2024-06-10-vienna-dracor/index.html) ([doi:10.5281/zenodo.15112759](https://doi.org/10.5281/zenodo.15112759))
 
 <small>2024-05-02 · University of Rostock 🇩🇪 ([Ringvorlesung des #RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
-[Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute](https://lehkost.github.io/slides/2024-05-02-rosdh/index.html) ([PDF](https://zenodo.org/doi/10.5281/zenodo.13143161)) ([recap](https://dhimfokus.hypotheses.org/1700))
+[Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute](https://lehkost.github.io/slides/2024-05-02-rosdh/index.html) ([doi:10.5281/zenodo.13143161](https://zenodo.org/doi/10.5281/zenodo.13143161)) ([recap](https://dhimfokus.hypotheses.org/1700))
 
 <small>2024-04-12 · Akademie der Wissenschaften und der Literatur Mainz 🇩🇪 ([Connecting the Dots: Briefe in Literaturwissenschaft und Digital Humanities](https://korrespondenzen-fruehromantik.uni-mainz.de/tagung-april-2024/))</small><br />
 [Netzwerkdaten in der Literaturwissenschaft](https://lehkost.github.io/slides/2024-04-12-mainz/index.html)
@@ -621,13 +621,13 @@ World Literature According to Wikipedia
 Fernlesen mit Foucault? -- Praxis und Reflexion der Digital Humanities aus literaturwissenschaftlicher Sicht
 
 <small>2015-10-07 · Madrid 🇪🇸 ([HDH2015](http://hdh2015.linhd.es/))</small><br />
-[Un calendario de la literatura española (aplicación para Android e iOS)](https://dbs.ifi.uni-heidelberg.de/fileadmin/Team/jannik/hdh2015-madrid-slides.pdf) (PDF)
+[Un calendario de la literatura española (aplicación para Android e iOS)](https://ds.ifi.uni-heidelberg.de/files/Team/jannik/hdh2015-madrid-slides.pdf) (PDF)
 
 <small>2015-09-16 · Hamburg 🇩🇪 ([FORGE2015](https://www.fdm.uni-hamburg.de/ueber-uns/a-nachrichten/aktivitaeten/forge15.html))</small><br />
 [Mehr als wegspeichern -- Das (Nach-)leben digitaler Forschungsdaten](http://humanities-data-centre.org/wp-content/uploads/PUBLIC_HDC_WS_Breakoutsession1_Fischer_Wuttke2015.pdf) (PDF)
 
 <small>2015-07-03 · Sydney 🇦🇺 (DH2015)</small><br />
-[When Does German Literature Take Place?](https://dbs.ifi.uni-heidelberg.de/fileadmin/Team/jannik/publications/dh2015-sydney-fischer-stroetgen-german-literature-slides.pdf) (PDF)
+[When Does German Literature Take Place?](https://ds.ifi.uni-heidelberg.de/files/Team/jannik/publications/dh2015-sydney-fischer-stroetgen-german-literature-slides.pdf) (PDF)
 
 <small>2015-07-02 · Sydney 🇦🇺 (DH2015)</small><br />
 [Digital Network Analysis of Dramatic Texts](https://dlina.github.io/presentations/2015-sydney/sydney.html)
