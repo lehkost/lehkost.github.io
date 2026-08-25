@@ -7,9 +7,9 @@ title: Publications
 
 -   Frank Fischer: Triumph der Rache. Joachim Wilhelm von Brawe und die
     Ästhetik der Aufklärung. Heidelberg: Winter 2013.
-    (= Jenaer germanistische Forschungen. Neue Folge. Vol. 34.) \[Full text
-    [at Internet Archive](https://archive.org/details/frank-fischer-triumph-der-rache-2013).
-    Review by Edward T. Potter in: [Lessing Yearbook XLII,
+    (= Jenaer germanistische Forschungen. Neue Folge. Vol. 34.)
+    ([doi:10.5281/zenodo.22079831](https://doi.org/10.5281/zenodo.22079831))
+    \[Review by Edward T. Potter in: [Lessing Yearbook XLII,
     2015](https://brawe.uni-leipzig.de/forschung/2015_lessing_yearbook_42_-_review_triumph_der_rache.pdf).
     Digital edition of entire research material at
     <https://brawe.uni-leipzig.de/>.\]

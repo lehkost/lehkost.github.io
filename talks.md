@@ -185,7 +185,7 @@ Infrastrukturelle Voraussetzungen für die digitale Gattungshermeneutik (DraCor,
 <small>2024-06-10 · ACDH-CH OEAW (Vienna) 🇦🇹 ([CLS INFRA Training School](https://clsinfra.io/events/training-school/))</small><br />
 [Introducing DraCor](https://lehkost.github.io/slides/2024-06-10-vienna-dracor/index.html) ([doi:10.5281/zenodo.15112759](https://doi.org/10.5281/zenodo.15112759))
 
-<small>2024-05-02 · University of Rostock 🇩🇪 ([Ringvorlesung des #RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
+<small>2024-05-02 · University of Rostock 🇩🇪 ([Ringvorlesung des \#RosDH](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/))</small><br />
 [Von DRAMALYS.EXE zu DraCor – Eine Geschichte der digitalen Dramenanalyse von 1984 bis heute](https://lehkost.github.io/slides/2024-05-02-rosdh/index.html) ([doi:10.5281/zenodo.13143161](https://zenodo.org/doi/10.5281/zenodo.13143161)) ([recap](https://dhimfokus.hypotheses.org/1700))
 
 <small>2024-04-12 · Akademie der Wissenschaften und der Literatur Mainz 🇩🇪 ([Connecting the Dots: Briefe in Literaturwissenschaft und Digital Humanities](https://korrespondenzen-fruehromantik.uni-mainz.de/tagung-april-2024/))</small><br />
@@ -267,7 +267,7 @@ The European Open Science Cloud (EOSC) and Its Implications for the Digital Huma
 <small><s>2022-06-30</s> · LAHP + EXC2020 TC + ExC Matters of Activity 🇬🇧 🇩🇪 ([Digital Arts & Humanities Lab](https://userblogs.fu-berlin.de/digital-arts-and-humanities-lab/))</small><br />
 Network Analysis in Literary Studies (Workshop) [postponed]
 
-<small>2022-06-09 · Freie Universität Berlin 🇩🇪 ([Digital\*Humanities im Gespräch #25](https://www.fu-berlin.de/sites/dhc/programme/termine/dh-gespraech-sose-22-2.html))</small><br />
+<small>2022-06-09 · Freie Universität Berlin 🇩🇪 ([Digital\*Humanities im Gespräch \#25](https://www.fu-berlin.de/sites/dhc/programme/termine/dh-gespraech-sose-22-2.html))</small><br />
 [DraCor – Ein Forschungsprojekt zur Analyse des europäischen Dramas und seine digitale Umgebung](https://lehkost.github.io/slides/2022-06-09-dhc/index.html)
 
 <small>2022-05-26 · Università Ca’ Foscari di Venezia 🇮🇹 ([Dramma europeo nell’età moderna: circolazioni, configurazioni e innovazioni](https://www.unive.it/data/16437/1/62172))</small><br />
@@ -335,7 +335,7 @@ How to Get 90,000 Readers Interested in Digital Humanities: Experiences with [»
 <small>2021-06-14 · University of Göttingen (virtual) 🇩🇪 ([Institut für Digital Humanities](https://www.uni-goettingen.de/de/597374.html))</small><br />
 [DraCor & Co. – Programmierbare Korpora für eine digitale Literaturwissenschaft](https://lehkost.github.io/slides/2021-06-14-goettingen/index.html)
 
-<small>2021-05-12 · University of Cologne (virtual) 🇩🇪 ([vDHd2021, #autoChirp Night](https://texperimentales.hypotheses.org/4531))</small><br />
+<small>2021-05-12 · University of Cologne (virtual) 🇩🇪 ([vDHd2021, \#autoChirp Night](https://texperimentales.hypotheses.org/4531))</small><br />
 [TiwoliChirp PechaKucha](https://lehkost.github.io/slides/2021-05-12-vdhd-tiwolichirp/index.html)
 
 <small>2021-03-26 · (virtual) ([vDHd2021](https://vdhd2021.hypotheses.org/))</small><br />
@@ -570,6 +570,9 @@ Ein Quantum Literatur -- Empirische Daten zu einer Theorie des literarischen Tex
 
 <small>2017-06-29 · St. Petersburg 🇷🇺 ([CORPORA 2017](https://events.spbu.ru/events/anons/corpora-2017/))</small><br />
 [Introducing RusDraCor, a TEI-Encoded Russian Drama Corpus for the Digital Literary Studies](https://dlina.github.io/presentations/2017-spb/)
+
+<small>2017-05-04 · University of Sheffield 🇬🇧 ([Information School Research Seminar](https://web.archive.org/web/20170427060349/https://sheffield.ac.uk/is/research/seminars))</small><br />
+Corpus-Based Network Analysis of Literary Texts
 
 <small>2017-02-15 · Bern 🇨🇭 ([DHd2017](http://www.dhd2017.ch/))</small><br />
 [»Der Helmut Kohl unter den Brotaufstrichen«. Zur Extraktion Vossianischer Antonomasien aus großen Zeitungskorpora](/slides/2017-bern/index.html)
