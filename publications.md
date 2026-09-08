@@ -401,7 +401,7 @@ title: Publications
     Extraction of Vossian Antonomasia.** In: Proceedings of the 2019
     Conference on Empirical Methods in Natural Language Processing
     (EMNLP). Association for Computational Linguistics 2019.
-    ([doi:10.18653/v1/D19-1647](https://dx.doi.org/10.18653/v1/D19-1647))
+    ([doi:10.18653/v1/D19-1647](https://doi.org/10.18653/v1/D19-1647))
 -   Frank Fischer, Susanne Haaf, Marius Hug: **The Best of Three Worlds:
     Mutual Enhancement of Corpora of Dramatic Texts (GerDraCor, German
     Text Archive, TextGrid Repository).** In: CLARIN Annual
@@ -638,6 +638,7 @@ title: Publications
     Literaturlexikon. Autoren und Werke des deutschsprachigen
     Kulturraums. Ed. by Wilhelm Kühlmann. Vol. 11. Berlin/New York:
     De Gruyter 2011, p. 205.
+    ([doi:10.1515/9783110220414.200](https://doi.org/10.1515/9783110220414.200))
 -   Frank Fischer, Tobias Grave, Carsten Milling, Jörg Ossenkopp:
     **HistVV: Die Leipziger Vorlesungsdatenbank 1814/15--1914.** In:
     Ulf Morgenstern, Thomas Riechert (eds.): Catalogus Professorum
@@ -649,11 +650,12 @@ title: Publications
     Literaturlexikon. Autoren und Werke des deutschsprachigen
     Kulturraums. Ed. by Wilhelm Kühlmann. Vol. 2. Berlin/New York: De
     Gruyter 2008, pp. 147--148.
+    ([doi:10.1515/9783110209341.1](https://doi.org/10.1515/9783110209341.1))
 -   Frank Fischer, Tobias Grave: **Die Universität als Lehrbetrieb
     vermessen. Inhaltserschließung der Leipziger Vorlesungsverzeichnisse
     1814/15--1914.** In: BIS -- Das Magazin der Bibliotheken in Sachsen.
-    Vol. 1 (2008), Issue 3, p. 173. (URL:
-    <https://nbn-resolving.org/urn:nbn:de:bsz:14-ds-1220958924550-65791>)
+    Vol. 1 (2008), Issue 3, p. 173.
+    ([urn:nbn:de:bsz:14-ds-1220958924550-65791](https://nbn-resolving.org/urn:nbn:de:bsz:14-ds-1220958924550-65791))
 -   Frank Fischer: **Rache und Geschichte. Zur Neuausgabe von Brawes
     »Brutus«.** In: J. W. v. Brawe: Brutus. Ed. by Frank Fischer & Jörg
     Riemer. Preface by Steffen Martus. Leipzig: Ille & Riemer 2007, pp.
