@@ -60,28 +60,27 @@ title: Publications
     Frenzel, Manfred Stede: **COMUTE in Action: Usage Scenarios for Comparing
     Complex Multilingual Text Variants.**
     In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
-    Book of Abstracts, pp. 579--581.
+    Book of Abstracts, pp. 614--616.
     ([doi:10.5281/zenodo.21659602](https://doi.org/10.5281/zenodo.21659602))
 -   Lisa Poggel, Laura Untner, Viktor J. Illmer, Jonas Rohe, Frank Fischer:
     **Canons of World Literature Contextualised: Introducing Canon Shelf and
     Canon Curator.**
     In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
-    Book of Abstracts, pp. 551--554.
+    Book of Abstracts, pp. 585--589.
     ([doi:10.5281/zenodo.21711390](https://doi.org/10.5281/zenodo.21711390))
 -   Peer Trilcke, Sören Barkey, Ingo Börner, Carsten Milling, Mareike
     Schumacher, Daniil Skorinkin, Henny Sluyter-Gäthje, Clara Funk, Mark
     Schwindt, Anna Busch, Frank Fischer, Luca Giovannini, Clara Helmig:
     **Introducing EcoCor: An Open Infrastructure for Digital Ecocriticism.**
     In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
-    Book of Abstracts, pp. 679--683.
-    ([doi:10.5281/zenodo.21495909](https://doi.org/10.5281/zenodo.21495909))
+    Book of Abstracts, pp. 717--721.
+    ([doi:10.5281/zenodo.22656106](https://doi.org/10.5281/zenodo.22656106))
 -   Luca Giovannini, Henny Sluyter-Gäthje, Daniil Skorinkin, Peer Trilcke,
     Ingo Börner, Frank Fischer, Tabeer Khilji: **A Decade in Drama Research:
     Data Mining the DraCor Bibliography (2015–2025).**
-    **Introducing EcoCor: An Open Infrastructure for Digital Ecocriticism.**
     In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
-    Book of Abstracts, pp. 482--486.
-    ([doi:10.5281/zenodo.21495909](https://doi.org/10.5281/zenodo.21495909))
+    Book of Abstracts, pp. 515--519.
+    ([doi:10.5281/zenodo.22656106](https://doi.org/10.5281/zenodo.22656106))
 -   Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Mark Schwindt, Jonas Rohe:
     **More Plays than Atoms in the Universe: The Digitization of a 19th-Century
     Generator for One-Act Comedies.** In: IEEE Transactions on Games. Vol. 18,
