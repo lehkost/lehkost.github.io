@@ -74,13 +74,14 @@ title: Publications
     **Introducing EcoCor: An Open Infrastructure for Digital Ecocriticism.**
     In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
     Book of Abstracts, pp. 679--683.
-    ([doi:10.5281/zenodo.21495908](https://doi.org/10.5281/zenodo.21495908))
+    ([doi:10.5281/zenodo.21495909](https://doi.org/10.5281/zenodo.21495909))
 -   Luca Giovannini, Henny Sluyter-Gäthje, Daniil Skorinkin, Peer Trilcke,
     Ingo Börner, Frank Fischer, Tabeer Khilji: **A Decade in Drama Research:
     Data Mining the DraCor Bibliography (2015–2025).**
     **Introducing EcoCor: An Open Infrastructure for Digital Ecocriticism.**
     In: DH2026: »Engagement«. 27--31 July 2026. Daejeon, South Korea.
     Book of Abstracts, pp. 482--486.
+    ([doi:10.5281/zenodo.21495909](https://doi.org/10.5281/zenodo.21495909))
 -   Viktor J. Illmer, Dîlan Canan Çakir, Frank Fischer, Mark Schwindt, Jonas Rohe:
     **More Plays than Atoms in the Universe: The Digitization of a 19th-Century
     Generator for One-Act Comedies.** In: IEEE Transactions on Games. Vol. 18,

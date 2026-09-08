@@ -179,3 +179,8 @@ Thomas Haider, Mark Schwindt, Anna Busch, Frank Fischer,
 Clara Funk, Luca Giovannini, Clara Helmig, Gesine Viebke, Tabeer Khilji:*\
 **EcoCor Network Posters ([EcoHack2026](https://www.uni-potsdam.de/de/digital-humanities/aktivitaeten/environmental-digital-humanities-hackathon), Potsdam)**\
 [figshare](https://doi.org/10.6084/m9.figshare.32129641) (posters)
+
+*Yashee Singh, Frank Fischer:*\
+**Encoding Pedagogy: Interpreting the Upanishads through
+Small-Scale Semantic Annotation (DH2026, Daejeon, South Korea)**\
+[zenodo](https://doi.org/10.5281/zenodo.21625948) (poster)
