@@ -11,10 +11,10 @@ Invited talks, conference, workshop slides, introductions.
 »Nur von Menschen verfasste Originalbeiträge«: KI in Journalismus und Öffentlichkeitsarbeit
 
 <small>2026-09-22 · Freie Universität Berlin 🇩🇪 ([Beyond the Book: Digital Research, Presentation, and Sustainability](https://closingthegap.github.io/workshop/))</small><br />
-Sustainability of Digital Scholarship
+[Sustainability of Digital Scholarship](https://lehkost.github.io/slides/2026-09-22-beyond-the-book/index.html)
 
 <small>2026-09-20 · University of Toronto 🇨🇦 ([50th Anniversary REED \[Records of Early English Drama\] Colloquium](https://crrs.ca/crrsevents/records-of-early-english-drama-50th-anniversary-colloquium/))</small><br />
-DraCor as Part of the Digital Ecosystem on Drama and Performance Studies
+[DraCor as Part of the Digital Ecosystem on Drama and Performance Studies](https://lehkost.github.io/slides/2026-09-20-toronto-reed/index.html)
 
 <small>2025-09-08 · University of Rostock 🇩🇪 ([Women Playwrights in Digital Corpora: A DraCor Hackathon](https://www.germanistik.uni-rostock.de/en/forschung/digital-humanities/rosdh/events/detail-view/n/women-playwrights-in-digital-corpora-a-dracor-hackathon-283694/))</small><br />
 [Battle of the Plays World Championship 2026](https://lehkost.github.io/slides/2026-09-08-rostock-battle/index.html)
