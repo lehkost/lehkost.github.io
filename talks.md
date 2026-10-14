@@ -5,6 +5,11 @@ title: Talks/Slides
 
 Invited talks, conference, workshop slides, introductions.
 
+### 2027
+
+<small>2027-01-04 · Freie Universität Berlin 🇩🇪 ([GiK](https://www.fu-berlin.de/studium/studienangebot/grundstaendige/geisteswissenschaften-im-interdisziplinaeren-kontext/index.html)-Vorlesungsreihe »Einführung in das geisteswissenschaftliche Arbeiten und Schreiben«)</small><br />
+Praxis der Geisteswissenschaften: ›Recherche‹ (aktualisierter Vortrag vom vorletzten Jahr)
+
 ### 2026
 
 <small>2026-10-30 · Freie Universität Berlin 🇩🇪 ([Echoes of Intelligence – The Critical AI Workshop](https://www.fu-berlin.de/en/sites/echo/connect1/_termine_connect/20261028_echoes_of_intelligence.html))</small><br />

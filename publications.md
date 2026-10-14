@@ -124,24 +124,24 @@ title: Publications
 -   Jonas Rohe, Viktor J. Illmer, Lisa Poggel, Frank Fischer: **Wikipedia as an
     Echo Chamber of Canonicity: 1001 Books You Must Read Before You Die.** In:
     DH2025: »Accessibility and Citizenship«. 14--18 July 2025. Universidade
-    NOVA de Lisboa.
+    NOVA de Lisboa. Book of Abstracts, pp. 463–467.
     ([doi:10.5281/zenodo.17736224](https://doi.org/10.5281/zenodo.17736224))
 -   Sandra Balck, Janis Dähne, Fabian Etling, Frank Fischer, Steffen Frenzel,
     Brigitte Grote, Sascha Hesse, Paul Molitor, Marcus Pöckelmann, Jörg Ritter,
-    Yashee Singh, Manfred Stede: **[Collation of Multilingual Versions of a Text:
-    Necessity, Approach,
-    Challenges.](https://gitlab.informatik.uni-halle.de/poeckelm/public/-/raw/master/publications/DH2025_abstract.pdf)**
-    In: DH2025: »Accessibility and Citizenship«. 14--18 July 2025.
-    Universidade NOVA de Lisboa.
+    Yashee Singh, Manfred Stede: **Collation of Multilingual Versions of a Text:
+    Necessity, Approach, Challenges.** In: DH2025: »Accessibility and Citizenship«.
+    14--18 July 2025. Universidade NOVA de Lisboa. Book of Abstracts, pp. 412–416.
+    ([doi:10.5281/zenodo.19494802](https://doi.org/10.5281/zenodo.19494802))
 -   Henny Sluyter-Gäthje, Ingo Börner, Peer Trilcke, Evgeniya Ustinova,
     Frank Fischer, Carsten Milling: **Towards Modularised Open Infrastructures:
     Enhancing Research Publications in Digital Humanities – »Detecting Small
     Worlds« as an Example.** In: DH2025: »Accessibility and Citizenship«.
-    14--18 July 2025. Universidade NOVA de Lisboa.
+    14--18 July 2025. Universidade NOVA de Lisboa. Book of Abstracts, pp. 1087–1090.
     ([doi:10.5281/zenodo.18183628](https://doi.org/10.5281/zenodo.18183628))
 -   Jonah Lubin, Frank Fischer: **Introducing iberz, a Database of Yiddish
     Translations.** In: DH2025: »Accessibility and Citizenship«. 14--18 July 2025.
-    Universidade NOVA de Lisboa.
+    Universidade NOVA de Lisboa. Book of Abstracts, pp. 915–918.
+    ([doi:10.5281/zenodo.19494802](https://doi.org/10.5281/zenodo.19494802))
 -   Viktor J. Illmer, Frank Fischer, Mark Schwindt, Jonas Rohe: **»999 und noch
     etliche \[mehr\]«. Georg Nikolaus Bärmanns »Würfel-Almanach« von 1829 als
     Web-App.** In: DHd2025: »Under Construction«. 3–7 March 2025. Book of
