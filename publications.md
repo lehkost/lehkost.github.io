@@ -53,6 +53,25 @@ title: Publications
 
 ### Peer-Reviewed Papers and Articles for Edited Volumes
 
+#### Forthcoming
+
+-   Frank Fischer, Andreas Dorrer: **Weltkriegsdramen digital.**
+    In: DHd2027: »Mind the gap! – Wissen, Unsicherheit und Verantwortung«.
+    1–5 March 2027. Book of Abstracts. Marburg University.
+-   Ashley Lau, Marc Altmann, Jonah Lubin, Frank Fischer:
+    **Kanon durch Abstimmung.**
+    In: DHd2027: »Mind the gap! – Wissen, Unsicherheit und Verantwortung«.
+    1–5 March 2027. Book of Abstracts. Marburg University.
+-   Julia Jennifer Beine, Carsten Milling, Lisa Cerrato, Frank Fischer:
+    **Perseus meets DraCor: Adapting Greek Drama from Perseus for DraCor.**
+    In: DHd2027: »Mind the gap! – Wissen, Unsicherheit und Verantwortung«.
+    1–5 March 2027. Book of Abstracts. Marburg University.
+-   Laura Untner, Marie-Christine Boucher, Nils Kellner, Jana-Katharina
+    Mende, Frank Fischer, Maria Hinzmann, Julia Nantke, Aleksej Tikhonov:
+    **Closing the Gap: Endlich mal ein komparatistisches Panel!**
+    In: DHd2027: »Mind the gap! – Wissen, Unsicherheit und Verantwortung«.
+    1–5 March 2027. Book of Abstracts. Marburg University.
+
 #### 2026
 
 -   Frank Fischer, Yashee Singh, Janis Dähne, Sascha Heße, Paul Molitor,

@@ -3,11 +3,12 @@ layout: page
 title: Frank Fischer
 ---
 
-Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](https://www.geisteswissenschaften.fu-berlin.de/we02/institut/mitarbeiter/Professoren/fischerf/index.html))
+Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](https://fu-berlin.de/xb1qmd3))
 
 ### Additional Affiliations
 * Cluster of Excellence 2020 »Temporal Communities: Doing Literature in a Global Perspective« ([homepage](https://www.temporal-communities.de/people/fischer/index.html)) (PI)
 * [Friedrich Schlegel Graduiertenschule für literaturwissenschaftliche Studien](https://www.geisteswissenschaften.fu-berlin.de/friedrichschlegel/personen/PI/index.html) (PI)
+* Board of Directors of the [Ada Lovelace Center for Digital Humanities (ADA)](https://www.ada.fu-berlin.de/)
 * Official representative for Open Science of Freie Universität Berlin
 
 ### Research Interests
@@ -15,7 +16,7 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 * 17th–21st Century Literature
 * World Literature
 * European Drama
-* Canon Research
+* Digital Canon Studies
 * Network Analysis
 * Linked Open Data
 * AI and the Humanities
