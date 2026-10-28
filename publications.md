@@ -55,11 +55,13 @@ title: Publications
 
 #### Forthcoming
 
--   Frank Fischer, Andreas Dorrer: **Weltkriegsdramen digital.**
+-   Frank Fischer, Andreas Dorrer: **Weltkriegsdramen digital.
+    Von der Bibliografie zum nachnutzbaren Datensatz.**
     In: DHd2027: »Mind the gap! – Wissen, Unsicherheit und Verantwortung«.
     1–5 March 2027. Book of Abstracts. Marburg University.
 -   Ashley Lau, Marc Altmann, Jonah Lubin, Frank Fischer:
-    **Kanon durch Abstimmung.**
+    **Kanon durch Abstimmung. Literarische Bestenlisten und die Rolle
+    von Co-Voting-Communitys.**
     In: DHd2027: »Mind the gap! – Wissen, Unsicherheit und Verantwortung«.
     1–5 March 2027. Book of Abstracts. Marburg University.
 -   Julia Jennifer Beine, Carsten Milling, Lisa Cerrato, Frank Fischer:
