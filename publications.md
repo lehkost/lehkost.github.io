@@ -77,7 +77,7 @@ title: Publications
 #### 2026
 
 -   Dîlan Canan Çakir, Viktor J. Illmer, Frank Fischer:
-    [May Ayim in der Wikipedia. Digitale Präsenz unter den Bedingungen verteilter Kuratierung.](https://muse.jhu.edu/article/1004419)
+    **[May Ayim in der Wikipedia. Digitale Präsenz unter den Bedingungen verteilter Kuratierung.](https://muse.jhu.edu/article/1004419)**
     \[May Ayim in Wikipedia: Digital Presence under the Conditions of Distributed Curation.\]
     In: Monatshefte. Vol. 118, no. 3 (2026), pp. 404–424.
     ([doi:10.3368/m.118.3.404](https://doi.org/10.3368/m.118.3.404))

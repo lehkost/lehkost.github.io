@@ -63,6 +63,7 @@ Professor of **Digital Humanities** at Freie Universität Berlin ([homepage](htt
 * Mastodon: <a rel="me" href="https://chaos.social/@umblaetterer">@umblaetterer@chaos.social</a>
 * Bluesky: [@umblaetterer.bsky.social](https://bsky.app/profile/umblaetterer.bsky.social)
 * dblp: [13/3984-5](https://dblp.org/pid/13/3984-5)
+* HAL: [frank-fischer](https://hal.science/search/index?q=authIdHal_s:frank-fischer)
 * Index of DH Conferences: [authors/2614](https://dh-abstracts.library.virginia.edu/authors/2614)
 * OpenAlex: [A5101437756](https://openalex.org/authors/A5101437756)
 * [Google Scholar](https://scholar.google.com/citations?user=Rr4N3OwAAAAJ)

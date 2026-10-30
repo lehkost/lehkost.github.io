@@ -13,7 +13,7 @@ Praxis der Geisteswissenschaften: ›Recherche‹ (aktualisierter Vortrag vom vo
 ### 2026
 
 <small>2026-10-30 · Freie Universität Berlin 🇩🇪 ([Echoes of Intelligence – The Critical AI Workshop](https://www.fu-berlin.de/en/sites/echo/connect1/_termine_connect/20261028_echoes_of_intelligence.html))</small><br />
-»Nur von Menschen verfasste Originalbeiträge«: KI in Journalismus und Öffentlichkeitsarbeit
+[»Nur von Menschen verfasste Originalbeiträge«: KI in Journalismus und Öffentlichkeitsarbeit](https://lehkost.github.io/slides/2026-10-30-echoes/index.html)
 
 <small>2026-09-22 · Freie Universität Berlin 🇩🇪 ([Beyond the Book: Digital Research, Presentation, and Sustainability](https://closingthegap.github.io/workshop/))</small><br />
 [Sustainability of Digital Scholarship](https://lehkost.github.io/slides/2026-09-22-beyond-the-book/index.html)
